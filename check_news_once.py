@@ -1,8 +1,10 @@
 import hashlib
 import json
 import os
+import smtplib
 import sys
 from datetime import datetime, timezone
+from email.message import EmailMessage
 from pathlib import Path
 from typing import Dict, List, Any
 
@@ -141,6 +143,49 @@ def telegram_send(token: str, chat_id: str, text: str) -> None:
     response.raise_for_status()
 
 
+def email_configured() -> bool:
+    required = ["SMTP_HOST", "SMTP_USERNAME", "SMTP_PASSWORD", "EMAIL_TO"]
+    return all(os.getenv(name, "").strip() for name in required)
+
+
+def email_send(subject: str, body: str) -> None:
+    smtp_host = os.getenv("SMTP_HOST", "").strip()
+    smtp_port = int(os.getenv("SMTP_PORT", "587").strip() or "587")
+    smtp_username = os.getenv("SMTP_USERNAME", "").strip()
+    smtp_password = os.getenv("SMTP_PASSWORD", "").strip()
+    email_from = os.getenv("EMAIL_FROM", smtp_username).strip() or smtp_username
+    email_to = os.getenv("EMAIL_TO", "").strip()
+
+    if not email_configured():
+        raise RuntimeError(
+            "Configurazione email incompleta. Servono SMTP_HOST, SMTP_USERNAME, SMTP_PASSWORD e EMAIL_TO."
+        )
+
+    message = EmailMessage()
+    message["From"] = email_from
+    message["To"] = email_to
+    message["Subject"] = subject
+    message.set_content(body)
+
+    with smtplib.SMTP(smtp_host, smtp_port, timeout=TIMEOUT_SECONDS) as server:
+        server.ehlo()
+        server.starttls()
+        server.ehlo()
+        server.login(smtp_username, smtp_password)
+        server.send_message(message)
+
+
+def notify(token: str, chat_id: str, item: Dict[str, str]) -> None:
+    message = build_message(item)
+
+    if token and chat_id:
+        telegram_send(token, chat_id, message)
+
+    if email_configured():
+        subject = f"Nuova notizia in evidenza - {item['site_name']}"
+        email_send(subject, message)
+
+
 def build_message(item: Dict[str, str]) -> str:
     date_line = f"\nData: {item['date']}" if item.get("date") else ""
     return (
@@ -157,8 +202,15 @@ def main() -> int:
     chat_id = os.getenv("TELEGRAM_CHAT_ID", "").strip()
     send_on_first_run = env_bool("SEND_ON_FIRST_RUN", False)
 
-    if not token or not chat_id:
-        print("ERRORE: imposta TELEGRAM_BOT_TOKEN e TELEGRAM_CHAT_ID nei Secrets di GitHub.")
+    telegram_configured = bool(token and chat_id)
+    mail_configured = email_configured()
+
+    if not telegram_configured and not mail_configured:
+        print(
+            "ERRORE: configura Telegram oppure l'email nei Secrets di GitHub. "
+            "Per Telegram servono TELEGRAM_BOT_TOKEN e TELEGRAM_CHAT_ID. "
+            "Per email servono SMTP_HOST, SMTP_USERNAME, SMTP_PASSWORD e EMAIL_TO."
+        )
         return 2
 
     state = load_state()
@@ -190,7 +242,7 @@ def main() -> int:
         if should_notify:
             # Invio dal più vecchio al più nuovo per leggere le notifiche in ordine sensato.
             for item in reversed(new_items):
-                telegram_send(token, chat_id, build_message(item))
+                notify(token, chat_id, item)
                 notifications_sent += 1
                 print(f"Notifica inviata: {item['title']}")
         elif new_items:
