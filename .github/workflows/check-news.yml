@@ -1,12 +1,17 @@
 name: Controlla notizie in evidenza
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"
   workflow_dispatch:
+  schedule:
+    # Ogni 30 minuti. GitHub usa l'orario UTC.
+    - cron: "*/30 * * * *"
 
 permissions:
   contents: write
+
+concurrency:
+  group: telegram-notizie-istruzione
+  cancel-in-progress: false
 
 jobs:
   check-news:
@@ -15,25 +20,39 @@ jobs:
     steps:
       - name: Scarica repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
-      - name: Installa Python
+      - name: Prepara Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.12"
+          cache: "pip"
 
       - name: Installa dipendenze
         run: pip install -r requirements.txt
 
-      - name: Controlla nuove notizie
+      - name: Controlla notizie e invia notifiche
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          SEND_ON_FIRST_RUN: "false"
         run: python check_news_once.py
 
-      - name: Salva archivio notizie viste
+      - name: Salva storico notizie
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add seen_news.json
-          git diff --cached --quiet || git commit -m "Aggiorna notizie viste"
-          git push
+          if git diff --quiet seen_news.json; then
+            echo "Nessuna modifica allo storico."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add seen_news.json
+            git commit -m "Aggiorna storico notizie"
+            git push
+          fi
