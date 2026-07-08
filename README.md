@@ -1,187 +1,113 @@
-# Bot Telegram - Notizie in evidenza Istruzione ER
+# Bot notizie in evidenza - Telegram + Email
 
-Questo progetto controlla automaticamente le sezioni **Notizie in evidenza** di:
+Questo progetto controlla periodicamente le sezioni **Notizie in evidenza** di:
 
 - https://mo.istruzioneer.gov.it/
 - https://www.istruzioneer.gov.it/
 
-Quando trova una nuova notizia, manda una notifica Telegram.
+Quando trova una nuova notizia, può inviare una notifica su Telegram, via email, oppure entrambe.
 
-La versione è pensata per **GitHub Actions**, quindi funziona anche se il PC è spento.
+## Come funziona su GitHub Actions
 
----
+Il file `.github/workflows/check-news.yml` avvia il controllo ogni 30 minuti.
 
-## 1. Crea il bot Telegram
+Il file `seen_news.json` salva le notizie già viste, così il bot non manda sempre le stesse notifiche.
 
-1. Apri Telegram.
-2. Cerca `@BotFather`.
-3. Scrivi `/newbot`.
-4. Scegli un nome, per esempio `Notizie Istruzione`.
-5. Scegli uno username che finisca con `bot`, per esempio `notizie_istruzione_saverio_bot`.
-6. Copia il token che BotFather ti dà.
+La prima esecuzione, di default, memorizza le notizie già presenti senza inviarle. Dalla seconda esecuzione in poi invia solo le novità.
 
-Il token è simile a questo:
+## File inclusi
 
-```text
-123456789:ABCDEF...
-```
+- `check_news_once.py` - controlla le notizie e invia notifiche
+- `seen_news.json` - archivio delle notizie già viste
+- `requirements.txt` - librerie Python necessarie
+- `.github/workflows/check-news.yml` - automazione GitHub Actions
+- `.env.example` - esempio di configurazione locale
+- `get_chat_id.py` - utile per trovare il chat ID Telegram
 
----
+## Secrets GitHub per Telegram
 
-## 2. Trova il tuo TELEGRAM_CHAT_ID
+Nel repository GitHub vai su:
 
-Sul PC puoi usare il file `get_chat_id.py`.
+`Settings` → `Secrets and variables` → `Actions` → `New repository secret`
 
-### Metodo semplice da terminale
-
-Apri la cartella del progetto e lancia:
-
-```bash
-pip install -r requirements.txt
-```
-
-Poi crea un file `.env` copiando `.env.example` e inserisci il token:
-
-```env
-TELEGRAM_BOT_TOKEN=il_token_del_bot
-TELEGRAM_CHAT_ID=
-SEND_ON_FIRST_RUN=false
-```
-
-Ora esegui:
-
-```bash
-python get_chat_id.py
-```
-
-Apri Telegram, cerca il bot che hai creato e scrivigli:
-
-```text
-/start
-```
-
-Il programma ti mostrerà una riga simile:
-
-```env
-TELEGRAM_CHAT_ID=123456789
-```
-
-Copia quel numero.
-
----
-
-## 3. Crea il repository GitHub
-
-1. Vai su GitHub.
-2. Crea un nuovo repository, meglio **privato**.
-3. Carica tutti i file di questa cartella nel repository, compresa la cartella nascosta `.github`.
-
-La struttura deve essere così:
-
-```text
-.github/workflows/check-news.yml
-check_news_once.py
-get_chat_id.py
-requirements.txt
-seen_news.json
-README.md
-```
-
----
-
-## 4. Aggiungi i Secrets su GitHub
-
-Nel repository vai su:
-
-```text
-Settings → Secrets and variables → Actions → New repository secret
-```
-
-Crea questi due secrets:
+Crea questi secrets:
 
 ```text
 TELEGRAM_BOT_TOKEN
-```
-
-con dentro il token del bot.
-
-Poi:
-
-```text
 TELEGRAM_CHAT_ID
 ```
 
-con dentro il tuo chat ID.
+Se vuoi usare solo email, puoi anche non creare questi due secrets.
 
----
+## Secrets GitHub per Email
 
-## 5. Attiva GitHub Actions
-
-Vai nella scheda:
+Per ricevere anche le email crea questi secrets:
 
 ```text
-Actions
+SMTP_HOST
+SMTP_PORT
+SMTP_USERNAME
+SMTP_PASSWORD
+EMAIL_FROM
+EMAIL_TO
 ```
 
-Se GitHub te lo chiede, abilita i workflow.
-
-Poi apri il workflow:
+Esempio con Gmail:
 
 ```text
-Controlla notizie in evidenza
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USERNAME=latuaemail@gmail.com
+SMTP_PASSWORD=la_password_per_app_di_google
+EMAIL_FROM=latuaemail@gmail.com
+EMAIL_TO=email_dove_vuoi_ricevere@example.com
 ```
 
-e clicca:
+Esempio generico con Outlook/Hotmail/Live:
 
 ```text
-Run workflow
+SMTP_HOST=smtp.office365.com
+SMTP_PORT=587
+SMTP_USERNAME=latuaemail@outlook.com
+SMTP_PASSWORD=password_o_password_per_app
+EMAIL_FROM=latuaemail@outlook.com
+EMAIL_TO=email_dove_vuoi_ricevere@example.com
 ```
 
-La prima esecuzione memorizza le notizie già presenti senza notificare, così non ti arrivano subito messaggi vecchi.
+Nota: per Gmail spesso serve una **password per app** e non la password normale dell'account. L'account Google deve avere la verifica in due passaggi attiva. Per Outlook/Live può essere necessaria una password per app se hai l'autenticazione a due fattori attiva.
 
-Dopo, il controllo parte automaticamente ogni 30 minuti.
+## Come caricare il workflow se Windows nasconde la cartella `.github`
 
----
+Se GitHub non ti carica la cartella `.github`, fai così:
 
-## 6. Vuoi ricevere anche le notizie già presenti alla prima esecuzione?
-
-Apri il file:
+1. Apri il repository su GitHub.
+2. Clicca `Add file` → `Create new file`.
+3. Come nome file scrivi esattamente:
 
 ```text
 .github/workflows/check-news.yml
 ```
 
-Cambia questa riga:
+4. Incolla il contenuto del file `check-news.yml` che trovi nello zip.
+5. Clicca `Commit changes`.
 
-```yaml
-SEND_ON_FIRST_RUN: "false"
-```
+GitHub creerà da solo la cartella nascosta corretta.
 
-in:
+## Avvio manuale
 
-```yaml
-SEND_ON_FIRST_RUN: "true"
-```
+Vai su:
 
-Poi fai commit.
+`Actions` → `Controlla notizie in evidenza` → `Run workflow`
 
----
+La prima esecuzione serve soprattutto a inizializzare lo storico.
 
-## Note importanti
+## Se non arrivano notifiche
 
-- GitHub Actions usa l'orario UTC.
-- Il controllo è impostato ogni 30 minuti.
-- Lo storico delle notizie già viste viene salvato in `seen_news.json`.
-- Non inserire mai il token Telegram nei file pubblici del repository.
-- Se il repository è pubblico, usa comunque sempre i Secrets.
+Controlla questi punti:
 
----
+1. In `Actions`, apri l'ultima esecuzione e guarda se ci sono errori rossi.
+2. Verifica che i secrets siano scritti esattamente con questi nomi.
+3. Se usi Gmail, verifica di aver inserito una password per app, non la password normale.
+4. Se usi solo email, assicurati che siano presenti almeno `SMTP_HOST`, `SMTP_USERNAME`, `SMTP_PASSWORD` ed `EMAIL_TO`.
+5. Se usi Telegram, assicurati che siano presenti `TELEGRAM_BOT_TOKEN` e `TELEGRAM_CHAT_ID`.
 
-## Test locale rapido
-
-Con `.env` compilato, puoi provare anche dal PC:
-
-```bash
-pip install -r requirements.txt
-python check_news_once.py
-```
