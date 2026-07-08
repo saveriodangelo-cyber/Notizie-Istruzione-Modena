@@ -1,35 +1,38 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-08T10:46:10+00:00"
+    "last_checked_at_utc": "2026-07-08T16:08:22+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "8 Luglio 2026",
+        "id": "efb839ef946e0c3d",
+        "title": "Pubblicazione Sedi Vacanti e Disponibili-Docenti ogni ordine e grado a.s.26/27",
+        "url": "https://mo.istruzioneer.gov.it/2026/07/08/pubblicazione-sedi-vacanti-e-disponibili-docenti-ogni-ordine-e-grado-a-s-26-27/"
+      },
+      {
+        "date": "8 Luglio 2026",
+        "id": "77a5a59aa84d4c05",
+        "title": "O.M. n. 27/2026: Apertura istanze procedure attribuzione contratti t.d.",
+        "url": "https://mo.istruzioneer.gov.it/2026/07/08/o-m-n-27-2026-apertura-istanze-procedure-attribuzione-contratti-t-d/"
+      },
+      {
+        "date": "8 Luglio 2026 8 Luglio 2026",
+        "id": "4c04f4f50c436483",
+        "title": "D.D.G. 2938/2025: GM ADEE – rettifica",
+        "url": "https://mo.istruzioneer.gov.it/2026/07/08/d-d-g-2938-2025-gm-adee-rettifica/"
+      },
       {
         "date": "7 Luglio 2026",
         "id": "d5bd540d4cad09a0",
         "title": "D.D.G. 2938 e 2939/2025: GM AAAA, EEEE, ADEE, AM2B, AM12 e ADSS – rettifiche",
         "url": "https://mo.istruzioneer.gov.it/2026/07/07/d-d-g-2938-e-2939-2025-gm-aaaa-eeee-adee-am2b-am12-e-adss-rettifiche/"
-      },
-      {
-        "date": "7 Luglio 2026",
-        "id": "a7a1e196abe015ab",
-        "title": "D.D.G. 2939/2025: GM B022- Emilia Romagna",
-        "url": "https://mo.istruzioneer.gov.it/2026/07/07/d-d-g-2939-2025-gm-b022-emilia-romagna/"
-      },
-      {
-        "date": "7 Luglio 2026",
-        "id": "c615931ffa28595c",
-        "title": "D.D.G. 2939/2025: GM AS01 – Emilia Romagna",
-        "url": "https://mo.istruzioneer.gov.it/2026/07/07/d-d-g-2939-2025-gm-as01-emilia-romagna/"
-      },
-      {
-        "date": "3 Luglio 2026",
-        "id": "8037429c48badd33",
-        "title": "Part time a.s. 2026/27 Docenti I e II Ciclo d’Istruzione. Rettifiche.",
-        "url": "https://mo.istruzioneer.gov.it/2026/07/03/part-time-a-s-2026-27-docenti-i-e-ii-ciclo-distruzione-rettifiche/"
       }
     ],
     "seen_ids": [
+      "efb839ef946e0c3d",
+      "77a5a59aa84d4c05",
+      "4c04f4f50c436483",
       "d5bd540d4cad09a0",
       "a7a1e196abe015ab",
       "c615931ffa28595c",
@@ -38,6 +41,12 @@
   },
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "8 Luglio 2026",
+        "id": "b39c9a8a1e976d90",
+        "title": "O.M. n. 27/2026: Apertura istanze procedure attribuzione contratti t.d.",
+        "url": "https://www.istruzioneer.gov.it/2026/07/08/o-m-n-27-2026-apertura-istanze-procedure-attribuzione-contratti-t-d/"
+      },
       {
         "date": "7 Luglio 2026",
         "id": "356bdbbab7fa53e4",
@@ -85,15 +94,10 @@
         "id": "90d9aa38a8a5f7b9",
         "title": "D.D.G. 3059/2024: Concorso docenti scuola secondaria– GM AM2C – integrazione",
         "url": "https://www.istruzioneer.gov.it/2026/06/25/d-d-g-3059-2024-concorso-docenti-scuola-secondaria-gm-am2c-integrazione/"
-      },
-      {
-        "date": "25 Giugno 2026",
-        "id": "6f0d7986c5f41557",
-        "title": "D.D.G. 3059/2024: Concorso docenti scuola secondaria– GM A027 – integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/06/25/d-d-g-3059-2024-concorso-docenti-scuola-secondaria-gm-a027-integrazione/"
       }
     ],
     "seen_ids": [
+      "b39c9a8a1e976d90",
       "356bdbbab7fa53e4",
       "663cd7c7016660c1",
       "4380402d0162edd5",
