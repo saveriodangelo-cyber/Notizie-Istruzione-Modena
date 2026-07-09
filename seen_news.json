@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-09T11:45:11+00:00"
+    "last_checked_at_utc": "2026-07-09T14:28:42+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -41,6 +41,12 @@
   },
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "9 Luglio 2026",
+        "id": "0038bf57c57effb6",
+        "title": "PUBBLICAZIONE STATO DELLE NOMINE DALLE GRADUATORIE DEI CONCORSI – Rettifica",
+        "url": "https://www.istruzioneer.gov.it/2026/07/09/pubblicazione-stato-delle-nomine-dalle-graduatorie-dei-concorsi-rettifica-3/"
+      },
       {
         "date": "8 Luglio 2026",
         "id": "b39c9a8a1e976d90",
@@ -88,15 +94,10 @@
         "id": "71c4edaa11a73ecf",
         "title": "Fasce di complessità delle istituzioni scolastiche – a.s. 2026/2027",
         "url": "https://www.istruzioneer.gov.it/2026/06/26/fasce-di-complessita-delle-istituzioni-scolastiche-a-s-2026-2027/"
-      },
-      {
-        "date": "26 Giugno 2026 26 Giugno 2026",
-        "id": "4838c68560b24ac8",
-        "title": "Individuazione Poli ad orientamento artistico e performativo DM16/2022-a.s.26/27",
-        "url": "https://www.istruzioneer.gov.it/2026/06/26/individuazione-poli-ad-orientamento-artistico-e-performativo-dm16-2022-a-s-26-27/"
       }
     ],
     "seen_ids": [
+      "0038bf57c57effb6",
       "b39c9a8a1e976d90",
       "f8631e509b3253ad",
       "356bdbbab7fa53e4",
