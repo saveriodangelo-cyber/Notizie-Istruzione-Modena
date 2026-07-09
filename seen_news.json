@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-09T05:28:25+00:00"
+    "last_checked_at_utc": "2026-07-09T09:01:35+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -48,6 +48,12 @@
         "url": "https://www.istruzioneer.gov.it/2026/07/08/o-m-n-27-2026-apertura-istanze-procedure-attribuzione-contratti-t-d/"
       },
       {
+        "date": "8 Luglio 2026 9 Luglio 2026",
+        "id": "f8631e509b3253ad",
+        "title": "D.D. 2575/2023: Concorso docenti scuola secondaria: Graduatoria AG56- Marche",
+        "url": "https://www.istruzioneer.gov.it/2026/07/08/https-www-istruzioneer-gov-it-wp-content-uploads-2026-07-m_pi-aoodrer-registro-decretir-0000628-08-07-2026-1-pdf/"
+      },
+      {
         "date": "7 Luglio 2026",
         "id": "356bdbbab7fa53e4",
         "title": "Indicazioni operative per l’a.s. 2026/2027-Alunni con cittadinanza non italiana",
@@ -88,16 +94,11 @@
         "id": "4838c68560b24ac8",
         "title": "Individuazione Poli ad orientamento artistico e performativo DM16/2022-a.s.26/27",
         "url": "https://www.istruzioneer.gov.it/2026/06/26/individuazione-poli-ad-orientamento-artistico-e-performativo-dm16-2022-a-s-26-27/"
-      },
-      {
-        "date": "25 Giugno 2026",
-        "id": "90d9aa38a8a5f7b9",
-        "title": "D.D.G. 3059/2024: Concorso docenti scuola secondaria– GM AM2C – integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/06/25/d-d-g-3059-2024-concorso-docenti-scuola-secondaria-gm-am2c-integrazione/"
       }
     ],
     "seen_ids": [
       "b39c9a8a1e976d90",
+      "f8631e509b3253ad",
       "356bdbbab7fa53e4",
       "663cd7c7016660c1",
       "4380402d0162edd5",
