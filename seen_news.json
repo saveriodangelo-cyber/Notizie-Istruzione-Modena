@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-10T12:11:51+00:00"
+    "last_checked_at_utc": "2026-07-10T13:11:37+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -42,6 +42,24 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "10 Luglio 2026",
+        "id": "b25343f70bbeeb09",
+        "title": "Immissioni in Ruolo a.s. 2026/2027 – GAE",
+        "url": "https://www.istruzioneer.gov.it/2026/07/10/immissioni-in-ruolo-a-s-2026-2027-gae/"
+      },
+      {
+        "date": "10 Luglio 2026",
+        "id": "ed9412a78b340703",
+        "title": "Immissioni in Ruolo a.s. 2026/2027 – Graduatorie di Merito",
+        "url": "https://www.istruzioneer.gov.it/2026/07/10/immissioni-in-ruolo-a-s-2026-2027-graduatorie-di-merito/"
+      },
+      {
+        "date": "10 Luglio 2026",
+        "id": "13b4161566bdc02e",
+        "title": "Contingente posti comuni e di sostegno – immissioni in ruolo a.s. 2026/27",
+        "url": "https://www.istruzioneer.gov.it/2026/07/10/contingente-posti-comuni-e-di-sostegno-immissioni-in-ruolo-a-s-2026-27/"
+      },
+      {
         "date": "9 Luglio 2026",
         "id": "0038bf57c57effb6",
         "title": "PUBBLICAZIONE STATO DELLE NOMINE DALLE GRADUATORIE DEI CONCORSI – Rettifica",
@@ -76,27 +94,12 @@
         "id": "4380402d0162edd5",
         "title": "Comunicato scomparsa Ispettore Raffaele Iosa",
         "url": "https://www.istruzioneer.gov.it/2026/06/30/comunicato-scomparsa-ispettore-raffaele-iosa/"
-      },
-      {
-        "date": "29 Giugno 2026",
-        "id": "8d2a007c5e453b38",
-        "title": "D.D.G. 1081/2022 – A048 – inserimento in graduatoria",
-        "url": "https://www.istruzioneer.gov.it/2026/06/29/d-d-g-1081-2022-a048-inserimento-in-graduatoria/"
-      },
-      {
-        "date": "29 Giugno 2026",
-        "id": "873b2c9654ecbd29",
-        "title": "D.D.G. 3059/2024 – ADMM – inserimento in graduatoria",
-        "url": "https://www.istruzioneer.gov.it/2026/06/29/d-d-g-3059-2024-admm-inserimento-in-graduatoria/"
-      },
-      {
-        "date": "26 Giugno 2026",
-        "id": "71c4edaa11a73ecf",
-        "title": "Fasce di complessità delle istituzioni scolastiche – a.s. 2026/2027",
-        "url": "https://www.istruzioneer.gov.it/2026/06/26/fasce-di-complessita-delle-istituzioni-scolastiche-a-s-2026-2027/"
       }
     ],
     "seen_ids": [
+      "b25343f70bbeeb09",
+      "ed9412a78b340703",
+      "13b4161566bdc02e",
       "0038bf57c57effb6",
       "b39c9a8a1e976d90",
       "f8631e509b3253ad",
