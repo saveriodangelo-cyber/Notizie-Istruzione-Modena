@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Ogni 30 minuti. GitHub usa l'orario UTC.
-    - cron: "*/30 * * * *"
+    - cron: "17,47,53,24,36 * * * *"
 
 permissions:
   contents: write
