@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-14T15:10:05+00:00"
+    "last_checked_at_utc": "2026-07-14T16:40:16+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -44,6 +44,12 @@
   },
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "14 Luglio 2026",
+        "id": "1fa8d241075bef31",
+        "title": "Immissioni in ruolo personale docente a.s. 2026/27 – AVVISO ESITO PROVINCE",
+        "url": "https://www.istruzioneer.gov.it/2026/07/14/immissioni-in-ruolo-personale-docente-a-s-2026-27-avviso-esito-province/"
+      },
       {
         "date": "14 Luglio 2026",
         "id": "54e0c079c731fd83",
@@ -91,15 +97,10 @@
         "id": "f8631e509b3253ad",
         "title": "D.D. 2575/2023: Concorso docenti scuola secondaria: Graduatoria AG56- Marche",
         "url": "https://www.istruzioneer.gov.it/2026/07/08/https-www-istruzioneer-gov-it-wp-content-uploads-2026-07-m_pi-aoodrer-registro-decretir-0000628-08-07-2026-1-pdf/"
-      },
-      {
-        "date": "7 Luglio 2026",
-        "id": "356bdbbab7fa53e4",
-        "title": "Indicazioni operative per l’a.s. 2026/2027-Alunni con cittadinanza non italiana",
-        "url": "https://www.istruzioneer.gov.it/2026/07/07/indicazioni-operative-per-la-s-2026-2027-alunni-con-cittadinanza-non-italiana/"
       }
     ],
     "seen_ids": [
+      "1fa8d241075bef31",
       "54e0c079c731fd83",
       "ddd728ef1bd40ada",
       "b25343f70bbeeb09",
