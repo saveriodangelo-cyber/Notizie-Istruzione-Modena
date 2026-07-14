@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-14T08:30:11+00:00"
+    "last_checked_at_utc": "2026-07-14T10:21:31+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -43,6 +43,12 @@
   },
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "14 Luglio 2026",
+        "id": "ddd728ef1bd40ada",
+        "title": "Immissioni in Ruolo a.s. 2026/2027 – Graduatorie di Merito – BC02",
+        "url": "https://www.istruzioneer.gov.it/2026/07/14/immissioni-in-ruolo-a-s-2026-2027-graduatorie-di-merito-bc02/"
+      },
       {
         "date": "10 Luglio 2026",
         "id": "b25343f70bbeeb09",
@@ -90,15 +96,10 @@
         "id": "663cd7c7016660c1",
         "title": "PUBBLICAZIONE STATO DELLE NOMINE DALLE GRADUATORIE DEI CONCORSI – Rettifica",
         "url": "https://www.istruzioneer.gov.it/2026/07/02/pubblicazione-stato-delle-nomine-dalle-graduatorie-dei-concorsi-rettifica-2/"
-      },
-      {
-        "date": "30 Giugno 2026 30 Giugno 2026",
-        "id": "4380402d0162edd5",
-        "title": "Comunicato scomparsa Ispettore Raffaele Iosa",
-        "url": "https://www.istruzioneer.gov.it/2026/06/30/comunicato-scomparsa-ispettore-raffaele-iosa/"
       }
     ],
     "seen_ids": [
+      "ddd728ef1bd40ada",
       "b25343f70bbeeb09",
       "ed9412a78b340703",
       "13b4161566bdc02e",
