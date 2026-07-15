@@ -1,9 +1,15 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-15T04:18:41+00:00"
+    "last_checked_at_utc": "2026-07-15T06:34:12+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "15 Luglio 2026",
+        "id": "708f2a2e78f91935",
+        "title": "Premio di Eccellenza Duale 2026_Camera Commercio Italo-Germanica (AHK Italien)",
+        "url": "https://mo.istruzioneer.gov.it/2026/07/15/premio-di-eccellenza-duale-2026_camera-commercio-italo-germanica-ahk-italien/"
+      },
       {
         "date": "14 Luglio 2026 14 Luglio 2026",
         "id": "2e840edd1ecfd030",
@@ -21,15 +27,10 @@
         "id": "22af316f50f9c130",
         "title": "D.D.G. 2939/2025: GM B022- Emilia Romagna – ripubblicazione",
         "url": "https://mo.istruzioneer.gov.it/2026/07/13/d-d-g-2939-2025-gm-b022-emilia-romagna-ripubblicazione/"
-      },
-      {
-        "date": "13 Luglio 2026",
-        "id": "5f1c7feaa20a3eff",
-        "title": "D.D.G. 2939/2025: GM AM30 – Emilia Romagna",
-        "url": "https://mo.istruzioneer.gov.it/2026/07/13/d-d-g-2939-2025-gm-am30-emilia-romagna/"
       }
     ],
     "seen_ids": [
+      "708f2a2e78f91935",
       "2e840edd1ecfd030",
       "7ef11e107ca7ebfd",
       "22af316f50f9c130",
