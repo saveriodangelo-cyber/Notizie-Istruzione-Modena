@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-15T16:06:49+00:00"
+    "last_checked_at_utc": "2026-07-15T17:41:11+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -48,6 +48,12 @@
     "latest_items": [
       {
         "date": "15 Luglio 2026",
+        "id": "61ac4eea5802362e",
+        "title": "Dirigenti Scolastici: conferme e mutamenti di incarico a.s. 2026/2027.",
+        "url": "https://www.istruzioneer.gov.it/2026/07/15/dirigenti-scolastici-conferme-e-mutamenti-di-incarico-a-s-2026-2027/"
+      },
+      {
+        "date": "15 Luglio 2026",
         "id": "ba8c6e22435b3a28",
         "title": "Dirigenti Scolastici: mobilità interregionale in ingresso a.s. 2026/2027.",
         "url": "https://www.istruzioneer.gov.it/2026/07/15/dirigenti-scolastici-mobilita-interregionale-in-ingresso-a-s-2026-2027/"
@@ -93,15 +99,10 @@
         "id": "0038bf57c57effb6",
         "title": "PUBBLICAZIONE STATO DELLE NOMINE DALLE GRADUATORIE DEI CONCORSI – Rettifica",
         "url": "https://www.istruzioneer.gov.it/2026/07/09/pubblicazione-stato-delle-nomine-dalle-graduatorie-dei-concorsi-rettifica-3/"
-      },
-      {
-        "date": "8 Luglio 2026",
-        "id": "b39c9a8a1e976d90",
-        "title": "O.M. n. 27/2026: Apertura istanze procedure attribuzione contratti t.d.",
-        "url": "https://www.istruzioneer.gov.it/2026/07/08/o-m-n-27-2026-apertura-istanze-procedure-attribuzione-contratti-t-d/"
       }
     ],
     "seen_ids": [
+      "61ac4eea5802362e",
       "ba8c6e22435b3a28",
       "1fa8d241075bef31",
       "54e0c079c731fd83",
