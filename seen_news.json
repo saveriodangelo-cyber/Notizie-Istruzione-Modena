@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-15T11:03:13+00:00"
+    "last_checked_at_utc": "2026-07-15T12:45:06+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -46,6 +46,12 @@
   },
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "15 Luglio 2026",
+        "id": "ba8c6e22435b3a28",
+        "title": "Dirigenti Scolastici: mobilità interregionale in ingresso a.s. 2026/2027.",
+        "url": "https://www.istruzioneer.gov.it/2026/07/15/dirigenti-scolastici-mobilita-interregionale-in-ingresso-a-s-2026-2027/"
+      },
       {
         "date": "14 Luglio 2026",
         "id": "1fa8d241075bef31",
@@ -93,15 +99,10 @@
         "id": "b39c9a8a1e976d90",
         "title": "O.M. n. 27/2026: Apertura istanze procedure attribuzione contratti t.d.",
         "url": "https://www.istruzioneer.gov.it/2026/07/08/o-m-n-27-2026-apertura-istanze-procedure-attribuzione-contratti-t-d/"
-      },
-      {
-        "date": "8 Luglio 2026 9 Luglio 2026",
-        "id": "f8631e509b3253ad",
-        "title": "D.D. 2575/2023: Concorso docenti scuola secondaria: Graduatoria AG56- Marche",
-        "url": "https://www.istruzioneer.gov.it/2026/07/08/https-www-istruzioneer-gov-it-wp-content-uploads-2026-07-m_pi-aoodrer-registro-decretir-0000628-08-07-2026-1-pdf/"
       }
     ],
     "seen_ids": [
+      "ba8c6e22435b3a28",
       "1fa8d241075bef31",
       "54e0c079c731fd83",
       "ddd728ef1bd40ada",
