@@ -1,9 +1,15 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-16T11:20:46+00:00"
+    "last_checked_at_utc": "2026-07-16T12:58:07+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "16 Luglio 2026",
+        "id": "6b58cdae2223aaf2",
+        "title": "Rettifica disponibilità per immissioni in ruolo docenti a.s. 2026/27",
+        "url": "https://mo.istruzioneer.gov.it/2026/07/16/rettifica-disponibilita-per-immissioni-in-ruolo-docenti-a-s-2026-27/"
+      },
       {
         "date": "15 Luglio 2026",
         "id": "708f2a2e78f91935",
@@ -21,15 +27,10 @@
         "id": "7ef11e107ca7ebfd",
         "title": "Utilizzazioni e assegnazioni provvisorie a.s. 2026/27-Apertura termini istanze",
         "url": "https://mo.istruzioneer.gov.it/2026/07/14/utilizzazioni-e-assegnazioni-provvisorie-a-s-2026-27-apertura-termini-istanze/"
-      },
-      {
-        "date": "13 Luglio 2026",
-        "id": "22af316f50f9c130",
-        "title": "D.D.G. 2939/2025: GM B022- Emilia Romagna – ripubblicazione",
-        "url": "https://mo.istruzioneer.gov.it/2026/07/13/d-d-g-2939-2025-gm-b022-emilia-romagna-ripubblicazione/"
       }
     ],
     "seen_ids": [
+      "6b58cdae2223aaf2",
       "708f2a2e78f91935",
       "2e840edd1ecfd030",
       "7ef11e107ca7ebfd",
@@ -46,6 +47,24 @@
   },
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "16 Luglio 2026",
+        "id": "fc41710358e01c7a",
+        "title": "Avviso procedura per il conferimento di incarico dirigenziale non generale",
+        "url": "https://www.istruzioneer.gov.it/2026/07/16/avviso-procedura-per-il-conferimento-di-incarico-dirigenziale-non-generale-29/"
+      },
+      {
+        "date": "16 Luglio 2026",
+        "id": "be2dbb666951b212",
+        "title": "Avviso procedura per il conferimento di incarico dirigenziale non generale",
+        "url": "https://www.istruzioneer.gov.it/2026/07/16/avviso-procedura-per-il-conferimento-di-incarico-dirigenziale-non-generale-28/"
+      },
+      {
+        "date": "16 Luglio 2026",
+        "id": "b719a11bab9caf27",
+        "title": "CONTRIBUTI E PROVVIDENZE AL PERSONALE MIM – EVENTI 2025",
+        "url": "https://www.istruzioneer.gov.it/2026/07/16/contributi-e-provvidenze-al-personale-mim-eventi-2025/"
+      },
       {
         "date": "15 Luglio 2026",
         "id": "61ac4eea5802362e",
@@ -81,27 +100,12 @@
         "id": "b25343f70bbeeb09",
         "title": "Immissioni in Ruolo a.s. 2026/2027 – GAE",
         "url": "https://www.istruzioneer.gov.it/2026/07/10/immissioni-in-ruolo-a-s-2026-2027-gae/"
-      },
-      {
-        "date": "10 Luglio 2026 10 Luglio 2026",
-        "id": "ed9412a78b340703",
-        "title": "Immissioni in Ruolo a.s. 2026/2027 – Graduatorie di Merito",
-        "url": "https://www.istruzioneer.gov.it/2026/07/10/immissioni-in-ruolo-a-s-2026-2027-graduatorie-di-merito/"
-      },
-      {
-        "date": "10 Luglio 2026",
-        "id": "13b4161566bdc02e",
-        "title": "Contingente posti comuni e di sostegno – immissioni in ruolo a.s. 2026/27",
-        "url": "https://www.istruzioneer.gov.it/2026/07/10/contingente-posti-comuni-e-di-sostegno-immissioni-in-ruolo-a-s-2026-27/"
-      },
-      {
-        "date": "9 Luglio 2026",
-        "id": "0038bf57c57effb6",
-        "title": "PUBBLICAZIONE STATO DELLE NOMINE DALLE GRADUATORIE DEI CONCORSI – Rettifica",
-        "url": "https://www.istruzioneer.gov.it/2026/07/09/pubblicazione-stato-delle-nomine-dalle-graduatorie-dei-concorsi-rettifica-3/"
       }
     ],
     "seen_ids": [
+      "fc41710358e01c7a",
+      "be2dbb666951b212",
+      "b719a11bab9caf27",
       "61ac4eea5802362e",
       "ba8c6e22435b3a28",
       "1fa8d241075bef31",
