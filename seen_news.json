@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-16T12:58:07+00:00"
+    "last_checked_at_utc": "2026-07-16T15:15:27+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -49,6 +49,24 @@
     "latest_items": [
       {
         "date": "16 Luglio 2026",
+        "id": "b191d9d467309af2",
+        "title": "Immissioni in ruolo personale docente a.s. 2026/27– AVVISO ESITO PROVINCE – BC02",
+        "url": "https://www.istruzioneer.gov.it/2026/07/16/immissioni-in-ruolo-personale-docente-a-s-2026-27-avviso-esito-province-bc02/"
+      },
+      {
+        "date": "16 Luglio 2026",
+        "id": "68abf5f3d8a71c42",
+        "title": "Contingente posti comuni e di sostegno-immissioni in ruolo a.s. 26/27-rettifica",
+        "url": "https://www.istruzioneer.gov.it/2026/07/16/contingente-posti-comuni-e-di-sostegno-immissioni-in-ruolo-a-s-26-27-rettifica/"
+      },
+      {
+        "date": "16 Luglio 2026",
+        "id": "8d912e6539b7aad4",
+        "title": "Dirigenti Scolastici: conferme e mutamenti di incarico a.s. 2026/27 – rettifica.",
+        "url": "https://www.istruzioneer.gov.it/2026/07/16/dirigenti-scolastici-conferme-e-mutamenti-di-incarico-a-s-2026-27-rettifica/"
+      },
+      {
+        "date": "16 Luglio 2026",
         "id": "fc41710358e01c7a",
         "title": "Avviso procedura per il conferimento di incarico dirigenziale non generale",
         "url": "https://www.istruzioneer.gov.it/2026/07/16/avviso-procedura-per-il-conferimento-di-incarico-dirigenziale-non-generale-29/"
@@ -82,27 +100,12 @@
         "id": "1fa8d241075bef31",
         "title": "Immissioni in ruolo personale docente a.s. 2026/27 – AVVISO ESITO PROVINCE",
         "url": "https://www.istruzioneer.gov.it/2026/07/14/immissioni-in-ruolo-personale-docente-a-s-2026-27-avviso-esito-province/"
-      },
-      {
-        "date": "14 Luglio 2026",
-        "id": "54e0c079c731fd83",
-        "title": "Premio di Eccellenza Duale 2026_Camera Commercio Italo-Germanica (AHK Italien)",
-        "url": "https://www.istruzioneer.gov.it/2026/07/14/premio-di-eccellenza-duale-2026_camera-commercio-italo-germanica-ahk-italien/"
-      },
-      {
-        "date": "14 Luglio 2026",
-        "id": "ddd728ef1bd40ada",
-        "title": "Immissioni in Ruolo a.s. 2026/2027 – Graduatorie di Merito – BC02",
-        "url": "https://www.istruzioneer.gov.it/2026/07/14/immissioni-in-ruolo-a-s-2026-2027-graduatorie-di-merito-bc02/"
-      },
-      {
-        "date": "10 Luglio 2026",
-        "id": "b25343f70bbeeb09",
-        "title": "Immissioni in Ruolo a.s. 2026/2027 – GAE",
-        "url": "https://www.istruzioneer.gov.it/2026/07/10/immissioni-in-ruolo-a-s-2026-2027-gae/"
       }
     ],
     "seen_ids": [
+      "b191d9d467309af2",
+      "68abf5f3d8a71c42",
+      "8d912e6539b7aad4",
       "fc41710358e01c7a",
       "be2dbb666951b212",
       "b719a11bab9caf27",
