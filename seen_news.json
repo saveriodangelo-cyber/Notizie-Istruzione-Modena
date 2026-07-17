@@ -1,9 +1,21 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-17T14:19:26+00:00"
+    "last_checked_at_utc": "2026-07-17T15:52:31+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "17 Luglio 2026",
+        "id": "eb7ca36a20f609ec",
+        "title": "Pubblicazione GPS di ogni ordine e grado della provincia di Modena 2026/2028",
+        "url": "https://mo.istruzioneer.gov.it/2026/07/17/pubblicazione-gps-di-ogni-ordine-e-grado-della-provincia-di-modena-2026-2028/"
+      },
+      {
+        "date": "17 Luglio 2026",
+        "id": "e63eaa9cc07d2b72",
+        "title": "GPS 2024/2026 – dispositivo prot. n. 684 del 17 luglio 2026 – esclusioni",
+        "url": "https://mo.istruzioneer.gov.it/2026/07/17/gps-2024-2026-dispositivo-prot-n-684-del-17-luglio-2026-esclusioni/"
+      },
       {
         "date": "17 Luglio 2026 17 Luglio 2026",
         "id": "3b20ee3638e0c39a",
@@ -15,21 +27,11 @@
         "id": "6b58cdae2223aaf2",
         "title": "Rettifica disponibilità per immissioni in ruolo docenti a.s. 2026/27",
         "url": "https://mo.istruzioneer.gov.it/2026/07/16/rettifica-disponibilita-per-immissioni-in-ruolo-docenti-a-s-2026-27/"
-      },
-      {
-        "date": "15 Luglio 2026",
-        "id": "708f2a2e78f91935",
-        "title": "Premio di Eccellenza Duale 2026_Camera Commercio Italo-Germanica (AHK Italien)",
-        "url": "https://mo.istruzioneer.gov.it/2026/07/15/premio-di-eccellenza-duale-2026_camera-commercio-italo-germanica-ahk-italien/"
-      },
-      {
-        "date": "14 Luglio 2026 15 Luglio 2026",
-        "id": "2e840edd1ecfd030",
-        "title": "Ata -Mobilità annuale – Assegnazioni ed Utilizzazioni provvisorie – a.s. 2026-27",
-        "url": "https://mo.istruzioneer.gov.it/2026/07/14/ata-mobilita-annuale-assegnazioni-ed-utilizzazioni-provvisorie-a-s-2026-27/"
       }
     ],
     "seen_ids": [
+      "eb7ca36a20f609ec",
+      "e63eaa9cc07d2b72",
       "3b20ee3638e0c39a",
       "6b58cdae2223aaf2",
       "708f2a2e78f91935",
@@ -48,6 +50,12 @@
   },
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "17 Luglio 2026",
+        "id": "a44a39452dea542a",
+        "title": "Nomine a.s. 2026/27: Dispositivo assegnazione sedi",
+        "url": "https://www.istruzioneer.gov.it/2026/07/17/nomine-a-s-2026-27-dispositivo-assegnazione-sedi/"
+      },
       {
         "date": "17 Luglio 2026 17 Luglio 2026",
         "id": "3fd0ebf367121703",
@@ -95,15 +103,10 @@
         "id": "61ac4eea5802362e",
         "title": "Dirigenti Scolastici: conferme e mutamenti di incarico a.s. 2026/2027.",
         "url": "https://www.istruzioneer.gov.it/2026/07/15/dirigenti-scolastici-conferme-e-mutamenti-di-incarico-a-s-2026-2027/"
-      },
-      {
-        "date": "15 Luglio 2026",
-        "id": "ba8c6e22435b3a28",
-        "title": "Dirigenti Scolastici: mobilità interregionale in ingresso a.s. 2026/2027.",
-        "url": "https://www.istruzioneer.gov.it/2026/07/15/dirigenti-scolastici-mobilita-interregionale-in-ingresso-a-s-2026-2027/"
       }
     ],
     "seen_ids": [
+      "a44a39452dea542a",
       "3fd0ebf367121703",
       "b191d9d467309af2",
       "68abf5f3d8a71c42",
