@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-17T17:09:32+00:00"
+    "last_checked_at_utc": "2026-07-17T18:17:22+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -11,9 +11,9 @@
         "url": "https://mo.istruzioneer.gov.it/2026/07/17/pubblicazione-gps-di-ogni-ordine-e-grado-della-provincia-di-modena-2026-2028/"
       },
       {
-        "date": "17 Luglio 2026",
-        "id": "e63eaa9cc07d2b72",
-        "title": "GPS 2024/2026 – dispositivo prot. n. 684 del 17 luglio 2026 – esclusioni",
+        "date": "17 Luglio 2026 17 Luglio 2026",
+        "id": "13d7dcc6b9b8a805",
+        "title": "GPS 2026/2028 – dispositivo prot. n. 684 del 17 luglio 2026 – esclusioni",
         "url": "https://mo.istruzioneer.gov.it/2026/07/17/gps-2024-2026-dispositivo-prot-n-684-del-17-luglio-2026-esclusioni/"
       },
       {
@@ -31,9 +31,10 @@
     ],
     "seen_ids": [
       "eb7ca36a20f609ec",
-      "e63eaa9cc07d2b72",
+      "13d7dcc6b9b8a805",
       "3b20ee3638e0c39a",
       "6b58cdae2223aaf2",
+      "e63eaa9cc07d2b72",
       "708f2a2e78f91935",
       "2e840edd1ecfd030",
       "7ef11e107ca7ebfd",
