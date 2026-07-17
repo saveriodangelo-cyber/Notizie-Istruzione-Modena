@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-17T07:00:50+00:00"
+    "last_checked_at_utc": "2026-07-17T09:23:09+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -48,6 +48,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "17 Luglio 2026 17 Luglio 2026",
+        "id": "3fd0ebf367121703",
+        "title": "Riparto risorse servizi Scuola in Ospedale e Istruzione Domiciliare a.s. 2025/26",
+        "url": "https://www.istruzioneer.gov.it/2026/07/17/riparto-risorse-servizi-scuola-in-ospedale-e-istruzione-domiciliare-a-s-2025-26/"
+      },
+      {
         "date": "16 Luglio 2026",
         "id": "b191d9d467309af2",
         "title": "Immissioni in ruolo personale docente a.s. 2026/27– AVVISO ESITO PROVINCE – BC02",
@@ -94,15 +100,10 @@
         "id": "ba8c6e22435b3a28",
         "title": "Dirigenti Scolastici: mobilità interregionale in ingresso a.s. 2026/2027.",
         "url": "https://www.istruzioneer.gov.it/2026/07/15/dirigenti-scolastici-mobilita-interregionale-in-ingresso-a-s-2026-2027/"
-      },
-      {
-        "date": "14 Luglio 2026",
-        "id": "1fa8d241075bef31",
-        "title": "Immissioni in ruolo personale docente a.s. 2026/27 – AVVISO ESITO PROVINCE",
-        "url": "https://www.istruzioneer.gov.it/2026/07/14/immissioni-in-ruolo-personale-docente-a-s-2026-27-avviso-esito-province/"
       }
     ],
     "seen_ids": [
+      "3fd0ebf367121703",
       "b191d9d467309af2",
       "68abf5f3d8a71c42",
       "8d912e6539b7aad4",
