@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-21T04:35:12+00:00"
+    "last_checked_at_utc": "2026-07-21T07:18:26+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -52,6 +52,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "21 Luglio 2026",
+        "id": "a0f7cb1608e4f27c",
+        "title": "Pubblicazione “Essere docenti in Emilia-Romagna” a.s. 2025/2026",
+        "url": "https://www.istruzioneer.gov.it/2026/07/21/pubblicazione-essere-docenti-in-emilia-romagna-a-s-2025-2026/"
+      },
+      {
         "date": "17 Luglio 2026",
         "id": "a44a39452dea542a",
         "title": "Nomine a.s. 2026/27: Dispositivo assegnazione sedi",
@@ -98,15 +104,10 @@
         "id": "b719a11bab9caf27",
         "title": "CONTRIBUTI E PROVVIDENZE AL PERSONALE MIM – EVENTI 2025",
         "url": "https://www.istruzioneer.gov.it/2026/07/16/contributi-e-provvidenze-al-personale-mim-eventi-2025/"
-      },
-      {
-        "date": "15 Luglio 2026",
-        "id": "61ac4eea5802362e",
-        "title": "Dirigenti Scolastici: conferme e mutamenti di incarico a.s. 2026/2027.",
-        "url": "https://www.istruzioneer.gov.it/2026/07/15/dirigenti-scolastici-conferme-e-mutamenti-di-incarico-a-s-2026-2027/"
       }
     ],
     "seen_ids": [
+      "a0f7cb1608e4f27c",
       "a44a39452dea542a",
       "3fd0ebf367121703",
       "b191d9d467309af2",
