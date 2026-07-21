@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-21T12:02:03+00:00"
+    "last_checked_at_utc": "2026-07-21T14:26:28+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -53,6 +53,12 @@
     "latest_items": [
       {
         "date": "21 Luglio 2026",
+        "id": "b21758973ef8d057",
+        "title": "Nomine a.s. 2026/27: Dispositivo assegnazione sedi – BC02",
+        "url": "https://www.istruzioneer.gov.it/2026/07/21/nomine-a-s-2026-27-dispositivo-assegnazione-sedi-bc02/"
+      },
+      {
+        "date": "21 Luglio 2026",
         "id": "a0f7cb1608e4f27c",
         "title": "Pubblicazione “Essere docenti in Emilia-Romagna” a.s. 2025/2026",
         "url": "https://www.istruzioneer.gov.it/2026/07/21/pubblicazione-essere-docenti-in-emilia-romagna-a-s-2025-2026/"
@@ -98,15 +104,10 @@
         "id": "be2dbb666951b212",
         "title": "Avviso procedura per il conferimento di incarico dirigenziale non generale",
         "url": "https://www.istruzioneer.gov.it/2026/07/16/avviso-procedura-per-il-conferimento-di-incarico-dirigenziale-non-generale-28/"
-      },
-      {
-        "date": "16 Luglio 2026",
-        "id": "b719a11bab9caf27",
-        "title": "CONTRIBUTI E PROVVIDENZE AL PERSONALE MIM – EVENTI 2025",
-        "url": "https://www.istruzioneer.gov.it/2026/07/16/contributi-e-provvidenze-al-personale-mim-eventi-2025/"
       }
     ],
     "seen_ids": [
+      "b21758973ef8d057",
       "a0f7cb1608e4f27c",
       "a44a39452dea542a",
       "3fd0ebf367121703",
