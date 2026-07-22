@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-22T07:26:02+00:00"
+    "last_checked_at_utc": "2026-07-22T10:04:19+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -52,6 +52,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "22 Luglio 2026 22 Luglio 2026",
+        "id": "5ddb915eae11f81d",
+        "title": "D.D.G. 3059/2024 – concorso docenti – GM AJ55 – scorrimento Puglia",
+        "url": "https://www.istruzioneer.gov.it/2026/07/22/d-d-g-3059-2024-concorso-docenti-gm-aj55-scorrimento-puglia/"
+      },
+      {
         "date": "21 Luglio 2026",
         "id": "b21758973ef8d057",
         "title": "Nomine a.s. 2026/27: Dispositivo assegnazione sedi – BC02",
@@ -98,15 +104,10 @@
         "id": "fc41710358e01c7a",
         "title": "Avviso procedura per il conferimento di incarico dirigenziale non generale",
         "url": "https://www.istruzioneer.gov.it/2026/07/16/avviso-procedura-per-il-conferimento-di-incarico-dirigenziale-non-generale-29/"
-      },
-      {
-        "date": "16 Luglio 2026",
-        "id": "be2dbb666951b212",
-        "title": "Avviso procedura per il conferimento di incarico dirigenziale non generale",
-        "url": "https://www.istruzioneer.gov.it/2026/07/16/avviso-procedura-per-il-conferimento-di-incarico-dirigenziale-non-generale-28/"
       }
     ],
     "seen_ids": [
+      "5ddb915eae11f81d",
       "b21758973ef8d057",
       "a0f7cb1608e4f27c",
       "a44a39452dea542a",
