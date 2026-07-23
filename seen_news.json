@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-23T14:35:47+00:00"
+    "last_checked_at_utc": "2026-07-23T16:13:28+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -54,6 +54,30 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "23 Luglio 2026 23 Luglio 2026",
+        "id": "a8c6d1be30df3ab3",
+        "title": "D.D.G. 2939/2025 – concorso docenti – GM B018 – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/07/23/d-d-g-2939-2025-concorso-docenti-gm-b018-scorrimento/"
+      },
+      {
+        "date": "23 Luglio 2026",
+        "id": "f975077a909981ed",
+        "title": "D.D.G. 2939/2025 – concorso docenti – GM B021 – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/07/23/d-d-g-2939-2025-concorso-docenti-gm-b021-scorrimento/"
+      },
+      {
+        "date": "23 Luglio 2026",
+        "id": "ba9ac3e9732c77c1",
+        "title": "D.D.G. 3059/2024 – concorso docenti – GM B007 – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/07/23/d-d-g-3059-2024-concorso-docenti-gm-b007-scorrimento/"
+      },
+      {
+        "date": "23 Luglio 2026",
+        "id": "aad456b11b90ff10",
+        "title": "D.D.G. 2939/2025 – concorso docenti – GM ADMM – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/07/23/d-d-g-2939-2025-concorso-docenti-gm-admm-scorrimento/"
+      },
+      {
         "date": "22 Luglio 2026 23 Luglio 2026",
         "id": "d27d77385bec1157",
         "title": "D.D.G. 3059/2024 – concorso docenti – GM A031 – scorrimento Sardegna",
@@ -82,33 +106,13 @@
         "id": "a44a39452dea542a",
         "title": "Nomine a.s. 2026/27: Dispositivo assegnazione sedi",
         "url": "https://www.istruzioneer.gov.it/2026/07/17/nomine-a-s-2026-27-dispositivo-assegnazione-sedi/"
-      },
-      {
-        "date": "17 Luglio 2026 17 Luglio 2026",
-        "id": "3fd0ebf367121703",
-        "title": "Riparto risorse servizi Scuola in Ospedale e Istruzione Domiciliare a.s. 2025/26",
-        "url": "https://www.istruzioneer.gov.it/2026/07/17/riparto-risorse-servizi-scuola-in-ospedale-e-istruzione-domiciliare-a-s-2025-26/"
-      },
-      {
-        "date": "16 Luglio 2026",
-        "id": "b191d9d467309af2",
-        "title": "Immissioni in ruolo personale docente a.s. 2026/27– AVVISO ESITO PROVINCE – BC02",
-        "url": "https://www.istruzioneer.gov.it/2026/07/16/immissioni-in-ruolo-personale-docente-a-s-2026-27-avviso-esito-province-bc02/"
-      },
-      {
-        "date": "16 Luglio 2026",
-        "id": "68abf5f3d8a71c42",
-        "title": "Contingente posti comuni e di sostegno-immissioni in ruolo a.s. 26/27-rettifica",
-        "url": "https://www.istruzioneer.gov.it/2026/07/16/contingente-posti-comuni-e-di-sostegno-immissioni-in-ruolo-a-s-26-27-rettifica/"
-      },
-      {
-        "date": "16 Luglio 2026",
-        "id": "8d912e6539b7aad4",
-        "title": "Dirigenti Scolastici: conferme e mutamenti di incarico a.s. 2026/27 – rettifica.",
-        "url": "https://www.istruzioneer.gov.it/2026/07/16/dirigenti-scolastici-conferme-e-mutamenti-di-incarico-a-s-2026-27-rettifica/"
       }
     ],
     "seen_ids": [
+      "a8c6d1be30df3ab3",
+      "f975077a909981ed",
+      "ba9ac3e9732c77c1",
+      "aad456b11b90ff10",
       "d27d77385bec1157",
       "5ddb915eae11f81d",
       "b21758973ef8d057",
