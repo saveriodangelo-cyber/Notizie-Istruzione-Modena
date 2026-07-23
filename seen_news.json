@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-23T16:13:28+00:00"
+    "last_checked_at_utc": "2026-07-23T17:50:08+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -54,6 +54,18 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "23 Luglio 2026",
+        "id": "e107b3a434e08c5d",
+        "title": "D.D.G. 2575/2023 – concorso docenti – GM AM12 – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/07/23/d-d-g-2575-2023-concorso-docenti-gm-am12-scorrimento/"
+      },
+      {
+        "date": "23 Luglio 2026",
+        "id": "c876472fed63a31b",
+        "title": "D.D.G. 2575/2023 – concorso docenti – GM AS12 – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/07/23/d-d-g-2575-2023-concorso-docenti-gm-as12-scorrimento/"
+      },
+      {
         "date": "23 Luglio 2026 23 Luglio 2026",
         "id": "a8c6d1be30df3ab3",
         "title": "D.D.G. 2939/2025 – concorso docenti – GM B018 – scorrimento",
@@ -94,21 +106,11 @@
         "id": "b21758973ef8d057",
         "title": "Nomine a.s. 2026/27: Dispositivo assegnazione sedi – BC02",
         "url": "https://www.istruzioneer.gov.it/2026/07/21/nomine-a-s-2026-27-dispositivo-assegnazione-sedi-bc02/"
-      },
-      {
-        "date": "21 Luglio 2026",
-        "id": "a0f7cb1608e4f27c",
-        "title": "Pubblicazione “Essere docenti in Emilia-Romagna” a.s. 2025/2026",
-        "url": "https://www.istruzioneer.gov.it/2026/07/21/pubblicazione-essere-docenti-in-emilia-romagna-a-s-2025-2026/"
-      },
-      {
-        "date": "17 Luglio 2026",
-        "id": "a44a39452dea542a",
-        "title": "Nomine a.s. 2026/27: Dispositivo assegnazione sedi",
-        "url": "https://www.istruzioneer.gov.it/2026/07/17/nomine-a-s-2026-27-dispositivo-assegnazione-sedi/"
       }
     ],
     "seen_ids": [
+      "e107b3a434e08c5d",
+      "c876472fed63a31b",
       "a8c6d1be30df3ab3",
       "f975077a909981ed",
       "ba9ac3e9732c77c1",
