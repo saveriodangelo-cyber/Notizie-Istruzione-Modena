@@ -1,9 +1,15 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-24T13:04:50+00:00"
+    "last_checked_at_utc": "2026-07-24T15:10:30+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "24 Luglio 2026",
+        "id": "553ce243f5cdd99e",
+        "title": "Personale ATA – Graduatorie permanenti DEFINITIVE – a. s. 2026-27 (Rettifica)",
+        "url": "https://mo.istruzioneer.gov.it/2026/07/24/personale-ata-graduatorie-permanenti-definitive-a-s-2026-27-rettifica/"
+      },
       {
         "date": "23 Luglio 2026 23 Luglio 2026",
         "id": "2e20d09029461756",
@@ -21,15 +27,10 @@
         "id": "eb7ca36a20f609ec",
         "title": "Pubblicazione GPS di ogni ordine e grado della provincia di Modena 2026/2028",
         "url": "https://mo.istruzioneer.gov.it/2026/07/17/pubblicazione-gps-di-ogni-ordine-e-grado-della-provincia-di-modena-2026-2028/"
-      },
-      {
-        "date": "17 Luglio 2026 17 Luglio 2026",
-        "id": "13d7dcc6b9b8a805",
-        "title": "GPS 2026/2028 – dispositivo prot. n. 684 del 17 luglio 2026 – esclusioni",
-        "url": "https://mo.istruzioneer.gov.it/2026/07/17/gps-2024-2026-dispositivo-prot-n-684-del-17-luglio-2026-esclusioni/"
       }
     ],
     "seen_ids": [
+      "553ce243f5cdd99e",
       "2e20d09029461756",
       "c9d59fb32169d1e7",
       "eb7ca36a20f609ec",
@@ -53,6 +54,12 @@
   },
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "24 Luglio 2026",
+        "id": "5212ff9d5f31c87e",
+        "title": "Immissioni in Ruolo a.s. 2026/2027 – Scorrimenti",
+        "url": "https://www.istruzioneer.gov.it/2026/07/24/immissioni-in-ruolo-a-s-2026-2027-scorrimenti/"
+      },
       {
         "date": "24 Luglio 2026",
         "id": "0ed0c9aa11411a89",
@@ -100,15 +107,10 @@
         "id": "9fad1ca83ff142f6",
         "title": "D.D.G. 3059/2024 – concorso docenti – GM AM2C – scorrimento",
         "url": "https://www.istruzioneer.gov.it/2026/07/24/d-d-g-3059-2024-concorso-docenti-gm-am2c-scorrimento/"
-      },
-      {
-        "date": "24 Luglio 2026",
-        "id": "5f663bf84e305075",
-        "title": "D.D.G. 2575/2023 – concorso docenti – GM AM2B – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/07/24/d-d-g-2575-2023-concorso-docenti-gm-am2b-scorrimento/"
       }
     ],
     "seen_ids": [
+      "5212ff9d5f31c87e",
       "0ed0c9aa11411a89",
       "f9019b4a22b8d3a7",
       "4f631b0248af3672",
