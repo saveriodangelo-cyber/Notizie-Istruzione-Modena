@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-24T07:20:49+00:00"
+    "last_checked_at_utc": "2026-07-24T09:42:07+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -54,6 +54,18 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "24 Luglio 2026",
+        "id": "9738aacf10220906",
+        "title": "D.D.G. 2575/2023 – concorso docenti – GM B009 – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/07/24/d-d-g-2575-2023-concorso-docenti-gm-b009-scorrimento/"
+      },
+      {
+        "date": "24 Luglio 2026",
+        "id": "71392751c8377231",
+        "title": "D.D.G. 2939/2025 – concorso docenti – GM A021 – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/07/24/d-d-g-2939-2025-concorso-docenti-gm-a021-scorrimento/"
+      },
+      {
         "date": "23 Luglio 2026",
         "id": "e107b3a434e08c5d",
         "title": "D.D.G. 2575/2023 – concorso docenti – GM AM12 – scorrimento",
@@ -94,21 +106,11 @@
         "id": "d27d77385bec1157",
         "title": "D.D.G. 3059/2024 – concorso docenti – GM A031 – scorrimento Sardegna",
         "url": "https://www.istruzioneer.gov.it/2026/07/22/d-d-g-3059-2024-concorso-docenti-gm-a031-scorrimento-sardegna/"
-      },
-      {
-        "date": "22 Luglio 2026 22 Luglio 2026",
-        "id": "5ddb915eae11f81d",
-        "title": "D.D.G. 3059/2024 – concorso docenti – GM AJ55 – scorrimento Puglia",
-        "url": "https://www.istruzioneer.gov.it/2026/07/22/d-d-g-3059-2024-concorso-docenti-gm-aj55-scorrimento-puglia/"
-      },
-      {
-        "date": "21 Luglio 2026",
-        "id": "b21758973ef8d057",
-        "title": "Nomine a.s. 2026/27: Dispositivo assegnazione sedi – BC02",
-        "url": "https://www.istruzioneer.gov.it/2026/07/21/nomine-a-s-2026-27-dispositivo-assegnazione-sedi-bc02/"
       }
     ],
     "seen_ids": [
+      "9738aacf10220906",
+      "71392751c8377231",
       "e107b3a434e08c5d",
       "c876472fed63a31b",
       "a8c6d1be30df3ab3",
