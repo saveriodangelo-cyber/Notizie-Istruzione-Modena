@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-24T09:42:07+00:00"
+    "last_checked_at_utc": "2026-07-24T11:27:16+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -55,6 +55,30 @@
     "latest_items": [
       {
         "date": "24 Luglio 2026",
+        "id": "f6f41bfb6b86d591",
+        "title": "D.D.G. 2939/2025 – concorso docenti – GM AM48 – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/07/24/d-d-g-2939-2025-concorso-docenti-gm-am48-scorrimento/"
+      },
+      {
+        "date": "24 Luglio 2026",
+        "id": "9fad1ca83ff142f6",
+        "title": "D.D.G. 3059/2024 – concorso docenti – GM AM2C – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/07/24/d-d-g-3059-2024-concorso-docenti-gm-am2c-scorrimento/"
+      },
+      {
+        "date": "24 Luglio 2026",
+        "id": "5f663bf84e305075",
+        "title": "D.D.G. 2575/2023 – concorso docenti – GM AM2B – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/07/24/d-d-g-2575-2023-concorso-docenti-gm-am2b-scorrimento/"
+      },
+      {
+        "date": "24 Luglio 2026",
+        "id": "7315eb5b5e2dd635",
+        "title": "D.D.G. 2939/2025 – concorso docenti – GM AM2A – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/07/24/d-d-g-2939-2025-concorso-docenti-gm-am2a-scorrimento/"
+      },
+      {
+        "date": "24 Luglio 2026",
         "id": "9738aacf10220906",
         "title": "D.D.G. 2575/2023 – concorso docenti – GM B009 – scorrimento",
         "url": "https://www.istruzioneer.gov.it/2026/07/24/d-d-g-2575-2023-concorso-docenti-gm-b009-scorrimento/"
@@ -82,33 +106,13 @@
         "id": "a8c6d1be30df3ab3",
         "title": "D.D.G. 2939/2025 – concorso docenti – GM B018 – scorrimento",
         "url": "https://www.istruzioneer.gov.it/2026/07/23/d-d-g-2939-2025-concorso-docenti-gm-b018-scorrimento/"
-      },
-      {
-        "date": "23 Luglio 2026",
-        "id": "f975077a909981ed",
-        "title": "D.D.G. 2939/2025 – concorso docenti – GM B021 – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/07/23/d-d-g-2939-2025-concorso-docenti-gm-b021-scorrimento/"
-      },
-      {
-        "date": "23 Luglio 2026",
-        "id": "ba9ac3e9732c77c1",
-        "title": "D.D.G. 3059/2024 – concorso docenti – GM B007 – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/07/23/d-d-g-3059-2024-concorso-docenti-gm-b007-scorrimento/"
-      },
-      {
-        "date": "23 Luglio 2026",
-        "id": "aad456b11b90ff10",
-        "title": "D.D.G. 2939/2025 – concorso docenti – GM ADMM – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/07/23/d-d-g-2939-2025-concorso-docenti-gm-admm-scorrimento/"
-      },
-      {
-        "date": "22 Luglio 2026 23 Luglio 2026",
-        "id": "d27d77385bec1157",
-        "title": "D.D.G. 3059/2024 – concorso docenti – GM A031 – scorrimento Sardegna",
-        "url": "https://www.istruzioneer.gov.it/2026/07/22/d-d-g-3059-2024-concorso-docenti-gm-a031-scorrimento-sardegna/"
       }
     ],
     "seen_ids": [
+      "f6f41bfb6b86d591",
+      "9fad1ca83ff142f6",
+      "5f663bf84e305075",
+      "7315eb5b5e2dd635",
       "9738aacf10220906",
       "71392751c8377231",
       "e107b3a434e08c5d",
