@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-27T15:17:22+00:00"
+    "last_checked_at_utc": "2026-07-27T17:14:30+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -56,6 +56,12 @@
     "latest_items": [
       {
         "date": "27 Luglio 2026 27 Luglio 2026",
+        "id": "9dd07b1529fd0b77",
+        "title": "D.D.G. 2939/2025 – concorso docenti – GM AS2D FVG – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/07/27/https-www-istruzioneer-gov-it-wp-content-uploads-2026-07-m_pi-aoodrer-registro-decretir-0000812-27-07-2026-2-pdf/"
+      },
+      {
+        "date": "27 Luglio 2026 27 Luglio 2026",
         "id": "0adf619bd2f67763",
         "title": "Avviso USR Emilia-Romagna: selezione personale ATA in comando a.s. 2026/27",
         "url": "https://www.istruzioneer.gov.it/2026/07/27/avviso-usr-emilia-romagna-selezione-personale-ata-in-comando-a-s-2026-27/"
@@ -101,15 +107,10 @@
         "id": "c2845d553f8849ec",
         "title": "D.D.G. 2575/2023 – concorso docenti – GM A015 FVG – scorrimento",
         "url": "https://www.istruzioneer.gov.it/2026/07/24/d-d-g-2575-2023-concorso-docenti-gm-a015-fvg-scorrimento/"
-      },
-      {
-        "date": "24 Luglio 2026 24 Luglio 2026",
-        "id": "704b5dd528c735d0",
-        "title": "D.D.G. 2939/2025 – concorso docenti – GM AS12 FVG – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/07/24/d-d-g-2939-2025-concorso-docenti-gm-as12-scorrimento/"
       }
     ],
     "seen_ids": [
+      "9dd07b1529fd0b77",
       "0adf619bd2f67763",
       "a65dd1af4eb86759",
       "5212ff9d5f31c87e",
