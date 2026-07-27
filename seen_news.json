@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-27T12:08:17+00:00"
+    "last_checked_at_utc": "2026-07-27T15:17:22+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -55,6 +55,18 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "27 Luglio 2026 27 Luglio 2026",
+        "id": "0adf619bd2f67763",
+        "title": "Avviso USR Emilia-Romagna: selezione personale ATA in comando a.s. 2026/27",
+        "url": "https://www.istruzioneer.gov.it/2026/07/27/avviso-usr-emilia-romagna-selezione-personale-ata-in-comando-a-s-2026-27/"
+      },
+      {
+        "date": "27 Luglio 2026",
+        "id": "a65dd1af4eb86759",
+        "title": "Immissioni in ruolo a.s. 2026/27 – AVVISO ESITO PROVINCE – Scorrimenti",
+        "url": "https://www.istruzioneer.gov.it/2026/07/27/immissioni-in-ruolo-a-s-2026-27-avviso-esito-province-scorrimenti/"
+      },
+      {
         "date": "24 Luglio 2026",
         "id": "5212ff9d5f31c87e",
         "title": "Immissioni in Ruolo a.s. 2026/2027 – Scorrimenti",
@@ -95,21 +107,11 @@
         "id": "704b5dd528c735d0",
         "title": "D.D.G. 2939/2025 – concorso docenti – GM AS12 FVG – scorrimento",
         "url": "https://www.istruzioneer.gov.it/2026/07/24/d-d-g-2939-2025-concorso-docenti-gm-as12-scorrimento/"
-      },
-      {
-        "date": "24 Luglio 2026",
-        "id": "f6f41bfb6b86d591",
-        "title": "D.D.G. 2939/2025 – concorso docenti – GM AM48 – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/07/24/d-d-g-2939-2025-concorso-docenti-gm-am48-scorrimento/"
-      },
-      {
-        "date": "24 Luglio 2026",
-        "id": "9fad1ca83ff142f6",
-        "title": "D.D.G. 3059/2024 – concorso docenti – GM AM2C – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/07/24/d-d-g-3059-2024-concorso-docenti-gm-am2c-scorrimento/"
       }
     ],
     "seen_ids": [
+      "0adf619bd2f67763",
+      "a65dd1af4eb86759",
       "5212ff9d5f31c87e",
       "0ed0c9aa11411a89",
       "f9019b4a22b8d3a7",
