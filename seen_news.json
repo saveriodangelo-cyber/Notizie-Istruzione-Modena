@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-27T18:51:12+00:00"
+    "last_checked_at_utc": "2026-07-27T20:17:21+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -56,6 +56,12 @@
     "latest_items": [
       {
         "date": "27 Luglio 2026 27 Luglio 2026",
+        "id": "0da2e66059f41d22",
+        "title": "EFT 2025/2026 – Comando presso USR- ER. Calendario colloqui",
+        "url": "https://www.istruzioneer.gov.it/2026/07/27/eft-2025-2026-comando-presso-usr-er-calendario-colloqui/"
+      },
+      {
+        "date": "27 Luglio 2026 27 Luglio 2026",
         "id": "9dd07b1529fd0b77",
         "title": "D.D.G. 2939/2025 – concorso docenti – GM AS2D FVG – scorrimento",
         "url": "https://www.istruzioneer.gov.it/2026/07/27/https-www-istruzioneer-gov-it-wp-content-uploads-2026-07-m_pi-aoodrer-registro-decretir-0000812-27-07-2026-2-pdf/"
@@ -101,15 +107,10 @@
         "id": "68e50002f05a3ac8",
         "title": "D.D.G. 2939/2025 – concorso docenti – GM AS2A – scorrimento",
         "url": "https://www.istruzioneer.gov.it/2026/07/24/d-d-g-2939-2025-concorso-docenti-gm-as2a-scorrimento/"
-      },
-      {
-        "date": "24 Luglio 2026",
-        "id": "c2845d553f8849ec",
-        "title": "D.D.G. 2575/2023 – concorso docenti – GM A015 FVG – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/07/24/d-d-g-2575-2023-concorso-docenti-gm-a015-fvg-scorrimento/"
       }
     ],
     "seen_ids": [
+      "0da2e66059f41d22",
       "9dd07b1529fd0b77",
       "0adf619bd2f67763",
       "a65dd1af4eb86759",
