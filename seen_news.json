@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-28T12:16:09+00:00"
+    "last_checked_at_utc": "2026-07-28T14:45:25+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -55,6 +55,18 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "28 Luglio 2026",
+        "id": "34f2677b53e9b9c6",
+        "title": "D.D.G. 3059/2024 – concorso docenti – GM A003 – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/07/28/d-d-g-3059-2024-concorso-docenti-gm-a003-scorrimento/"
+      },
+      {
+        "date": "28 Luglio 2026",
+        "id": "b8309535da6c10a9",
+        "title": "D.D.G. 2939/2025 – concorso docenti – GM AS2C Veneto – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/07/28/d-d-g-2939-2025-concorso-docenti-gm-as2c-veneto-scorrimento/"
+      },
+      {
         "date": "27 Luglio 2026 28 Luglio 2026",
         "id": "7085b5c609cc8e1a",
         "title": "EFT 2026/2027 – Comando presso USR- ER. Calendario colloqui",
@@ -95,21 +107,11 @@
         "id": "f9019b4a22b8d3a7",
         "title": "D.D.G. 2939/2025 – concorso docenti – GM AS48 – scorrimento",
         "url": "https://www.istruzioneer.gov.it/2026/07/24/d-d-g-2939-2025-concorso-docenti-gm-as48-scorrimento/"
-      },
-      {
-        "date": "24 Luglio 2026",
-        "id": "4f631b0248af3672",
-        "title": "D.D.G. 2939/2025 – concorso docenti – GM AS2B – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/07/24/d-d-g-2939-2025-concorso-docenti-gm-as2b-scorrimento/"
-      },
-      {
-        "date": "24 Luglio 2026",
-        "id": "68e50002f05a3ac8",
-        "title": "D.D.G. 2939/2025 – concorso docenti – GM AS2A – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/07/24/d-d-g-2939-2025-concorso-docenti-gm-as2a-scorrimento/"
       }
     ],
     "seen_ids": [
+      "34f2677b53e9b9c6",
+      "b8309535da6c10a9",
       "7085b5c609cc8e1a",
       "9dd07b1529fd0b77",
       "0adf619bd2f67763",
