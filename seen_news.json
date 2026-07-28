@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-28T01:10:58+00:00"
+    "last_checked_at_utc": "2026-07-28T04:30:47+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -55,10 +55,10 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
-        "date": "27 Luglio 2026 27 Luglio 2026",
-        "id": "0da2e66059f41d22",
-        "title": "EFT 2025/2026 – Comando presso USR- ER. Calendario colloqui",
-        "url": "https://www.istruzioneer.gov.it/2026/07/27/eft-2025-2026-comando-presso-usr-er-calendario-colloqui/"
+        "date": "27 Luglio 2026 28 Luglio 2026",
+        "id": "7085b5c609cc8e1a",
+        "title": "EFT 2026/2027 – Comando presso USR- ER. Calendario colloqui",
+        "url": "https://www.istruzioneer.gov.it/2026/07/27/eft-comando-presso-usr-er-calendario-colloqui/"
       },
       {
         "date": "27 Luglio 2026 27 Luglio 2026",
@@ -110,7 +110,7 @@
       }
     ],
     "seen_ids": [
-      "0da2e66059f41d22",
+      "7085b5c609cc8e1a",
       "9dd07b1529fd0b77",
       "0adf619bd2f67763",
       "a65dd1af4eb86759",
@@ -119,6 +119,7 @@
       "f9019b4a22b8d3a7",
       "4f631b0248af3672",
       "68e50002f05a3ac8",
+      "0da2e66059f41d22",
       "c2845d553f8849ec",
       "704b5dd528c735d0",
       "f6f41bfb6b86d591",
