@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-28T14:45:25+00:00"
+    "last_checked_at_utc": "2026-07-28T16:25:35+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -56,6 +56,18 @@
     "latest_items": [
       {
         "date": "28 Luglio 2026",
+        "id": "c5a1743ab39e5ea5",
+        "title": "D.D.G. 3059/2024 – concorso docenti – GM AJ55 – scorrimento Puglia",
+        "url": "https://www.istruzioneer.gov.it/2026/07/28/d-d-g-3059-2024-concorso-docenti-gm-aj55-scorrimento-puglia-2/"
+      },
+      {
+        "date": "28 Luglio 2026",
+        "id": "cd0f28dee1509120",
+        "title": "D.D.G. 2939/2025 – concorso docenti – GM B021 – scorrimento Liguria",
+        "url": "https://www.istruzioneer.gov.it/2026/07/28/d-d-g-2939-2025-concorso-docenti-gm-b021-scorrimento-liguria/"
+      },
+      {
+        "date": "28 Luglio 2026",
         "id": "34f2677b53e9b9c6",
         "title": "D.D.G. 3059/2024 – concorso docenti – GM A003 – scorrimento",
         "url": "https://www.istruzioneer.gov.it/2026/07/28/d-d-g-3059-2024-concorso-docenti-gm-a003-scorrimento/"
@@ -95,21 +107,11 @@
         "id": "5212ff9d5f31c87e",
         "title": "Immissioni in Ruolo a.s. 2026/2027 – Scorrimenti",
         "url": "https://www.istruzioneer.gov.it/2026/07/24/immissioni-in-ruolo-a-s-2026-2027-scorrimenti/"
-      },
-      {
-        "date": "24 Luglio 2026",
-        "id": "0ed0c9aa11411a89",
-        "title": "D.D.G. 3059/2024 – concorso docenti – GM AG56 – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/07/24/d-d-g-3059-2024-concorso-docenti-gm-ag56-scorrimento/"
-      },
-      {
-        "date": "24 Luglio 2026",
-        "id": "f9019b4a22b8d3a7",
-        "title": "D.D.G. 2939/2025 – concorso docenti – GM AS48 – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/07/24/d-d-g-2939-2025-concorso-docenti-gm-as48-scorrimento/"
       }
     ],
     "seen_ids": [
+      "c5a1743ab39e5ea5",
+      "cd0f28dee1509120",
       "34f2677b53e9b9c6",
       "b8309535da6c10a9",
       "7085b5c609cc8e1a",
