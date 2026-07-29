@@ -1,9 +1,15 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-29T07:28:03+00:00"
+    "last_checked_at_utc": "2026-07-29T10:15:13+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "29 Luglio 2026",
+        "id": "b1e9db02e6b185fd",
+        "title": "Ricorso Cinzia De Rosa c/MIM rg n. 408/2026 – Tribunale del Lavoro di Rimini",
+        "url": "https://mo.istruzioneer.gov.it/2026/07/29/ricorso-cinzia-de-rosa-c-mim-rg-n-408-2026-tribunale-del-lavoro-di-rimini/"
+      },
       {
         "date": "29 Luglio 2026 29 Luglio 2026",
         "id": "42488c97f164c52b",
@@ -21,15 +27,10 @@
         "id": "2e20d09029461756",
         "title": "Ata-Posti disponibili DOPO le operazioni di mobilità-a.s.2026/27 (aggiornamento)",
         "url": "https://mo.istruzioneer.gov.it/2026/07/23/ata-posti-disponibili-dopo-operazioni-di-mobilita-a-s-2026-27-aggiornamento/"
-      },
-      {
-        "date": "22 Luglio 2026",
-        "id": "c9d59fb32169d1e7",
-        "title": "Pubblicazione “Essere docenti in Emilia-Romagna” a.s. 2025/2026",
-        "url": "https://mo.istruzioneer.gov.it/2026/07/22/pubblicazione-essere-docenti-in-emilia-romagna-a-s-2025-2026/"
       }
     ],
     "seen_ids": [
+      "b1e9db02e6b185fd",
       "42488c97f164c52b",
       "553ce243f5cdd99e",
       "2e20d09029461756",
@@ -55,6 +56,12 @@
   },
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "29 Luglio 2026",
+        "id": "73413b661f3e5846",
+        "title": "D.D.G. 2939/2025 – concorso docenti – GM BB02 – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/07/29/d-d-g-2939-2025-concorso-docenti-gm-bb02-scorrimento/"
+      },
       {
         "date": "28 Luglio 2026",
         "id": "c5a1743ab39e5ea5",
@@ -102,15 +109,10 @@
         "id": "a65dd1af4eb86759",
         "title": "Immissioni in ruolo a.s. 2026/27 – AVVISO ESITO PROVINCE – Scorrimenti",
         "url": "https://www.istruzioneer.gov.it/2026/07/27/immissioni-in-ruolo-a-s-2026-27-avviso-esito-province-scorrimenti/"
-      },
-      {
-        "date": "24 Luglio 2026",
-        "id": "5212ff9d5f31c87e",
-        "title": "Immissioni in Ruolo a.s. 2026/2027 – Scorrimenti",
-        "url": "https://www.istruzioneer.gov.it/2026/07/24/immissioni-in-ruolo-a-s-2026-2027-scorrimenti/"
       }
     ],
     "seen_ids": [
+      "73413b661f3e5846",
       "c5a1743ab39e5ea5",
       "cd0f28dee1509120",
       "34f2677b53e9b9c6",
