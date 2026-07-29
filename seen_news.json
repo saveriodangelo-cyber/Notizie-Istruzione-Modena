@@ -1,9 +1,15 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-29T04:33:39+00:00"
+    "last_checked_at_utc": "2026-07-29T07:28:03+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "29 Luglio 2026 29 Luglio 2026",
+        "id": "42488c97f164c52b",
+        "title": "Avviso USR Emilia-Romagna: selezione personale ATA in comando a.s. 2026/27",
+        "url": "https://mo.istruzioneer.gov.it/2026/07/29/avviso-usr-emilia-romagna-selezione-personale-ata-in-comando-a-s-2026-27/"
+      },
       {
         "date": "24 Luglio 2026",
         "id": "553ce243f5cdd99e",
@@ -21,15 +27,10 @@
         "id": "c9d59fb32169d1e7",
         "title": "Pubblicazione “Essere docenti in Emilia-Romagna” a.s. 2025/2026",
         "url": "https://mo.istruzioneer.gov.it/2026/07/22/pubblicazione-essere-docenti-in-emilia-romagna-a-s-2025-2026/"
-      },
-      {
-        "date": "17 Luglio 2026",
-        "id": "eb7ca36a20f609ec",
-        "title": "Pubblicazione GPS di ogni ordine e grado della provincia di Modena 2026/2028",
-        "url": "https://mo.istruzioneer.gov.it/2026/07/17/pubblicazione-gps-di-ogni-ordine-e-grado-della-provincia-di-modena-2026-2028/"
       }
     ],
     "seen_ids": [
+      "42488c97f164c52b",
       "553ce243f5cdd99e",
       "2e20d09029461756",
       "c9d59fb32169d1e7",
