@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-07-30T13:16:45+00:00"
+    "last_checked_at_utc": "2026-07-30T15:27:32+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -53,6 +53,68 @@
       "a7a1e196abe015ab",
       "c615931ffa28595c",
       "8037429c48badd33"
+    ]
+  },
+  "https://re.istruzioneer.gov.it/": {
+    "latest_items": [
+      {
+        "date": "30 Luglio 2026",
+        "id": "0c6a45b548e9af82",
+        "title": "Avviso per 7 posti di educatore nei Convitti statali Regione E.R.-DDG 28/7/2000",
+        "url": "https://re.istruzioneer.gov.it/2026/07/30/avviso-per-7-posti-di-educatore-nei-convitti-statali-regione-e-r-ddg-28-7-2000/"
+      },
+      {
+        "date": "30 Luglio 2026",
+        "id": "2713519050b1897c",
+        "title": "PROCEDURA PER L’INDIVIDUAZIONE DI PERSONALE ATA DA DESTINARE A COMANDO PRESSO L’UFFICIO XI AMBITO TERRITORIALE REGGIO EMILIA PER L’A.S. 26/27",
+        "url": "https://re.istruzioneer.gov.it/2026/07/30/procedura-per-lindividuazione-di-personale-ata-da-destinare-a-comando-presso-lufficio-xi-ambito-territoriale-reggio-emilia-per-la-s-26-27/"
+      },
+      {
+        "date": "22 Luglio 2026 22 Luglio 2026",
+        "id": "51e69c0c2ff91dd1",
+        "title": "Graduatorie Provinciali per le Supplenze aa.ss. 2026/27 – 2027/2028 – PUBBLICAZIONE",
+        "url": "https://re.istruzioneer.gov.it/2026/07/22/graduatorie-provinciali-per-le-supplenze-aa-ss-2026-27-2027-2028-pubblicazione/"
+      },
+      {
+        "date": "21 Luglio 2026",
+        "id": "38c34d60498b3266",
+        "title": "Graduatorie provinciali permanenti PROVVISORIE valide per l’A.S. 2026-2027 – Personale ATA",
+        "url": "https://re.istruzioneer.gov.it/2026/07/21/graduatorie-provinciali-permanenti-provvisorie-valide-per-la-s-2026-2027-personale-ata/"
+      },
+      {
+        "date": "16 Luglio 2026",
+        "id": "d5457766e4309755",
+        "title": "Graduatorie ad Esaurimento Definitive – personale docente ed educativo – biennio 2026/27 e 2027/2028",
+        "url": "https://re.istruzioneer.gov.it/2026/07/16/graduatorie-ad-esaurimento-definitive-personale-docente-ed-educativo-biennio-2026-27-e-2027-2028-2/"
+      },
+      {
+        "date": "15 Luglio 2026 15 Luglio 2026",
+        "id": "e4927d3e322b1636",
+        "title": "Utilizzazioni ed assegnazioni provvisorie – a.s. 2026/27",
+        "url": "https://re.istruzioneer.gov.it/2026/07/15/utilizzazioni-e-assegnazioni-provvisorie-a-s-2026-27-apertura-termini-istanze/"
+      },
+      {
+        "date": "14 Luglio 2026 14 Luglio 2026",
+        "id": "5c902c6d1b54ee3a",
+        "title": "Ottimizzazione cattedre orario esterne (COE) a.s. 2026/27. Indicazioni operative.",
+        "url": "https://re.istruzioneer.gov.it/2026/07/14/ottimizzazione-cattedre-orario-esterne-coe-a-s-2026-27-indicazioni-operative/"
+      },
+      {
+        "date": "10 Luglio 2026",
+        "id": "c5a82af5fc708efd",
+        "title": "Posti disponibili personale docente dopo le operazioni di mobilità a.s.2026/2027 RETTIFICA sedi vacanti e disponibili SCUOLA PRIMARIA",
+        "url": "https://re.istruzioneer.gov.it/2026/07/10/posti-disponibili-personale-docente-dopo-le-operazioni-di-mobilita-a-s-2026-2027-rettifica-sedi-vacanti-e-disponibili-scuola-primaria/"
+      }
+    ],
+    "seen_ids": [
+      "0c6a45b548e9af82",
+      "2713519050b1897c",
+      "51e69c0c2ff91dd1",
+      "38c34d60498b3266",
+      "d5457766e4309755",
+      "e4927d3e322b1636",
+      "5c902c6d1b54ee3a",
+      "c5a82af5fc708efd"
     ]
   },
   "https://www.istruzioneer.gov.it/": {
