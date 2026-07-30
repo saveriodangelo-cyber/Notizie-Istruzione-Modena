@@ -17,6 +17,11 @@ SITES = [
         "url": "https://mo.istruzioneer.gov.it/",
         "emoji": "📍",
     },
+        {
+        "name": "Ufficio scolastico territoriale di Reggio Emilia",
+        "url": "https://re.istruzioneer.gov.it/",
+        "emoji": "📌",
+    },
     {
         "name": "USR Emilia-Romagna",
         "url": "https://www.istruzioneer.gov.it/",
