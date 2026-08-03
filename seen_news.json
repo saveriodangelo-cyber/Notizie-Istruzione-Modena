@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-03T04:50:25+00:00"
+    "last_checked_at_utc": "2026-08-03T08:21:52+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -120,6 +120,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "3 Agosto 2026 3 Agosto 2026",
+        "id": "8e52bfe8fc4c872a",
+        "title": "AVVISO copertura 7 posti personale educativo convitti statali nazionali E.R.",
+        "url": "https://www.istruzioneer.gov.it/2026/08/03/avviso-copertura-7-posti-personale-educativo-convitti-statali-nazionali-e-r/"
+      },
+      {
         "date": "31 Luglio 2026",
         "id": "e284f18689b44699",
         "title": "Immissioni in ruolo a.s. 2026/27 – AVVISO ESITO PROVINCE – Surroghe",
@@ -166,15 +172,10 @@
         "id": "b8309535da6c10a9",
         "title": "D.D.G. 2939/2025 – concorso docenti – GM AS2C Veneto – scorrimento",
         "url": "https://www.istruzioneer.gov.it/2026/07/28/d-d-g-2939-2025-concorso-docenti-gm-as2c-veneto-scorrimento/"
-      },
-      {
-        "date": "27 Luglio 2026 28 Luglio 2026",
-        "id": "7085b5c609cc8e1a",
-        "title": "EFT 2026/2027 – Comando presso USR- ER. Calendario colloqui",
-        "url": "https://www.istruzioneer.gov.it/2026/07/27/eft-comando-presso-usr-er-calendario-colloqui/"
       }
     ],
     "seen_ids": [
+      "8e52bfe8fc4c872a",
       "e284f18689b44699",
       "2ed9d710c7a32039",
       "96d3e51225e9aec5",
