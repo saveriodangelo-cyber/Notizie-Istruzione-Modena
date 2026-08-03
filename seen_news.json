@@ -1,9 +1,15 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-03T17:22:53+00:00"
+    "last_checked_at_utc": "2026-08-03T19:05:41+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "3 Agosto 2026",
+        "id": "fddcbe6309d92569",
+        "title": "sedi vacanti per nomine a TD finalizzato al ruolo GPS sostegno I fsc – ADAA-ADEE",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/03/sedi-vacanti-per-nomine-a-td-finalizzato-al-ruolo-gps-sostegno-i-fsc-adaa-adee/"
+      },
       {
         "date": "3 Agosto 2026",
         "id": "eac800f59517338c",
@@ -21,15 +27,10 @@
         "id": "64a43ba6769a6000",
         "title": "Interpello conferimento incarico reggenza infrannuale C.P.I.A. 1 MODENA",
         "url": "https://mo.istruzioneer.gov.it/2026/07/30/interpello-conferimento-incarico-reggenza-infrannuale-c-p-i-a-1-modena/"
-      },
-      {
-        "date": "29 Luglio 2026",
-        "id": "b1e9db02e6b185fd",
-        "title": "Ricorso Cinzia De Rosa c/MIM rg n. 408/2026 – Tribunale del Lavoro di Rimini",
-        "url": "https://mo.istruzioneer.gov.it/2026/07/29/ricorso-cinzia-de-rosa-c-mim-rg-n-408-2026-tribunale-del-lavoro-di-rimini/"
       }
     ],
     "seen_ids": [
+      "fddcbe6309d92569",
       "eac800f59517338c",
       "c56e1ef8f6ef7461",
       "64a43ba6769a6000",
