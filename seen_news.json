@@ -1,9 +1,21 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-03T15:20:19+00:00"
+    "last_checked_at_utc": "2026-08-03T17:22:53+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "3 Agosto 2026",
+        "id": "eac800f59517338c",
+        "title": "GPS 2026-2028 – Esclusioni",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/03/gps-2026-2028-esclusioni/"
+      },
+      {
+        "date": "3 Agosto 2026",
+        "id": "c56e1ef8f6ef7461",
+        "title": "Ripubblicazione GPS di ogni ordine e grado della provincia di Modena 2026/2028",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/03/ripubblicazione-gps-di-ogni-ordine-e-grado-della-provincia-di-modena-2026-2028/"
+      },
       {
         "date": "30 Luglio 2026",
         "id": "64a43ba6769a6000",
@@ -15,21 +27,11 @@
         "id": "b1e9db02e6b185fd",
         "title": "Ricorso Cinzia De Rosa c/MIM rg n. 408/2026 – Tribunale del Lavoro di Rimini",
         "url": "https://mo.istruzioneer.gov.it/2026/07/29/ricorso-cinzia-de-rosa-c-mim-rg-n-408-2026-tribunale-del-lavoro-di-rimini/"
-      },
-      {
-        "date": "29 Luglio 2026 29 Luglio 2026",
-        "id": "42488c97f164c52b",
-        "title": "Avviso USR Emilia-Romagna: selezione personale ATA in comando a.s. 2026/27",
-        "url": "https://mo.istruzioneer.gov.it/2026/07/29/avviso-usr-emilia-romagna-selezione-personale-ata-in-comando-a-s-2026-27/"
-      },
-      {
-        "date": "24 Luglio 2026",
-        "id": "553ce243f5cdd99e",
-        "title": "Personale ATA – Graduatorie permanenti DEFINITIVE – a. s. 2026-27 (Rettifica)",
-        "url": "https://mo.istruzioneer.gov.it/2026/07/24/personale-ata-graduatorie-permanenti-definitive-a-s-2026-27-rettifica/"
       }
     ],
     "seen_ids": [
+      "eac800f59517338c",
+      "c56e1ef8f6ef7461",
       "64a43ba6769a6000",
       "b1e9db02e6b185fd",
       "42488c97f164c52b",
@@ -120,6 +122,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "3 Agosto 2026",
+        "id": "1be13cd82879f3f1",
+        "title": "NOMINE a.s. 2026/27: Dispositivo attribuzione SEDI – Surroghe",
+        "url": "https://www.istruzioneer.gov.it/2026/08/03/nomine-a-s-2026-27-dispositivo-attribuzione-sedi-surroghe/"
+      },
+      {
         "date": "3 Agosto 2026 3 Agosto 2026",
         "id": "8e52bfe8fc4c872a",
         "title": "AVVISO copertura 7 posti personale educativo convitti statali nazionali E.R.",
@@ -166,15 +174,10 @@
         "id": "34f2677b53e9b9c6",
         "title": "D.D.G. 3059/2024 – concorso docenti – GM A003 – scorrimento",
         "url": "https://www.istruzioneer.gov.it/2026/07/28/d-d-g-3059-2024-concorso-docenti-gm-a003-scorrimento/"
-      },
-      {
-        "date": "28 Luglio 2026",
-        "id": "b8309535da6c10a9",
-        "title": "D.D.G. 2939/2025 – concorso docenti – GM AS2C Veneto – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/07/28/d-d-g-2939-2025-concorso-docenti-gm-as2c-veneto-scorrimento/"
       }
     ],
     "seen_ids": [
+      "1be13cd82879f3f1",
       "8e52bfe8fc4c872a",
       "e284f18689b44699",
       "2ed9d710c7a32039",
