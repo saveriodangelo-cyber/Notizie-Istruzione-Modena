@@ -1,9 +1,21 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-04T13:23:08+00:00"
+    "last_checked_at_utc": "2026-08-04T15:54:56+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "4 Agosto 2026",
+        "id": "6eede6d82e0467c3",
+        "title": "Esiti nomine a t.d. finalizzate al ruolo da 1^ fascia GPS ADAA-ADEE- a.s. 26/27",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/04/esiti-nomine-a-t-d-finalizzate-al-ruolo-da-1-fascia-gps-adaa-adee-a-s-26-27/"
+      },
+      {
+        "date": "4 Agosto 2026 4 Agosto 2026",
+        "id": "2849eb2657522ef3",
+        "title": "Costituzione commissione valutazione comandi ATA c/o UAT Modena a.s. 2026/27",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/04/costituzione-commissione-valutazione-comandi-ata-c-o-uat-modena-a-s-2026-27/"
+      },
       {
         "date": "3 Agosto 2026",
         "id": "fddcbe6309d92569",
@@ -15,21 +27,11 @@
         "id": "eac800f59517338c",
         "title": "GPS 2026-2028 – Esclusioni",
         "url": "https://mo.istruzioneer.gov.it/2026/08/03/gps-2026-2028-esclusioni/"
-      },
-      {
-        "date": "3 Agosto 2026",
-        "id": "c56e1ef8f6ef7461",
-        "title": "Ripubblicazione GPS di ogni ordine e grado della provincia di Modena 2026/2028",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/03/ripubblicazione-gps-di-ogni-ordine-e-grado-della-provincia-di-modena-2026-2028/"
-      },
-      {
-        "date": "30 Luglio 2026",
-        "id": "64a43ba6769a6000",
-        "title": "Interpello conferimento incarico reggenza infrannuale C.P.I.A. 1 MODENA",
-        "url": "https://mo.istruzioneer.gov.it/2026/07/30/interpello-conferimento-incarico-reggenza-infrannuale-c-p-i-a-1-modena/"
       }
     ],
     "seen_ids": [
+      "6eede6d82e0467c3",
+      "2849eb2657522ef3",
       "fddcbe6309d92569",
       "eac800f59517338c",
       "c56e1ef8f6ef7461",
@@ -60,6 +62,12 @@
   },
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "4 Agosto 2026",
+        "id": "6b272aadabd2ae42",
+        "title": "Graduatorie Provinciali per le Supplenze aa.ss. 2026/27 – 2027/28 – RETTIFICA",
+        "url": "https://re.istruzioneer.gov.it/2026/08/04/graduatorie-provinciali-per-le-supplenze-aa-ss-2026-27-2027-28-rettifica/"
+      },
       {
         "date": "4 Agosto 2026",
         "id": "8cd5595c5780c7bc",
@@ -101,15 +109,10 @@
         "id": "d5457766e4309755",
         "title": "Graduatorie ad Esaurimento Definitive – personale docente ed educativo – biennio 2026/27 e 2027/2028",
         "url": "https://re.istruzioneer.gov.it/2026/07/16/graduatorie-ad-esaurimento-definitive-personale-docente-ed-educativo-biennio-2026-27-e-2027-2028-2/"
-      },
-      {
-        "date": "15 Luglio 2026 15 Luglio 2026",
-        "id": "e4927d3e322b1636",
-        "title": "Utilizzazioni ed assegnazioni provvisorie – a.s. 2026/27",
-        "url": "https://re.istruzioneer.gov.it/2026/07/15/utilizzazioni-e-assegnazioni-provvisorie-a-s-2026-27-apertura-termini-istanze/"
       }
     ],
     "seen_ids": [
+      "6b272aadabd2ae42",
       "8cd5595c5780c7bc",
       "11bbcc00a115e1b1",
       "0c6a45b548e9af82",
