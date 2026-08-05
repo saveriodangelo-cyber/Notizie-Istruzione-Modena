@@ -1,9 +1,15 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-05T10:03:50+00:00"
+    "last_checked_at_utc": "2026-08-05T12:19:07+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "5 Agosto 2026 5 Agosto 2026",
+        "id": "957813ec8978c5d7",
+        "title": "Ata – Assegnazioni per la mobilità annuale-Graduatorie Provvisorie–a.s. 2026-27",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/05/ata-assegnazioni-per-la-mobilita-annuale-graduatorie-provvisorie-a-s-2026-27/"
+      },
       {
         "date": "4 Agosto 2026",
         "id": "6eede6d82e0467c3",
@@ -21,15 +27,10 @@
         "id": "fddcbe6309d92569",
         "title": "sedi vacanti per nomine a TD finalizzato al ruolo GPS sostegno I fsc – ADAA-ADEE",
         "url": "https://mo.istruzioneer.gov.it/2026/08/03/sedi-vacanti-per-nomine-a-td-finalizzato-al-ruolo-gps-sostegno-i-fsc-adaa-adee/"
-      },
-      {
-        "date": "3 Agosto 2026 4 Agosto 2026",
-        "id": "eac800f59517338c",
-        "title": "GPS 2026-2028 – Esclusioni",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/03/gps-2026-2028-esclusioni/"
       }
     ],
     "seen_ids": [
+      "957813ec8978c5d7",
       "6eede6d82e0467c3",
       "2849eb2657522ef3",
       "fddcbe6309d92569",
@@ -130,6 +131,24 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "5 Agosto 2026 5 Agosto 2026",
+        "id": "9b158915e077333b",
+        "title": "AVVISO Reclutamento personale docente su posto sostegno “Procedura per chiamata”",
+        "url": "https://www.istruzioneer.gov.it/2026/08/05/avviso-reclutamento-personale-docente-su-posto-sostegno-procedura-per-chiamata/"
+      },
+      {
+        "date": "5 Agosto 2026",
+        "id": "84cefd879fb44a47",
+        "title": "NOMINE a.s. 2026/27: rettifica Dispositivo attribuzione SEDI – Surroghe",
+        "url": "https://www.istruzioneer.gov.it/2026/08/05/nomine-a-s-2026-27-rettifica-dispositivo-attribuzione-sedi-surroghe/"
+      },
+      {
+        "date": "5 Agosto 2026 5 Agosto 2026",
+        "id": "4cb0e5575b9e37d6",
+        "title": "Immissioni in ruolo AS2026/27–AVVISO APERTURA SCELTA PROVINCIA -Surroghe",
+        "url": "https://www.istruzioneer.gov.it/2026/08/05/immissioni-in-ruolo-as2026-27-avviso-apertura-scelta-provincia-surroghe/"
+      },
+      {
         "date": "3 Agosto 2026",
         "id": "1be13cd82879f3f1",
         "title": "NOMINE a.s. 2026/27: Dispositivo attribuzione SEDI – Surroghe",
@@ -164,27 +183,12 @@
         "id": "73413b661f3e5846",
         "title": "D.D.G. 2939/2025 – concorso docenti – GM BB02 – scorrimento",
         "url": "https://www.istruzioneer.gov.it/2026/07/29/d-d-g-2939-2025-concorso-docenti-gm-bb02-scorrimento/"
-      },
-      {
-        "date": "28 Luglio 2026",
-        "id": "c5a1743ab39e5ea5",
-        "title": "D.D.G. 3059/2024 – concorso docenti – GM AJ55 – scorrimento Puglia",
-        "url": "https://www.istruzioneer.gov.it/2026/07/28/d-d-g-3059-2024-concorso-docenti-gm-aj55-scorrimento-puglia-2/"
-      },
-      {
-        "date": "28 Luglio 2026",
-        "id": "cd0f28dee1509120",
-        "title": "D.D.G. 2939/2025 – concorso docenti – GM B021 – scorrimento Liguria",
-        "url": "https://www.istruzioneer.gov.it/2026/07/28/d-d-g-2939-2025-concorso-docenti-gm-b021-scorrimento-liguria/"
-      },
-      {
-        "date": "28 Luglio 2026",
-        "id": "34f2677b53e9b9c6",
-        "title": "D.D.G. 3059/2024 – concorso docenti – GM A003 – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/07/28/d-d-g-3059-2024-concorso-docenti-gm-a003-scorrimento/"
       }
     ],
     "seen_ids": [
+      "9b158915e077333b",
+      "84cefd879fb44a47",
+      "4cb0e5575b9e37d6",
       "1be13cd82879f3f1",
       "8e52bfe8fc4c872a",
       "e284f18689b44699",
