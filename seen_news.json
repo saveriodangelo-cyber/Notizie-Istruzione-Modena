@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-05T07:20:45+00:00"
+    "last_checked_at_utc": "2026-08-05T10:03:50+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -63,6 +63,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "5 Agosto 2026",
+        "id": "942d26ae333f64ad",
+        "title": "Posti disponibili Organico di Diritto e Part Time personale ATA a.s. 2026-2027",
+        "url": "https://re.istruzioneer.gov.it/2026/08/05/posti-disponibili-organico-di-diritto-e-part-time-personale-ata-a-s-2026-2027/"
+      },
+      {
         "date": "4 Agosto 2026",
         "id": "6893cce15ad8dc6e",
         "title": "Procedura straordinaria ex art. 5 D.L. 44/2023 – PUBBLICAZIONE ESITI NOMINE – a.s. 2026/2027",
@@ -103,15 +109,10 @@
         "id": "51e69c0c2ff91dd1",
         "title": "Graduatorie Provinciali per le Supplenze aa.ss. 2026/27 – 2027/2028 – PUBBLICAZIONE",
         "url": "https://re.istruzioneer.gov.it/2026/07/22/graduatorie-provinciali-per-le-supplenze-aa-ss-2026-27-2027-2028-pubblicazione/"
-      },
-      {
-        "date": "21 Luglio 2026",
-        "id": "38c34d60498b3266",
-        "title": "Graduatorie provinciali permanenti PROVVISORIE valide per l’A.S. 2026-2027 – Personale ATA",
-        "url": "https://re.istruzioneer.gov.it/2026/07/21/graduatorie-provinciali-permanenti-provvisorie-valide-per-la-s-2026-2027-personale-ata/"
       }
     ],
     "seen_ids": [
+      "942d26ae333f64ad",
       "6893cce15ad8dc6e",
       "6b272aadabd2ae42",
       "8cd5595c5780c7bc",
