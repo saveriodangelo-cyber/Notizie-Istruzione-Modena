@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-06T10:08:27+00:00"
+    "last_checked_at_utc": "2026-08-06T12:21:11+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -66,6 +66,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "6 Agosto 2026",
+        "id": "1bf610c7bab9ad67",
+        "title": "AVVISO Reclutamento personale docente su posto sostegno “Procedura per chiamata”",
+        "url": "https://re.istruzioneer.gov.it/2026/08/06/avviso-reclutamento-personale-docente-su-posto-sostegno-procedura-per-chiamata/"
+      },
+      {
         "date": "5 Agosto 2026",
         "id": "942d26ae333f64ad",
         "title": "Posti disponibili Organico di Diritto e Part Time personale ATA a.s. 2026-2027",
@@ -106,15 +112,10 @@
         "id": "2713519050b1897c",
         "title": "PROCEDURA PER L’INDIVIDUAZIONE DI PERSONALE ATA DA DESTINARE A COMANDO PRESSO L’UFFICIO XI AMBITO TERRITORIALE REGGIO EMILIA PER L’A.S. 26/27",
         "url": "https://re.istruzioneer.gov.it/2026/07/30/procedura-per-lindividuazione-di-personale-ata-da-destinare-a-comando-presso-lufficio-xi-ambito-territoriale-reggio-emilia-per-la-s-26-27/"
-      },
-      {
-        "date": "22 Luglio 2026 22 Luglio 2026",
-        "id": "51e69c0c2ff91dd1",
-        "title": "Graduatorie Provinciali per le Supplenze aa.ss. 2026/27 – 2027/2028 – PUBBLICAZIONE",
-        "url": "https://re.istruzioneer.gov.it/2026/07/22/graduatorie-provinciali-per-le-supplenze-aa-ss-2026-27-2027-2028-pubblicazione/"
       }
     ],
     "seen_ids": [
+      "1bf610c7bab9ad67",
       "942d26ae333f64ad",
       "6893cce15ad8dc6e",
       "6b272aadabd2ae42",
@@ -132,6 +133,18 @@
   },
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "6 Agosto 2026",
+        "id": "d221588ac4848a91",
+        "title": "D.D.G. 2939/2025 – concorso docenti – GM AS12 – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/08/06/d-d-g-2939-2025-concorso-docenti-gm-as12-scorrimento-2/"
+      },
+      {
+        "date": "6 Agosto 2026",
+        "id": "578c1f2215464b2e",
+        "title": "D.D.G. 2575/2023 – concorso docenti – GM AS12 – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/08/06/d-d-g-2575-2023-concorso-docenti-gm-as12-scorrimento-2/"
+      },
       {
         "date": "6 Agosto 2026",
         "id": "18f476ac7ecdf4be",
@@ -173,21 +186,11 @@
         "id": "84cefd879fb44a47",
         "title": "NOMINE a.s. 2026/27: rettifica Dispositivo attribuzione SEDI – Surroghe",
         "url": "https://www.istruzioneer.gov.it/2026/08/05/nomine-a-s-2026-27-rettifica-dispositivo-attribuzione-sedi-surroghe/"
-      },
-      {
-        "date": "5 Agosto 2026 5 Agosto 2026",
-        "id": "4cb0e5575b9e37d6",
-        "title": "Immissioni in ruolo AS2026/27–AVVISO APERTURA SCELTA PROVINCIA -Surroghe",
-        "url": "https://www.istruzioneer.gov.it/2026/08/05/immissioni-in-ruolo-as2026-27-avviso-apertura-scelta-provincia-surroghe/"
-      },
-      {
-        "date": "3 Agosto 2026",
-        "id": "1be13cd82879f3f1",
-        "title": "NOMINE a.s. 2026/27: Dispositivo attribuzione SEDI – Surroghe",
-        "url": "https://www.istruzioneer.gov.it/2026/08/03/nomine-a-s-2026-27-dispositivo-attribuzione-sedi-surroghe/"
       }
     ],
     "seen_ids": [
+      "d221588ac4848a91",
+      "578c1f2215464b2e",
       "18f476ac7ecdf4be",
       "695f9a9402e49083",
       "f5f01ad653b1670c",
