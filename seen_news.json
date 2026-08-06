@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-06T07:22:40+00:00"
+    "last_checked_at_utc": "2026-08-06T10:08:27+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,30 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "6 Agosto 2026",
+        "id": "18f476ac7ecdf4be",
+        "title": "D.D.G. 2575/2023 – concorso docenti – GM AM2B – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/08/06/d-d-g-2575-2023-concorso-docenti-gm-am2b-scorrimento-2/"
+      },
+      {
+        "date": "6 Agosto 2026",
+        "id": "695f9a9402e49083",
+        "title": "D.D.G. 2575/2023: Concorso docenti scuola secondaria – GM AM12 – Integrazione",
+        "url": "https://www.istruzioneer.gov.it/2026/08/06/d-d-g-2575-2023-concorso-docenti-scuola-secondaria-gm-am12-integrazione-2/"
+      },
+      {
+        "date": "6 Agosto 2026",
+        "id": "f5f01ad653b1670c",
+        "title": "D.D.G. 3059/2024 – concorso docenti – GM AM2C – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/08/06/d-d-g-3059-2024-concorso-docenti-gm-am2c-scorrimento-2/"
+      },
+      {
+        "date": "6 Agosto 2026",
+        "id": "6892fcd4c211add6",
+        "title": "D.D.G. 2939/2025 – concorso docenti – GM AM48 – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/08/06/d-d-g-2939-2025-concorso-docenti-gm-am48-scorrimento-2/"
+      },
+      {
         "date": "5 Agosto 2026",
         "id": "7aa0a94a97aeb1df",
         "title": "Nomine a.s. 2026/27: Dispositivo assegnazione sedi – Rettifica",
@@ -161,33 +185,13 @@
         "id": "1be13cd82879f3f1",
         "title": "NOMINE a.s. 2026/27: Dispositivo attribuzione SEDI – Surroghe",
         "url": "https://www.istruzioneer.gov.it/2026/08/03/nomine-a-s-2026-27-dispositivo-attribuzione-sedi-surroghe/"
-      },
-      {
-        "date": "3 Agosto 2026 3 Agosto 2026",
-        "id": "8e52bfe8fc4c872a",
-        "title": "AVVISO copertura 7 posti personale educativo convitti statali nazionali E.R.",
-        "url": "https://www.istruzioneer.gov.it/2026/08/03/avviso-copertura-7-posti-personale-educativo-convitti-statali-nazionali-e-r/"
-      },
-      {
-        "date": "31 Luglio 2026",
-        "id": "e284f18689b44699",
-        "title": "Immissioni in ruolo a.s. 2026/27 – AVVISO ESITO PROVINCE – Surroghe",
-        "url": "https://www.istruzioneer.gov.it/2026/07/31/immissioni-in-ruolo-a-s-2026-27-avviso-esito-province-surroghe/"
-      },
-      {
-        "date": "31 Luglio 2026",
-        "id": "2ed9d710c7a32039",
-        "title": "D.D.G. 2939/2024 – GM B021 – annullamento scorrimento Liguria",
-        "url": "https://www.istruzioneer.gov.it/2026/07/31/d-d-g-2939-2024-gm-b021-annullamento-scorrimento-liguria/"
-      },
-      {
-        "date": "30 Luglio 2026",
-        "id": "96d3e51225e9aec5",
-        "title": "Nomine a.s. 2026/27: Dispositivo assegnazione sedi – Scorrimenti",
-        "url": "https://www.istruzioneer.gov.it/2026/07/30/nomine-a-s-2026-27-dispositivo-assegnazione-sedi-scorrimenti/"
       }
     ],
     "seen_ids": [
+      "18f476ac7ecdf4be",
+      "695f9a9402e49083",
+      "f5f01ad653b1670c",
+      "6892fcd4c211add6",
       "7aa0a94a97aeb1df",
       "9b158915e077333b",
       "84cefd879fb44a47",
