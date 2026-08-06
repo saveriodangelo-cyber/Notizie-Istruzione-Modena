@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-06T12:21:11+00:00"
+    "last_checked_at_utc": "2026-08-06T14:44:24+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -67,6 +67,12 @@
     "latest_items": [
       {
         "date": "6 Agosto 2026",
+        "id": "7b2bb71c22a03181",
+        "title": "Notifica per pubblici proclami Ricorso ex art. 414 c.p.c., Trib. Rimini, sez. Lavoro e Previdenza DE ROSA Cinzia /M.I.M.",
+        "url": "https://re.istruzioneer.gov.it/2026/08/06/notifica-per-pubblici-proclami-ricorso-ex-art-414-c-p-c-trib-rimini-sez-lavoro-e-previdenza-de-rosa-cinzia-m-i-m/"
+      },
+      {
+        "date": "6 Agosto 2026",
         "id": "1bf610c7bab9ad67",
         "title": "AVVISO Reclutamento personale docente su posto sostegno “Procedura per chiamata”",
         "url": "https://re.istruzioneer.gov.it/2026/08/06/avviso-reclutamento-personale-docente-su-posto-sostegno-procedura-per-chiamata/"
@@ -106,15 +112,10 @@
         "id": "0c6a45b548e9af82",
         "title": "Avviso per 7 posti di educatore nei Convitti statali Regione E.R.-DDG 28/7/2000",
         "url": "https://re.istruzioneer.gov.it/2026/07/30/avviso-per-7-posti-di-educatore-nei-convitti-statali-regione-e-r-ddg-28-7-2000/"
-      },
-      {
-        "date": "30 Luglio 2026",
-        "id": "2713519050b1897c",
-        "title": "PROCEDURA PER L’INDIVIDUAZIONE DI PERSONALE ATA DA DESTINARE A COMANDO PRESSO L’UFFICIO XI AMBITO TERRITORIALE REGGIO EMILIA PER L’A.S. 26/27",
-        "url": "https://re.istruzioneer.gov.it/2026/07/30/procedura-per-lindividuazione-di-personale-ata-da-destinare-a-comando-presso-lufficio-xi-ambito-territoriale-reggio-emilia-per-la-s-26-27/"
       }
     ],
     "seen_ids": [
+      "7b2bb71c22a03181",
       "1bf610c7bab9ad67",
       "942d26ae333f64ad",
       "6893cce15ad8dc6e",
@@ -133,6 +134,24 @@
   },
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "6 Agosto 2026",
+        "id": "4ab18b3f31c8bd9a",
+        "title": "D.D.G. 2939/2025 – concorso docenti – GM AS2B – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/08/06/d-d-g-2939-2025-concorso-docenti-gm-as2b-scorrimento-2/"
+      },
+      {
+        "date": "6 Agosto 2026",
+        "id": "d92e04f3c5577a26",
+        "title": "D.D.G. 2575/2023 – concorso docenti – GM AM12 – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/08/06/d-d-g-2575-2023-concorso-docenti-gm-am12-scorrimento-2/"
+      },
+      {
+        "date": "6 Agosto 2026",
+        "id": "5246da96b9032d2b",
+        "title": "Nomine a.s. 2026/27: Dispositivo assegnazione sedi – Rettifica",
+        "url": "https://www.istruzioneer.gov.it/2026/08/06/nomine-a-s-2026-27-dispositivo-assegnazione-sedi-rettifica-2/"
+      },
       {
         "date": "6 Agosto 2026",
         "id": "d221588ac4848a91",
@@ -168,27 +187,12 @@
         "id": "6892fcd4c211add6",
         "title": "D.D.G. 2939/2025 – concorso docenti – GM AM48 – scorrimento",
         "url": "https://www.istruzioneer.gov.it/2026/08/06/d-d-g-2939-2025-concorso-docenti-gm-am48-scorrimento-2/"
-      },
-      {
-        "date": "5 Agosto 2026",
-        "id": "7aa0a94a97aeb1df",
-        "title": "Nomine a.s. 2026/27: Dispositivo assegnazione sedi – Rettifica",
-        "url": "https://www.istruzioneer.gov.it/2026/08/05/nomine-a-s-2026-27-dispositivo-assegnazione-sedi-rettifica/"
-      },
-      {
-        "date": "5 Agosto 2026 5 Agosto 2026",
-        "id": "9b158915e077333b",
-        "title": "AVVISO Reclutamento personale docente su posto sostegno “Procedura per chiamata”",
-        "url": "https://www.istruzioneer.gov.it/2026/08/05/avviso-reclutamento-personale-docente-su-posto-sostegno-procedura-per-chiamata/"
-      },
-      {
-        "date": "5 Agosto 2026",
-        "id": "84cefd879fb44a47",
-        "title": "NOMINE a.s. 2026/27: rettifica Dispositivo attribuzione SEDI – Surroghe",
-        "url": "https://www.istruzioneer.gov.it/2026/08/05/nomine-a-s-2026-27-rettifica-dispositivo-attribuzione-sedi-surroghe/"
       }
     ],
     "seen_ids": [
+      "4ab18b3f31c8bd9a",
+      "d92e04f3c5577a26",
+      "5246da96b9032d2b",
       "d221588ac4848a91",
       "578c1f2215464b2e",
       "18f476ac7ecdf4be",
