@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-07T10:16:07+00:00"
+    "last_checked_at_utc": "2026-08-07T11:12:24+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -66,6 +66,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "7 Agosto 2026",
+        "id": "a3b8ef04a7cdb1cb",
+        "title": "Utilizzazioni e Assegnazioni Provvisorie ATA a.s. 2026/27 – Grad. Provvisorie",
+        "url": "https://re.istruzioneer.gov.it/2026/08/07/utilizzazioni-e-assegnazioni-provvisorie-ata-a-s-2026-27-grad-provvisorie/"
+      },
+      {
         "date": "6 Agosto 2026",
         "id": "7b2bb71c22a03181",
         "title": "Notifica per pubblici proclami Ricorso ex art. 414 c.p.c., Trib. Rimini, sez. Lavoro e Previdenza DE ROSA Cinzia /M.I.M.",
@@ -106,15 +112,10 @@
         "id": "11bbcc00a115e1b1",
         "title": "Graduatorie Provinciali per le Supplenze aa.ss. 2026/27 – 2027/28 – ESCLUSIONI",
         "url": "https://re.istruzioneer.gov.it/2026/08/04/graduatorie-provinciali-per-le-supplenze-aa-ss-2026-27-2027-28-esclusioni/"
-      },
-      {
-        "date": "30 Luglio 2026",
-        "id": "0c6a45b548e9af82",
-        "title": "Avviso per 7 posti di educatore nei Convitti statali Regione E.R.-DDG 28/7/2000",
-        "url": "https://re.istruzioneer.gov.it/2026/07/30/avviso-per-7-posti-di-educatore-nei-convitti-statali-regione-e-r-ddg-28-7-2000/"
       }
     ],
     "seen_ids": [
+      "a3b8ef04a7cdb1cb",
       "7b2bb71c22a03181",
       "1bf610c7bab9ad67",
       "942d26ae333f64ad",
