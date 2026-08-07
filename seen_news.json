@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-06T14:44:24+00:00"
+    "last_checked_at_utc": "2026-08-07T00:19:28+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -135,6 +135,18 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "6 Agosto 2026 6 Agosto 2026",
+        "id": "2a513ec1081b6838",
+        "title": "Immissioni in ruolo AS 2026/27–AVVISO APERTURA SCELTA PROVINCIA -Surroghe",
+        "url": "https://www.istruzioneer.gov.it/2026/08/06/immissioni-in-ruolo-as-2026-27-avviso-apertura-scelta-provincia-surroghe/"
+      },
+      {
+        "date": "6 Agosto 2026",
+        "id": "8540ee65cc581603",
+        "title": "D.D.G. 2939/2025 – concorso docenti – GM ADMM – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/08/06/d-d-g-2939-2025-concorso-docenti-gm-admm-scorrimento-2/"
+      },
+      {
         "date": "6 Agosto 2026",
         "id": "4ab18b3f31c8bd9a",
         "title": "D.D.G. 2939/2025 – concorso docenti – GM AS2B – scorrimento",
@@ -175,21 +187,11 @@
         "id": "695f9a9402e49083",
         "title": "D.D.G. 2575/2023: Concorso docenti scuola secondaria – GM AM12 – Integrazione",
         "url": "https://www.istruzioneer.gov.it/2026/08/06/d-d-g-2575-2023-concorso-docenti-scuola-secondaria-gm-am12-integrazione-2/"
-      },
-      {
-        "date": "6 Agosto 2026",
-        "id": "f5f01ad653b1670c",
-        "title": "D.D.G. 3059/2024 – concorso docenti – GM AM2C – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/08/06/d-d-g-3059-2024-concorso-docenti-gm-am2c-scorrimento-2/"
-      },
-      {
-        "date": "6 Agosto 2026",
-        "id": "6892fcd4c211add6",
-        "title": "D.D.G. 2939/2025 – concorso docenti – GM AM48 – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/08/06/d-d-g-2939-2025-concorso-docenti-gm-am48-scorrimento-2/"
       }
     ],
     "seen_ids": [
+      "2a513ec1081b6838",
+      "8540ee65cc581603",
       "4ab18b3f31c8bd9a",
       "d92e04f3c5577a26",
       "5246da96b9032d2b",
