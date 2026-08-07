@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-07T15:38:55+00:00"
+    "last_checked_at_utc": "2026-08-07T16:36:08+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -66,6 +66,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "7 Agosto 2026 7 Agosto 2026",
+        "id": "8505cb33800a8a65",
+        "title": "Procedura straordinaria ex art. 5 D.L. 44/2023 – PUBBLICAZIONE ESITI NOMINE – a.s. 2026/2027 – SCORRIMENTI",
+        "url": "https://re.istruzioneer.gov.it/2026/08/07/procedura-straordinaria-ex-art-5-d-l-44-2023-pubblicazione-esiti-nomine-a-s-2026-2027-scorrimenti/"
+      },
+      {
         "date": "7 Agosto 2026",
         "id": "a3b8ef04a7cdb1cb",
         "title": "Utilizzazioni e Assegnazioni Provvisorie ATA a.s. 2026/27 – Grad. Provvisorie",
@@ -106,15 +112,10 @@
         "id": "8cd5595c5780c7bc",
         "title": "Procedura straordinaria ex art. 5 D.L. 44/2023 – Pubblicazione disponibilità al termine delle immissioni in ruolo posti di sostegno psicofisico.",
         "url": "https://re.istruzioneer.gov.it/2026/08/04/procedura-straordinaria-ex-art-5-d-l-44-2023-pubblicazione-disponibilita-al-termine-delle-immissioni-in-ruolo-posti-di-sostegno-psicofisico-4/"
-      },
-      {
-        "date": "4 Agosto 2026 4 Agosto 2026",
-        "id": "11bbcc00a115e1b1",
-        "title": "Graduatorie Provinciali per le Supplenze aa.ss. 2026/27 – 2027/28 – ESCLUSIONI",
-        "url": "https://re.istruzioneer.gov.it/2026/08/04/graduatorie-provinciali-per-le-supplenze-aa-ss-2026-27-2027-28-esclusioni/"
       }
     ],
     "seen_ids": [
+      "8505cb33800a8a65",
       "a3b8ef04a7cdb1cb",
       "7b2bb71c22a03181",
       "1bf610c7bab9ad67",
