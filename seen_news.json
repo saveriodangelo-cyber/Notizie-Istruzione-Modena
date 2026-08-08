@@ -1,35 +1,38 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-08T14:01:18+00:00"
+    "last_checked_at_utc": "2026-08-08T14:51:43+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "8 Agosto 2026",
+        "id": "eee2efda510a1071",
+        "title": "Oggetto: Nomine a.s. 2026/27: Dispositivo assegnazione sedi – Rettifica",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/08/oggetto-nomine-a-s-2026-27-dispositivo-assegnazione-sedi-rettifica/"
+      },
+      {
+        "date": "8 Agosto 2026",
+        "id": "41ec0bbb8d88f04a",
+        "title": "D.D.G. 2939/2025 – concorso docenti – GM ADMM – scorrimento",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/08/d-d-g-2939-2025-concorso-docenti-gm-admm-scorrimento/"
+      },
+      {
+        "date": "8 Agosto 2026",
+        "id": "f5c77f7d5c47015e",
+        "title": "Pubblicazione AVVISO Immissioni in ruolo a.s. 2026/27",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/08/pubblicazione-avviso-immissioni-in-ruolo-a-s-2026-27/"
+      },
       {
         "date": "5 Agosto 2026 5 Agosto 2026",
         "id": "2b73d59be6b0c83a",
         "title": "AVVISO Immissioni in ruolo a.s. 2026/27 – ATTRIBUZIONE SEDI-Surroghe",
         "url": "https://mo.istruzioneer.gov.it/2026/08/05/avviso-immissioni-in-ruolo-a-s-2026-27-avviso-esito-province-surroghe-2/"
-      },
-      {
-        "date": "5 Agosto 2026 5 Agosto 2026",
-        "id": "5a0a390d3b7e24a0",
-        "title": "AVVISO Immissioni in ruolo a.s. 2026/27 – AVVISO ESITO PROVINCE – Surroghe",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/05/avviso-immissioni-in-ruolo-a-s-2026-27-avviso-esito-province-surroghe/"
-      },
-      {
-        "date": "5 Agosto 2026 5 Agosto 2026",
-        "id": "957813ec8978c5d7",
-        "title": "Ata – Assegnazioni per la mobilità annuale-Graduatorie Provvisorie–a.s. 2026-27",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/05/ata-assegnazioni-per-la-mobilita-annuale-graduatorie-provvisorie-a-s-2026-27/"
-      },
-      {
-        "date": "4 Agosto 2026",
-        "id": "6eede6d82e0467c3",
-        "title": "Esiti nomine a t.d. finalizzate al ruolo da 1^ fascia GPS ADAA-ADEE- a.s. 26/27",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/04/esiti-nomine-a-t-d-finalizzate-al-ruolo-da-1-fascia-gps-adaa-adee-a-s-26-27/"
       }
     ],
     "seen_ids": [
+      "eee2efda510a1071",
+      "41ec0bbb8d88f04a",
+      "f5c77f7d5c47015e",
       "2b73d59be6b0c83a",
       "5a0a390d3b7e24a0",
       "957813ec8978c5d7",
