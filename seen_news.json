@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-10T14:01:48+00:00"
+    "last_checked_at_utc": "2026-08-10T15:18:25+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -142,6 +142,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "10 Agosto 2026 10 Agosto 2026",
+        "id": "b0df7eb39fe7ad5c",
+        "title": "EFTER 2026/27 – Approvazione graduatoria di merito USRER",
+        "url": "https://www.istruzioneer.gov.it/2026/08/10/efter-2026-27-approvazione-graduatoria-di-merito-usrer/"
+      },
+      {
         "date": "7 Agosto 2026",
         "id": "57314bbefdaf4ea5",
         "title": "Immissioni in ruolo personale docente a.s. 2026/27 – AVVISO ESITO PROVINCE",
@@ -188,15 +194,10 @@
         "id": "578c1f2215464b2e",
         "title": "D.D.G. 2575/2023 – concorso docenti – GM AS12 – scorrimento",
         "url": "https://www.istruzioneer.gov.it/2026/08/06/d-d-g-2575-2023-concorso-docenti-gm-as12-scorrimento-2/"
-      },
-      {
-        "date": "6 Agosto 2026",
-        "id": "18f476ac7ecdf4be",
-        "title": "D.D.G. 2575/2023 – concorso docenti – GM AM2B – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/08/06/d-d-g-2575-2023-concorso-docenti-gm-am2b-scorrimento-2/"
       }
     ],
     "seen_ids": [
+      "b0df7eb39fe7ad5c",
       "57314bbefdaf4ea5",
       "2a513ec1081b6838",
       "8540ee65cc581603",
