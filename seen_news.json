@@ -1,9 +1,15 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-10T08:17:32+00:00"
+    "last_checked_at_utc": "2026-08-10T09:54:07+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "10 Agosto 2026",
+        "id": "86745f3cc4477952",
+        "title": "AVVISO Immissioni in ruolo a.s. 2026/27 – AVVISO ESITO PROVINCE – Surroghe",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/10/avviso-immissioni-in-ruolo-a-s-2026-27-avviso-esito-province-surroghe-3/"
+      },
       {
         "date": "8 Agosto 2026 8 Agosto 2026",
         "id": "eee2efda510a1071",
@@ -21,15 +27,10 @@
         "id": "f5c77f7d5c47015e",
         "title": "Pubblicazione AVVISO Immissioni in ruolo a.s. 2026/27",
         "url": "https://mo.istruzioneer.gov.it/2026/08/08/pubblicazione-avviso-immissioni-in-ruolo-a-s-2026-27/"
-      },
-      {
-        "date": "5 Agosto 2026 5 Agosto 2026",
-        "id": "2b73d59be6b0c83a",
-        "title": "AVVISO Immissioni in ruolo a.s. 2026/27 – ATTRIBUZIONE SEDI-Surroghe",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/05/avviso-immissioni-in-ruolo-a-s-2026-27-avviso-esito-province-surroghe-2/"
       }
     ],
     "seen_ids": [
+      "86745f3cc4477952",
       "eee2efda510a1071",
       "41ec0bbb8d88f04a",
       "f5c77f7d5c47015e",
@@ -68,6 +69,12 @@
   },
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "10 Agosto 2026",
+        "id": "6364d1017d50888a",
+        "title": "Personale ATA – Graduatorie provinciali definitive valide per l’A.S. 2026-27",
+        "url": "https://re.istruzioneer.gov.it/2026/08/10/personale-ata-graduatorie-provinciali-definitive-valide-per-la-s-2026-27/"
+      },
       {
         "date": "7 Agosto 2026 7 Agosto 2026",
         "id": "8505cb33800a8a65",
@@ -109,15 +116,10 @@
         "id": "6b272aadabd2ae42",
         "title": "Graduatorie Provinciali per le Supplenze aa.ss. 2026/27 – 2027/28 – RETTIFICA",
         "url": "https://re.istruzioneer.gov.it/2026/08/04/graduatorie-provinciali-per-le-supplenze-aa-ss-2026-27-2027-28-rettifica/"
-      },
-      {
-        "date": "4 Agosto 2026",
-        "id": "8cd5595c5780c7bc",
-        "title": "Procedura straordinaria ex art. 5 D.L. 44/2023 – Pubblicazione disponibilità al termine delle immissioni in ruolo posti di sostegno psicofisico.",
-        "url": "https://re.istruzioneer.gov.it/2026/08/04/procedura-straordinaria-ex-art-5-d-l-44-2023-pubblicazione-disponibilita-al-termine-delle-immissioni-in-ruolo-posti-di-sostegno-psicofisico-4/"
       }
     ],
     "seen_ids": [
+      "6364d1017d50888a",
       "8505cb33800a8a65",
       "a3b8ef04a7cdb1cb",
       "7b2bb71c22a03181",
