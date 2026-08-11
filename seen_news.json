@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-11T16:40:43+00:00"
+    "last_checked_at_utc": "2026-08-11T17:43:48+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -143,12 +143,24 @@
     "latest_items": [
       {
         "date": "11 Agosto 2026",
+        "id": "117a13690bccce63",
+        "title": "D.D.G. 3059/2024 – concorso docenti – GM A031 SARDEGNA – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/08/11/d-d-g-3059-2024-concorso-docenti-gm-a031-sardegna-scorrimento/"
+      },
+      {
+        "date": "11 Agosto 2026",
+        "id": "fbfc559560402f36",
+        "title": "D.D.G. 2575/2023 – concorso docenti – GM A015 FVG – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/08/11/d-d-g-2575-2023-concorso-docenti-gm-a015-fvg-scorrimento-2/"
+      },
+      {
+        "date": "11 Agosto 2026 11 Agosto 2026",
         "id": "3002f1cfe798e5f1",
         "title": "D.D.G. 2939/2025 – concorso docenti – GM AS2D FVG – scorrimento",
         "url": "https://www.istruzioneer.gov.it/2026/08/11/d-d-g-2939-2025-concorso-docenti-gm-as2d-fvg-scorrimento/"
       },
       {
-        "date": "11 Agosto 2026",
+        "date": "11 Agosto 2026 11 Agosto 2026",
         "id": "f172726106d81dc6",
         "title": "D.D.G. 2939/2025 – concorso docenti – GM AS12 FVG – scorrimento",
         "url": "https://www.istruzioneer.gov.it/2026/08/11/d-d-g-2939-2025-concorso-docenti-gm-as12-fvg-scorrimento/"
@@ -182,21 +194,11 @@
         "id": "8540ee65cc581603",
         "title": "D.D.G. 2939/2025 – concorso docenti – GM ADMM – scorrimento",
         "url": "https://www.istruzioneer.gov.it/2026/08/06/d-d-g-2939-2025-concorso-docenti-gm-admm-scorrimento-2/"
-      },
-      {
-        "date": "6 Agosto 2026",
-        "id": "4ab18b3f31c8bd9a",
-        "title": "D.D.G. 2939/2025 – concorso docenti – GM AS2B – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/08/06/d-d-g-2939-2025-concorso-docenti-gm-as2b-scorrimento-2/"
-      },
-      {
-        "date": "6 Agosto 2026",
-        "id": "d92e04f3c5577a26",
-        "title": "D.D.G. 2575/2023 – concorso docenti – GM AM12 – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/08/06/d-d-g-2575-2023-concorso-docenti-gm-am12-scorrimento-2/"
       }
     ],
     "seen_ids": [
+      "117a13690bccce63",
+      "fbfc559560402f36",
       "3002f1cfe798e5f1",
       "f172726106d81dc6",
       "268e12c49b6382b1",
