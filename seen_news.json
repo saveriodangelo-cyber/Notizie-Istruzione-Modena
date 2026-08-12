@@ -1,9 +1,15 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-12T12:29:11+00:00"
+    "last_checked_at_utc": "2026-08-12T14:03:26+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "12 Agosto 2026",
+        "id": "649d239431fc86e1",
+        "title": "Utilizzazioni e Assegnazioni Provvisorie 26/27 personale docente. Provvisorie",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/12/utilizzazioni-e-assegnazioni-provvisorie-26-27-personale-docente-provvisorie/"
+      },
       {
         "date": "12 Agosto 2026 12 Agosto 2026",
         "id": "064932d6dc7ca542",
@@ -21,15 +27,10 @@
         "id": "eee2efda510a1071",
         "title": "Oggetto: Nomine a.s. 2026/27: Dispositivo assegnazione sedi – Rettifica",
         "url": "https://mo.istruzioneer.gov.it/2026/08/08/oggetto-nomine-a-s-2026-27-dispositivo-assegnazione-sedi-rettifica/"
-      },
-      {
-        "date": "8 Agosto 2026",
-        "id": "41ec0bbb8d88f04a",
-        "title": "D.D.G. 2939/2025 – concorso docenti – GM ADMM – scorrimento",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/08/d-d-g-2939-2025-concorso-docenti-gm-admm-scorrimento/"
       }
     ],
     "seen_ids": [
+      "649d239431fc86e1",
       "064932d6dc7ca542",
       "86745f3cc4477952",
       "eee2efda510a1071",
