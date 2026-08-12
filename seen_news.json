@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-12T15:16:50+00:00"
+    "last_checked_at_utc": "2026-08-12T16:13:53+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -144,6 +144,18 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "12 Agosto 2026",
+        "id": "e36797b9aef1db15",
+        "title": "Procedura per chiamata “Mini-call veloce 2026”- sostegno – posti disponibili",
+        "url": "https://www.istruzioneer.gov.it/2026/08/12/procedura-per-chiamata-mini-call-veloce-2026-sostegno-posti-disponibili/"
+      },
+      {
+        "date": "12 Agosto 2026",
+        "id": "60b9c8deaf3f4076",
+        "title": "NOMINE a.s. 2026/27: Dispositivo attribuzione SEDI – Surroghe",
+        "url": "https://www.istruzioneer.gov.it/2026/08/12/nomine-a-s-2026-27-dispositivo-attribuzione-sedi-surroghe-2/"
+      },
+      {
         "date": "11 Agosto 2026",
         "id": "117a13690bccce63",
         "title": "D.D.G. 3059/2024 – concorso docenti – GM A031 SARDEGNA – scorrimento",
@@ -184,21 +196,11 @@
         "id": "57314bbefdaf4ea5",
         "title": "Immissioni in ruolo personale docente a.s. 2026/27 – AVVISO ESITO PROVINCE",
         "url": "https://www.istruzioneer.gov.it/2026/08/07/immissioni-in-ruolo-personale-docente-a-s-2026-27-avviso-esito-province-2/"
-      },
-      {
-        "date": "6 Agosto 2026 6 Agosto 2026",
-        "id": "2a513ec1081b6838",
-        "title": "Immissioni in ruolo AS 2026/27–AVVISO APERTURA SCELTA PROVINCIA -Surroghe",
-        "url": "https://www.istruzioneer.gov.it/2026/08/06/immissioni-in-ruolo-as-2026-27-avviso-apertura-scelta-provincia-surroghe/"
-      },
-      {
-        "date": "6 Agosto 2026",
-        "id": "8540ee65cc581603",
-        "title": "D.D.G. 2939/2025 – concorso docenti – GM ADMM – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/08/06/d-d-g-2939-2025-concorso-docenti-gm-admm-scorrimento-2/"
       }
     ],
     "seen_ids": [
+      "e36797b9aef1db15",
+      "60b9c8deaf3f4076",
       "117a13690bccce63",
       "fbfc559560402f36",
       "3002f1cfe798e5f1",
