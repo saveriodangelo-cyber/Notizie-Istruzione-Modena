@@ -1,9 +1,21 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-13T06:49:11+00:00"
+    "last_checked_at_utc": "2026-08-13T08:10:29+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "13 Agosto 2026",
+        "id": "67b40535dec61c9f",
+        "title": "Disponibilità per la procedura “per chiamata” – “mini call veloce” 2026",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/13/disponibilita-per-la-procedura-per-chiamata-mini-call-veloce-2026/"
+      },
+      {
+        "date": "13 Agosto 2026",
+        "id": "2781935e050a8506",
+        "title": "NOMINE a.s. 2026/27: Dispositivo attribuzione SEDI – Surroghe",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/13/nomine-a-s-2026-27-dispositivo-attribuzione-sedi-surroghe/"
+      },
       {
         "date": "12 Agosto 2026",
         "id": "649d239431fc86e1",
@@ -15,21 +27,11 @@
         "id": "064932d6dc7ca542",
         "title": "AVVISO Immissioni in ruolo a.s. 2026/27 – AVVISO ESITO PROVINCE – Surroghe",
         "url": "https://mo.istruzioneer.gov.it/2026/08/12/avviso-immissioni-in-ruolo-a-s-2026-27-avviso-esito-province-surroghe-4/"
-      },
-      {
-        "date": "10 Agosto 2026",
-        "id": "86745f3cc4477952",
-        "title": "AVVISO Immissioni in ruolo a.s. 2026/27 – AVVISO ESITO PROVINCE – Surroghe",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/10/avviso-immissioni-in-ruolo-a-s-2026-27-avviso-esito-province-surroghe-3/"
-      },
-      {
-        "date": "8 Agosto 2026 8 Agosto 2026",
-        "id": "eee2efda510a1071",
-        "title": "Oggetto: Nomine a.s. 2026/27: Dispositivo assegnazione sedi – Rettifica",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/08/oggetto-nomine-a-s-2026-27-dispositivo-assegnazione-sedi-rettifica/"
       }
     ],
     "seen_ids": [
+      "67b40535dec61c9f",
+      "2781935e050a8506",
       "649d239431fc86e1",
       "064932d6dc7ca542",
       "86745f3cc4477952",
