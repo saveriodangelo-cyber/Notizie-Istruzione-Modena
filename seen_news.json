@@ -1,9 +1,15 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-13T14:04:26+00:00"
+    "last_checked_at_utc": "2026-08-13T15:17:46+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "13 Agosto 2026",
+        "id": "3708a8eef05c9138",
+        "title": "Ata – Adeguamento dell’organico di diritto alle situazioni di fatto-a.s. 2026-27",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/13/ata-adeguamento-dellorganico-di-diritto-alle-situazioni-di-fatto-a-s-2026-27/"
+      },
       {
         "date": "13 Agosto 2026",
         "id": "67b40535dec61c9f",
@@ -21,15 +27,10 @@
         "id": "649d239431fc86e1",
         "title": "Utilizzazioni e Assegnazioni Provvisorie 26/27 personale docente. Provvisorie",
         "url": "https://mo.istruzioneer.gov.it/2026/08/12/utilizzazioni-e-assegnazioni-provvisorie-26-27-personale-docente-provvisorie/"
-      },
-      {
-        "date": "12 Agosto 2026 12 Agosto 2026",
-        "id": "064932d6dc7ca542",
-        "title": "AVVISO Immissioni in ruolo a.s. 2026/27 – AVVISO ESITO PROVINCE – Surroghe",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/12/avviso-immissioni-in-ruolo-a-s-2026-27-avviso-esito-province-surroghe-4/"
       }
     ],
     "seen_ids": [
+      "3708a8eef05c9138",
       "67b40535dec61c9f",
       "2781935e050a8506",
       "649d239431fc86e1",
@@ -75,6 +76,18 @@
     "latest_items": [
       {
         "date": "13 Agosto 2026 13 Agosto 2026",
+        "id": "d45aa33435f82393",
+        "title": "Utilizzazioni e Assegnazioni Provvisorie ATA a.s. 2026/27 – Grad. Definitive e contestuale assegnazione sede per l’a.s. 2026-2027",
+        "url": "https://re.istruzioneer.gov.it/2026/08/13/utilizzazioni-e-assegnazioni-provvisorie-ata-a-s-2026-27-grad-definitive-e-contestuale-assegnazione-sede-per-la-s-2026-2027/"
+      },
+      {
+        "date": "13 Agosto 2026",
+        "id": "7e6f4236ca45d8e0",
+        "title": "PROCEDURA PER L’INDIVIDUAZIONE DI PERSONALE ATA DA DESTINARE A COMANDO PRESSO L’UFFICIO SCOLASTICO REGIONALE PER L’EMILIA ROMAGNA PER L’A.S.26-27",
+        "url": "https://re.istruzioneer.gov.it/2026/08/13/procedura-per-lindividuazione-di-personale-ata-da-destinare-a-comando-presso-lufficio-scolastico-regionale-per-lemilia-romagna-per-la-s-26-27/"
+      },
+      {
+        "date": "13 Agosto 2026 13 Agosto 2026",
         "id": "bc571b32195baa38",
         "title": "Disponibilità procedura “per chiamata” di cui all’articolo 5, comma 12, del decreto-legge 22 aprile 2023, n. 44.",
         "url": "https://re.istruzioneer.gov.it/2026/08/13/disponibilita-procedura-per-chiamata-di-cui-allarticolo-5-comma-12-del-decreto-legge-22-aprile-2023-n-44-2/"
@@ -108,21 +121,11 @@
         "id": "1bf610c7bab9ad67",
         "title": "AVVISO Reclutamento personale docente su posto sostegno “Procedura per chiamata”",
         "url": "https://re.istruzioneer.gov.it/2026/08/06/avviso-reclutamento-personale-docente-su-posto-sostegno-procedura-per-chiamata/"
-      },
-      {
-        "date": "5 Agosto 2026 7 Agosto 2026",
-        "id": "942d26ae333f64ad",
-        "title": "Posti disponibili Organico di Diritto e Part Time personale ATA a.s. 2026-2027",
-        "url": "https://re.istruzioneer.gov.it/2026/08/05/posti-disponibili-organico-di-diritto-e-part-time-personale-ata-a-s-2026-2027/"
-      },
-      {
-        "date": "4 Agosto 2026",
-        "id": "6893cce15ad8dc6e",
-        "title": "Procedura straordinaria ex art. 5 D.L. 44/2023 – PUBBLICAZIONE ESITI NOMINE – a.s. 2026/2027",
-        "url": "https://re.istruzioneer.gov.it/2026/08/04/procedura-straordinaria-ex-art-5-d-l-44-2023-pubblicazione-esiti-nomine-a-s-2026-2027/"
       }
     ],
     "seen_ids": [
+      "d45aa33435f82393",
+      "7e6f4236ca45d8e0",
       "bc571b32195baa38",
       "6364d1017d50888a",
       "8505cb33800a8a65",
@@ -146,6 +149,12 @@
   },
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "13 Agosto 2026 13 Agosto 2026",
+        "id": "839dd6a198730bb7",
+        "title": "ASSUNZIONI FUNZIONARI ED ELEVATA QUALIFICAZIONE (FUEQ) a.s. 2026/27",
+        "url": "https://www.istruzioneer.gov.it/2026/08/13/assunzioni-funzionari-ed-elevata-qualificazione-fueq-a-s-2026-27/"
+      },
       {
         "date": "12 Agosto 2026",
         "id": "e36797b9aef1db15",
@@ -193,15 +202,10 @@
         "id": "b0df7eb39fe7ad5c",
         "title": "EFTER 2026/27 – Approvazione graduatoria di merito USRER",
         "url": "https://www.istruzioneer.gov.it/2026/08/10/efter-2026-27-approvazione-graduatoria-di-merito-usrer/"
-      },
-      {
-        "date": "7 Agosto 2026",
-        "id": "57314bbefdaf4ea5",
-        "title": "Immissioni in ruolo personale docente a.s. 2026/27 – AVVISO ESITO PROVINCE",
-        "url": "https://www.istruzioneer.gov.it/2026/08/07/immissioni-in-ruolo-personale-docente-a-s-2026-27-avviso-esito-province-2/"
       }
     ],
     "seen_ids": [
+      "839dd6a198730bb7",
       "e36797b9aef1db15",
       "60b9c8deaf3f4076",
       "117a13690bccce63",
