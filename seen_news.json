@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-13T08:10:29+00:00"
+    "last_checked_at_utc": "2026-08-13T09:34:55+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -74,6 +74,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "13 Agosto 2026 13 Agosto 2026",
+        "id": "bc571b32195baa38",
+        "title": "Disponibilità procedura “per chiamata” di cui all’articolo 5, comma 12, del decreto-legge 22 aprile 2023, n. 44.",
+        "url": "https://re.istruzioneer.gov.it/2026/08/13/disponibilita-procedura-per-chiamata-di-cui-allarticolo-5-comma-12-del-decreto-legge-22-aprile-2023-n-44-2/"
+      },
+      {
         "date": "10 Agosto 2026",
         "id": "6364d1017d50888a",
         "title": "Personale ATA – Graduatorie provinciali definitive valide per l’A.S. 2026-27",
@@ -114,15 +120,10 @@
         "id": "6893cce15ad8dc6e",
         "title": "Procedura straordinaria ex art. 5 D.L. 44/2023 – PUBBLICAZIONE ESITI NOMINE – a.s. 2026/2027",
         "url": "https://re.istruzioneer.gov.it/2026/08/04/procedura-straordinaria-ex-art-5-d-l-44-2023-pubblicazione-esiti-nomine-a-s-2026-2027/"
-      },
-      {
-        "date": "4 Agosto 2026",
-        "id": "6b272aadabd2ae42",
-        "title": "Graduatorie Provinciali per le Supplenze aa.ss. 2026/27 – 2027/28 – RETTIFICA",
-        "url": "https://re.istruzioneer.gov.it/2026/08/04/graduatorie-provinciali-per-le-supplenze-aa-ss-2026-27-2027-28-rettifica/"
       }
     ],
     "seen_ids": [
+      "bc571b32195baa38",
       "6364d1017d50888a",
       "8505cb33800a8a65",
       "a3b8ef04a7cdb1cb",
