@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-14T09:05:44+00:00"
+    "last_checked_at_utc": "2026-08-14T10:26:04+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -76,6 +76,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "14 Agosto 2026 14 Agosto 2026",
+        "id": "eb96396ed30fa58a",
+        "title": "PART-TIME – Personale docente, educativo e ATA. Anno scolastico 2026/27 – RETTIFICA ESITI",
+        "url": "https://re.istruzioneer.gov.it/2026/08/14/part-time-personale-docente-educativo-e-ata-anno-scolastico-2026-27-rettifica-esiti/"
+      },
+      {
         "date": "13 Agosto 2026 13 Agosto 2026",
         "id": "d45aa33435f82393",
         "title": "Utilizzazioni e Assegnazioni Provvisorie ATA a.s. 2026/27 – Grad. Definitive e contestuale assegnazione sede per l’a.s. 2026-2027",
@@ -116,15 +122,10 @@
         "id": "7b2bb71c22a03181",
         "title": "Notifica per pubblici proclami Ricorso ex art. 414 c.p.c., Trib. Rimini, sez. Lavoro e Previdenza DE ROSA Cinzia /M.I.M.",
         "url": "https://re.istruzioneer.gov.it/2026/08/06/notifica-per-pubblici-proclami-ricorso-ex-art-414-c-p-c-trib-rimini-sez-lavoro-e-previdenza-de-rosa-cinzia-m-i-m/"
-      },
-      {
-        "date": "6 Agosto 2026",
-        "id": "1bf610c7bab9ad67",
-        "title": "AVVISO Reclutamento personale docente su posto sostegno “Procedura per chiamata”",
-        "url": "https://re.istruzioneer.gov.it/2026/08/06/avviso-reclutamento-personale-docente-su-posto-sostegno-procedura-per-chiamata/"
       }
     ],
     "seen_ids": [
+      "eb96396ed30fa58a",
       "d45aa33435f82393",
       "7e6f4236ca45d8e0",
       "bc571b32195baa38",
@@ -150,6 +151,18 @@
   },
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "14 Agosto 2026",
+        "id": "820aba3dcda1ced2",
+        "title": "D.M 104/2024- CONCORSO ORDINARIO IRC – MMSS",
+        "url": "https://www.istruzioneer.gov.it/2026/08/14/d-m-104-2024-concorso-ordinario-irc-mmss/"
+      },
+      {
+        "date": "14 Agosto 2026 14 Agosto 2026",
+        "id": "e7b00fa3cdd2c8b6",
+        "title": "DM 103/2024 – CONCORSO ORDINARIO IRC – AAEE",
+        "url": "https://www.istruzioneer.gov.it/2026/08/14/dm-103-2024-concorso-ordinario-irc-aaee/"
+      },
       {
         "date": "13 Agosto 2026 13 Agosto 2026",
         "id": "839dd6a198730bb7",
@@ -191,21 +204,11 @@
         "id": "f172726106d81dc6",
         "title": "D.D.G. 2939/2025 – concorso docenti – GM AS12 FVG – scorrimento",
         "url": "https://www.istruzioneer.gov.it/2026/08/11/d-d-g-2939-2025-concorso-docenti-gm-as12-fvg-scorrimento/"
-      },
-      {
-        "date": "11 Agosto 2026",
-        "id": "268e12c49b6382b1",
-        "title": "Immissioni in ruolo personale docente a.s. 2026/27 – AVVISO ESITO PROVINCE",
-        "url": "https://www.istruzioneer.gov.it/2026/08/11/immissioni-in-ruolo-personale-docente-a-s-2026-27-avviso-esito-province-3/"
-      },
-      {
-        "date": "10 Agosto 2026 10 Agosto 2026",
-        "id": "b0df7eb39fe7ad5c",
-        "title": "EFTER 2026/27 – Approvazione graduatoria di merito USRER",
-        "url": "https://www.istruzioneer.gov.it/2026/08/10/efter-2026-27-approvazione-graduatoria-di-merito-usrer/"
       }
     ],
     "seen_ids": [
+      "820aba3dcda1ced2",
+      "e7b00fa3cdd2c8b6",
       "839dd6a198730bb7",
       "e36797b9aef1db15",
       "60b9c8deaf3f4076",
