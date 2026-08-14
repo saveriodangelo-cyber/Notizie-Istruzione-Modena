@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-14T12:07:40+00:00"
+    "last_checked_at_utc": "2026-08-14T13:47:22+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -77,6 +77,24 @@
     "latest_items": [
       {
         "date": "14 Agosto 2026 14 Agosto 2026",
+        "id": "1e563e0855bb5ecf",
+        "title": "Nomine a tempo determinato personale ATA a.s. 2026-2027 – AVVISO",
+        "url": "https://re.istruzioneer.gov.it/2026/08/14/nomine-a-tempo-determinato-personale-ata-a-s-2026-2027-avviso/"
+      },
+      {
+        "date": "14 Agosto 2026",
+        "id": "486e1d555679a47c",
+        "title": "Nomine a tempo indeterminato personale ATA a.s. 2026-2027 – AVVISO TURNI",
+        "url": "https://re.istruzioneer.gov.it/2026/08/14/nomine-a-tempo-indeterminato-personale-ata-a-s-2026-2027-avviso-turni/"
+      },
+      {
+        "date": "14 Agosto 2026 14 Agosto 2026",
+        "id": "f814c063907d2614",
+        "title": "PERSONALE DOCENTE – Utilizzazioni e Assegnazioni Provvisorie a.s. 2026/2027 – Elenchi e graduatorie provvisorie",
+        "url": "https://re.istruzioneer.gov.it/2026/08/14/personale-docente-utilizzazioni-e-assegnazioni-provvisorie-a-s-2026-2027-elenchi-e-graduatorie-provvisorie/"
+      },
+      {
+        "date": "14 Agosto 2026 14 Agosto 2026",
         "id": "eb96396ed30fa58a",
         "title": "PART-TIME – Personale docente, educativo e ATA. Anno scolastico 2026/27 – RETTIFICA ESITI",
         "url": "https://re.istruzioneer.gov.it/2026/08/14/part-time-personale-docente-educativo-e-ata-anno-scolastico-2026-27-rettifica-esiti/"
@@ -104,27 +122,12 @@
         "id": "6364d1017d50888a",
         "title": "Personale ATA – Graduatorie provinciali definitive valide per l’A.S. 2026-27",
         "url": "https://re.istruzioneer.gov.it/2026/08/10/personale-ata-graduatorie-provinciali-definitive-valide-per-la-s-2026-27/"
-      },
-      {
-        "date": "7 Agosto 2026 7 Agosto 2026",
-        "id": "8505cb33800a8a65",
-        "title": "Procedura straordinaria ex art. 5 D.L. 44/2023 – PUBBLICAZIONE ESITI NOMINE – a.s. 2026/2027 – SCORRIMENTI",
-        "url": "https://re.istruzioneer.gov.it/2026/08/07/procedura-straordinaria-ex-art-5-d-l-44-2023-pubblicazione-esiti-nomine-a-s-2026-2027-scorrimenti/"
-      },
-      {
-        "date": "7 Agosto 2026",
-        "id": "a3b8ef04a7cdb1cb",
-        "title": "Utilizzazioni e Assegnazioni Provvisorie ATA a.s. 2026/27 – Grad. Provvisorie",
-        "url": "https://re.istruzioneer.gov.it/2026/08/07/utilizzazioni-e-assegnazioni-provvisorie-ata-a-s-2026-27-grad-provvisorie/"
-      },
-      {
-        "date": "6 Agosto 2026",
-        "id": "7b2bb71c22a03181",
-        "title": "Notifica per pubblici proclami Ricorso ex art. 414 c.p.c., Trib. Rimini, sez. Lavoro e Previdenza DE ROSA Cinzia /M.I.M.",
-        "url": "https://re.istruzioneer.gov.it/2026/08/06/notifica-per-pubblici-proclami-ricorso-ex-art-414-c-p-c-trib-rimini-sez-lavoro-e-previdenza-de-rosa-cinzia-m-i-m/"
       }
     ],
     "seen_ids": [
+      "1e563e0855bb5ecf",
+      "486e1d555679a47c",
+      "f814c063907d2614",
       "eb96396ed30fa58a",
       "d45aa33435f82393",
       "7e6f4236ca45d8e0",
