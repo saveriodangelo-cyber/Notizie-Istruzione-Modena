@@ -1,6 +1,11 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-16T13:03:16+00:00"
+    "last_checked_at_utc": "2026-08-20T20:13:21+00:00",
+    "last_errors": [
+      "Ufficio scolastico territoriale di Modena: HTTPSConnectionPool(host='mo.istruzioneer.gov.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='mo.istruzioneer.gov.it', port=443) at 0x7f59b8a3f7d0>, 'Connection to mo.istruzioneer.gov.it timed out. (connect timeout=25)'))",
+      "Ufficio scolastico territoriale di Reggio Emilia: HTTPSConnectionPool(host='re.istruzioneer.gov.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='re.istruzioneer.gov.it', port=443) at 0x7f59b88780e0>, 'Connection to re.istruzioneer.gov.it timed out. (connect timeout=25)'))",
+      "USR Emilia-Romagna: HTTPSConnectionPool(host='www.istruzioneer.gov.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.istruzioneer.gov.it', port=443) at 0x7f59b8878680>, 'Connection to www.istruzioneer.gov.it timed out. (connect timeout=25)'))"
+    ]
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
