@@ -4,6 +4,7 @@ Questo progetto controlla periodicamente le sezioni **Notizie in evidenza** di:
 
 - https://mo.istruzioneer.gov.it/
 - https://www.istruzioneer.gov.it/
+- https://re.istruzioneer.gov.it/
 
 Quando trova una nuova notizia, può inviare una notifica su Telegram, via email, oppure entrambe.
 
