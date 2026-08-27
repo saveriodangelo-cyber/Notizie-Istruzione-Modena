@@ -1,40 +1,39 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-20T20:13:21+00:00",
-    "last_errors": [
-      "Ufficio scolastico territoriale di Modena: HTTPSConnectionPool(host='mo.istruzioneer.gov.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='mo.istruzioneer.gov.it', port=443) at 0x7f59b8a3f7d0>, 'Connection to mo.istruzioneer.gov.it timed out. (connect timeout=25)'))",
-      "Ufficio scolastico territoriale di Reggio Emilia: HTTPSConnectionPool(host='re.istruzioneer.gov.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='re.istruzioneer.gov.it', port=443) at 0x7f59b88780e0>, 'Connection to re.istruzioneer.gov.it timed out. (connect timeout=25)'))",
-      "USR Emilia-Romagna: HTTPSConnectionPool(host='www.istruzioneer.gov.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.istruzioneer.gov.it', port=443) at 0x7f59b8878680>, 'Connection to www.istruzioneer.gov.it timed out. (connect timeout=25)'))"
-    ]
+    "last_checked_at_utc": "2026-08-27T16:33:13+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
       {
-        "date": "14 Agosto 2026 15 Agosto 2026",
-        "id": "f8c01905d33b0244",
-        "title": "Ata – Immissioni in ruolo – Scelta delle sedi disponibili – a.s. 2026-27- AVVISO",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/14/ata-immissioni-in-ruolo-scelta-delle-sedi-disponibili-a-s-2026-27-avviso/"
+        "date": "27 Agosto 2026",
+        "id": "536ebee1c9799f7b",
+        "title": "Avviso procedura di selezione personale ATA in comando presso USR ER a.s.26/27",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/27/avviso-procedura-di-selezione-personale-ata-in-comando-presso-usr-er-a-s-26-27/"
       },
       {
-        "date": "13 Agosto 2026",
-        "id": "3708a8eef05c9138",
-        "title": "Ata – Adeguamento dell’organico di diritto alle situazioni di fatto-a.s. 2026-27",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/13/ata-adeguamento-dellorganico-di-diritto-alle-situazioni-di-fatto-a-s-2026-27/"
+        "date": "26 Agosto 2026 26 Agosto 2026",
+        "id": "02a50d31e6cfc75e",
+        "title": "Ata- Immissioni in ruolo dei Dsga-Area funzionari e dell’elevata qualificazione",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/26/ata-immissioni-in-ruolo-dei-dsga-area-funzionari-e-dellelevata-qualificazione/"
       },
       {
-        "date": "13 Agosto 2026",
-        "id": "67b40535dec61c9f",
-        "title": "Disponibilità per la procedura “per chiamata” – “mini call veloce” 2026",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/13/disponibilita-per-la-procedura-per-chiamata-mini-call-veloce-2026/"
+        "date": "26 Agosto 2026",
+        "id": "86756f55f4705ce9",
+        "title": "Junior Achievement: attività scuole secondarie di 2° grado 26/27_ Webinar 9/9/26",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/26/junior-achievement-attivita-scuole-secondarie-di-2-grado-26-27_-webinar-9-9-26/"
       },
       {
-        "date": "13 Agosto 2026",
-        "id": "2781935e050a8506",
-        "title": "NOMINE a.s. 2026/27: Dispositivo attribuzione SEDI – Surroghe",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/13/nomine-a-s-2026-27-dispositivo-attribuzione-sedi-surroghe/"
+        "date": "26 Agosto 2026",
+        "id": "70ed94c176b0ea1f",
+        "title": "Junior Achievement: attività scuole secondarie di 1° grado 26/27_Webinar 10/9/26",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/26/junior-achievement-attivita-scuole-secondarie-di-1-grado-26-27_webinar-10-9-26/"
       }
     ],
     "seen_ids": [
+      "536ebee1c9799f7b",
+      "02a50d31e6cfc75e",
+      "86756f55f4705ce9",
+      "70ed94c176b0ea1f",
       "f8c01905d33b0244",
       "3708a8eef05c9138",
       "67b40535dec61c9f",
@@ -81,55 +80,63 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
-        "date": "14 Agosto 2026 14 Agosto 2026",
-        "id": "1e563e0855bb5ecf",
-        "title": "Nomine a tempo determinato personale ATA a.s. 2026-2027 – AVVISO",
-        "url": "https://re.istruzioneer.gov.it/2026/08/14/nomine-a-tempo-determinato-personale-ata-a-s-2026-2027-avviso/"
+        "date": "27 Agosto 2026",
+        "id": "56a3f0e333e100da",
+        "title": "Nomine a Tempo determinato personale ATA profilo COLLABORATORE SCOLASTICO – ESITI",
+        "url": "https://re.istruzioneer.gov.it/2026/08/27/nomine-a-tempo-determinato-personale-ata-profilo-collaboratore-scolastico-esiti/"
       },
       {
-        "date": "14 Agosto 2026",
-        "id": "486e1d555679a47c",
-        "title": "Nomine a tempo indeterminato personale ATA a.s. 2026-2027 – AVVISO TURNI",
-        "url": "https://re.istruzioneer.gov.it/2026/08/14/nomine-a-tempo-indeterminato-personale-ata-a-s-2026-2027-avviso-turni/"
+        "date": "27 Agosto 2026 27 Agosto 2026",
+        "id": "028945297b2a4333",
+        "title": "Graduatorie Provinciali per le Supplenze aa.ss. 2026/27 – 2027/28 – ESCLUSIONI",
+        "url": "https://re.istruzioneer.gov.it/2026/08/27/graduatorie-provinciali-per-le-supplenze-aa-ss-2026-27-2027-28-esclusioni-2/"
       },
       {
-        "date": "14 Agosto 2026 14 Agosto 2026",
-        "id": "f814c063907d2614",
-        "title": "PERSONALE DOCENTE – Utilizzazioni e Assegnazioni Provvisorie a.s. 2026/2027 – Elenchi e graduatorie provvisorie",
-        "url": "https://re.istruzioneer.gov.it/2026/08/14/personale-docente-utilizzazioni-e-assegnazioni-provvisorie-a-s-2026-2027-elenchi-e-graduatorie-provvisorie/"
+        "date": "26 Agosto 2026",
+        "id": "f769a34568a01ecd",
+        "title": "Ottimizzazioni COE a.s. 2026/2027_RETTIFICA",
+        "url": "https://re.istruzioneer.gov.it/2026/08/26/ottimizzazioni-coe-a-s-2026-2027_rettifica/"
       },
       {
-        "date": "14 Agosto 2026 14 Agosto 2026",
-        "id": "eb96396ed30fa58a",
-        "title": "PART-TIME – Personale docente, educativo e ATA. Anno scolastico 2026/27 – RETTIFICA ESITI",
-        "url": "https://re.istruzioneer.gov.it/2026/08/14/part-time-personale-docente-educativo-e-ata-anno-scolastico-2026-27-rettifica-esiti/"
+        "date": "25 Agosto 2026",
+        "id": "3737c496fce53990",
+        "title": "Nomine a tempo indeterminato Funzionari Elevata Qualificazione – AVVISO CONVOCAZIONE",
+        "url": "https://re.istruzioneer.gov.it/2026/08/25/nomine-a-tempo-indeterminato-funzionari-elevata-qualificazione-avviso-convocazione/"
       },
       {
-        "date": "13 Agosto 2026 13 Agosto 2026",
-        "id": "d45aa33435f82393",
-        "title": "Utilizzazioni e Assegnazioni Provvisorie ATA a.s. 2026/27 – Grad. Definitive e contestuale assegnazione sede per l’a.s. 2026-2027",
-        "url": "https://re.istruzioneer.gov.it/2026/08/13/utilizzazioni-e-assegnazioni-provvisorie-ata-a-s-2026-27-grad-definitive-e-contestuale-assegnazione-sede-per-la-s-2026-2027/"
+        "date": "25 Agosto 2026",
+        "id": "1766edfc5246dfe6",
+        "title": "Nomine a Tempo determinato personale ATA – ESITI",
+        "url": "https://re.istruzioneer.gov.it/2026/08/25/nomine-a-tempo-determinato-personale-ata-esiti/"
       },
       {
-        "date": "13 Agosto 2026",
-        "id": "7e6f4236ca45d8e0",
-        "title": "PROCEDURA PER L’INDIVIDUAZIONE DI PERSONALE ATA DA DESTINARE A COMANDO PRESSO L’UFFICIO SCOLASTICO REGIONALE PER L’EMILIA ROMAGNA PER L’A.S.26-27",
-        "url": "https://re.istruzioneer.gov.it/2026/08/13/procedura-per-lindividuazione-di-personale-ata-da-destinare-a-comando-presso-lufficio-scolastico-regionale-per-lemilia-romagna-per-la-s-26-27/"
+        "date": "25 Agosto 2026",
+        "id": "10cd4d8c36e803e0",
+        "title": "Ottimizzazioni COE a.s. 2026/2027",
+        "url": "https://re.istruzioneer.gov.it/2026/08/25/ottimizzazioni-coe-a-s-2026-2027/"
       },
       {
-        "date": "13 Agosto 2026 13 Agosto 2026",
-        "id": "bc571b32195baa38",
-        "title": "Disponibilità procedura “per chiamata” di cui all’articolo 5, comma 12, del decreto-legge 22 aprile 2023, n. 44.",
-        "url": "https://re.istruzioneer.gov.it/2026/08/13/disponibilita-procedura-per-chiamata-di-cui-allarticolo-5-comma-12-del-decreto-legge-22-aprile-2023-n-44-2/"
+        "date": "25 Agosto 2026 25 Agosto 2026",
+        "id": "f2fabb9db1ea4eae",
+        "title": "PERSONALE DOCENTE – Utilizzazioni e Assegnazioni Provvisorie – ESITI assegnazioni sedi a.s. 2026/2027 – RETTIFICA",
+        "url": "https://re.istruzioneer.gov.it/2026/08/25/personale-docente-utilizzazioni-e-assegnazioni-provvisorie-esiti-assegnazioni-sedi-a-s-2026-2027-rettifica-2/"
       },
       {
-        "date": "10 Agosto 2026",
-        "id": "6364d1017d50888a",
-        "title": "Personale ATA – Graduatorie provinciali definitive valide per l’A.S. 2026-27",
-        "url": "https://re.istruzioneer.gov.it/2026/08/10/personale-ata-graduatorie-provinciali-definitive-valide-per-la-s-2026-27/"
+        "date": "25 Agosto 2026 25 Agosto 2026",
+        "id": "07904e769c647c26",
+        "title": "A.S. 2026/27 – PERSONALE DOCENTE-Pubblicazione quadro delle disponibilità utili alle operazioni di mobilità annuale in organico di fatto – RETTIFICA",
+        "url": "https://re.istruzioneer.gov.it/2026/08/25/a-s-2026-27-personale-docente-pubblicazione-quadro-delle-disponibilita-utili-alle-operazioni-di-mobilita-annuale-in-organico-di-fatto-rettifica-2/"
       }
     ],
     "seen_ids": [
+      "56a3f0e333e100da",
+      "028945297b2a4333",
+      "f769a34568a01ecd",
+      "3737c496fce53990",
+      "1766edfc5246dfe6",
+      "10cd4d8c36e803e0",
+      "f2fabb9db1ea4eae",
+      "07904e769c647c26",
       "1e563e0855bb5ecf",
       "486e1d555679a47c",
       "f814c063907d2614",
@@ -160,61 +167,70 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
-        "date": "14 Agosto 2026",
-        "id": "820aba3dcda1ced2",
-        "title": "D.M 104/2024- CONCORSO ORDINARIO IRC – MMSS",
-        "url": "https://www.istruzioneer.gov.it/2026/08/14/d-m-104-2024-concorso-ordinario-irc-mmss/"
+        "date": "27 Agosto 2026",
+        "id": "e8bd4544fa1bcefb",
+        "title": "Dirigenti Scolastici – Incarichi di reggenza anno scolastico 2026/2027.",
+        "url": "https://www.istruzioneer.gov.it/2026/08/27/dirigenti-scolastici-incarichi-di-reggenza-anno-scolastico-2026-2027/"
       },
       {
-        "date": "14 Agosto 2026 14 Agosto 2026",
-        "id": "e7b00fa3cdd2c8b6",
-        "title": "DM 103/2024 – CONCORSO ORDINARIO IRC – AAEE",
-        "url": "https://www.istruzioneer.gov.it/2026/08/14/dm-103-2024-concorso-ordinario-irc-aaee/"
+        "date": "26 Agosto 2026",
+        "id": "0420eb3cc886407e",
+        "title": "Junior Achievement: attività scuole secondarie di 2° grado 26/27_ Webinar 9/9/26",
+        "url": "https://www.istruzioneer.gov.it/2026/08/26/junior-achievement-attivita-scuole-secondarie-di-2-grado-26-27_-webinar-9-9-26/"
       },
       {
-        "date": "13 Agosto 2026 13 Agosto 2026",
-        "id": "839dd6a198730bb7",
-        "title": "ASSUNZIONI FUNZIONARI ED ELEVATA QUALIFICAZIONE (FUEQ) a.s. 2026/27",
-        "url": "https://www.istruzioneer.gov.it/2026/08/13/assunzioni-funzionari-ed-elevata-qualificazione-fueq-a-s-2026-27/"
+        "date": "26 Agosto 2026",
+        "id": "b9dafc0581f36f88",
+        "title": "Junior Achievement: attività scuole secondarie di 1° grado 26/27_Webinar 10/9/26",
+        "url": "https://www.istruzioneer.gov.it/2026/08/26/junior-achievement-attivita-scuole-secondarie-di-1-grado-26-27_webinar-10-9-26/"
       },
       {
-        "date": "12 Agosto 2026",
-        "id": "e36797b9aef1db15",
-        "title": "Procedura per chiamata “Mini-call veloce 2026”- sostegno – posti disponibili",
-        "url": "https://www.istruzioneer.gov.it/2026/08/12/procedura-per-chiamata-mini-call-veloce-2026-sostegno-posti-disponibili/"
+        "date": "25 Agosto 2026 25 Agosto 2026",
+        "id": "a1978af4afbf8e83",
+        "title": "Assunzioni Dirigenti Scolastici a.s. 2026/2027 – Assegnazione sedi.",
+        "url": "https://www.istruzioneer.gov.it/2026/08/25/assunzioni-dirigenti-scolastici-a-s-2026-2027-assegnazione-sedi/"
       },
       {
-        "date": "12 Agosto 2026",
-        "id": "60b9c8deaf3f4076",
-        "title": "NOMINE a.s. 2026/27: Dispositivo attribuzione SEDI – Surroghe",
-        "url": "https://www.istruzioneer.gov.it/2026/08/12/nomine-a-s-2026-27-dispositivo-attribuzione-sedi-surroghe-2/"
+        "date": "24 Agosto 2026",
+        "id": "05a762bf112eb5ed",
+        "title": "ASSUNZIONI FUNZIONARI ED ELEVATA QUALIFICAZIONE (FUEQ) a.s. 2026/27 – province",
+        "url": "https://www.istruzioneer.gov.it/2026/08/24/assunzioni-funzionari-ed-elevata-qualificazione-fueq-a-s-2026-27-province/"
       },
       {
-        "date": "11 Agosto 2026",
-        "id": "117a13690bccce63",
-        "title": "D.D.G. 3059/2024 – concorso docenti – GM A031 SARDEGNA – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/08/11/d-d-g-3059-2024-concorso-docenti-gm-a031-sardegna-scorrimento/"
+        "date": "24 Agosto 2026",
+        "id": "ff9093645bf9d6e0",
+        "title": "Immissioni in ruolo personale docente a.s. 2026/27 – AVVISO ESITO PROVINCE",
+        "url": "https://www.istruzioneer.gov.it/2026/08/24/immissioni-in-ruolo-personale-docente-a-s-2026-27-avviso-esito-province-4/"
       },
       {
-        "date": "11 Agosto 2026",
-        "id": "fbfc559560402f36",
-        "title": "D.D.G. 2575/2023 – concorso docenti – GM A015 FVG – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/08/11/d-d-g-2575-2023-concorso-docenti-gm-a015-fvg-scorrimento-2/"
+        "date": "21 Agosto 2026",
+        "id": "b51d526843210853",
+        "title": "“Mini Call Veloce”: esiti seconda fase (SCELTA SEDE)",
+        "url": "https://www.istruzioneer.gov.it/2026/08/21/mini-call-veloce-esiti-seconda-fase-scelta-sede-2/"
       },
       {
-        "date": "11 Agosto 2026 11 Agosto 2026",
-        "id": "3002f1cfe798e5f1",
-        "title": "D.D.G. 2939/2025 – concorso docenti – GM AS2D FVG – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/08/11/d-d-g-2939-2025-concorso-docenti-gm-as2d-fvg-scorrimento/"
+        "date": "21 Agosto 2026",
+        "id": "364816f4efaf8eb8",
+        "title": "Assunzioni in ruolo DS 2026/27 – Convocazione per sottoscrizione contratto.",
+        "url": "https://www.istruzioneer.gov.it/2026/08/21/assunzioni-in-ruolo-ds-2026-27-convocazione-per-sottoscrizione-contratto/"
       },
       {
-        "date": "11 Agosto 2026 11 Agosto 2026",
-        "id": "f172726106d81dc6",
-        "title": "D.D.G. 2939/2025 – concorso docenti – GM AS12 FVG – scorrimento",
-        "url": "https://www.istruzioneer.gov.it/2026/08/11/d-d-g-2939-2025-concorso-docenti-gm-as12-fvg-scorrimento/"
+        "date": "20 Agosto 2026 20 Agosto 2026",
+        "id": "a94b035a3c3feb61",
+        "title": "Immissioni in ruolo DS e incarichi reggenza 26/27-Integrazione sedi disponibili",
+        "url": "https://www.istruzioneer.gov.it/2026/08/20/immissioni-in-ruolo-ds-e-incarichi-reggenza-26-27-integrazione-sedi-disponibili/"
       }
     ],
     "seen_ids": [
+      "e8bd4544fa1bcefb",
+      "0420eb3cc886407e",
+      "b9dafc0581f36f88",
+      "a1978af4afbf8e83",
+      "05a762bf112eb5ed",
+      "ff9093645bf9d6e0",
+      "b51d526843210853",
+      "364816f4efaf8eb8",
+      "a94b035a3c3feb61",
       "820aba3dcda1ced2",
       "e7b00fa3cdd2c8b6",
       "839dd6a198730bb7",
