@@ -1,12 +1,21 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-08-28T12:56:56+00:00",
-    "last_errors": [
-      "Ufficio scolastico territoriale di Reggio Emilia: HTTPSConnectionPool(host='re.istruzioneer.gov.it', port=443): Read timed out. (read timeout=25)"
-    ]
+    "last_checked_at_utc": "2026-08-28T23:04:10+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "28 Agosto 2026",
+        "id": "08bd6ba990dc4a73",
+        "title": "Nomine t.d posto sostegno per continuità didattica ogni ordine e grado a.s 26/27",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/28/nomine-t-d-posto-sostegno-per-continuita-didattica-ogni-ordine-e-grado-a-s-26-27/"
+      },
+      {
+        "date": "28 Agosto 2026",
+        "id": "fba751ddce3e0618",
+        "title": "Disponibilità nomine continuità sostegno e GPS T.D.ogni ordine e grado a.s.26/27",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/28/disponibilita-nomine-continuita-sostegno-e-gps-t-d-ogni-ordine-e-grado-a-s-26-27/"
+      },
       {
         "date": "28 Agosto 2026",
         "id": "20aef24337459dee",
@@ -18,21 +27,11 @@
         "id": "ae99f7c0b6bc599b",
         "title": "Posti orario ogni ordine e grado – GPS a.s. 2026/27",
         "url": "https://mo.istruzioneer.gov.it/2026/08/27/posti-orario-ogni-ordine-e-grado-gps-a-s-2026-27/"
-      },
-      {
-        "date": "27 Agosto 2026",
-        "id": "536ebee1c9799f7b",
-        "title": "Avviso procedura di selezione personale ATA in comando presso USR ER a.s.26/27",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/27/avviso-procedura-di-selezione-personale-ata-in-comando-presso-usr-er-a-s-26-27/"
-      },
-      {
-        "date": "26 Agosto 2026 26 Agosto 2026",
-        "id": "02a50d31e6cfc75e",
-        "title": "Ata- Immissioni in ruolo dei Dsga-Area funzionari e dell’elevata qualificazione",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/26/ata-immissioni-in-ruolo-dei-dsga-area-funzionari-e-dellelevata-qualificazione/"
       }
     ],
     "seen_ids": [
+      "08bd6ba990dc4a73",
+      "fba751ddce3e0618",
       "20aef24337459dee",
       "ae99f7c0b6bc599b",
       "536ebee1c9799f7b",
@@ -85,6 +84,30 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "28 Agosto 2026",
+        "id": "501f38c7b60c4ff5",
+        "title": "A.S. 2026/2027 – Immissioni in ruolo degli insegnanti di religione cattolica",
+        "url": "https://re.istruzioneer.gov.it/2026/08/28/a-s-2026-2027-immissioni-in-ruolo-degli-insegnanti-di-religione-cattolica/"
+      },
+      {
+        "date": "28 Agosto 2026",
+        "id": "b8ba7991ec2382f2",
+        "title": "Graduatorie Provinciali per le Supplenze aa.ss. 2026/27 – 2027/28 – RETTIFICA",
+        "url": "https://re.istruzioneer.gov.it/2026/08/28/graduatorie-provinciali-per-le-supplenze-aa-ss-2026-27-2027-28-rettifica-2/"
+      },
+      {
+        "date": "28 Agosto 2026",
+        "id": "eb81a97334f98f38",
+        "title": "NOMINE A TEMPO INDETERMINATO E DETERMINATO PERSONALE ATA A.S. 2026-2027",
+        "url": "https://re.istruzioneer.gov.it/2026/08/28/nomine-a-tempo-indeterminato-e-determinato-personale-ata-a-s-2026-2027/"
+      },
+      {
+        "date": "28 Agosto 2026",
+        "id": "c2fe5cffc938e25e",
+        "title": "PROCEDURA PER L’INDIVIDUAZIONE DI PERSONALE ATA DA DESTINARE A COMANDO PRESSO L’UFFICIO SCOLASTICO REGIONALE PER L’EMILIA ROMAGNA PER L’A.S. 26-27",
+        "url": "https://re.istruzioneer.gov.it/2026/08/28/procedura-per-lindividuazione-di-personale-ata-da-destinare-a-comando-presso-lufficio-scolastico-regionale-per-lemilia-romagna-per-la-s-26-27-2/"
+      },
+      {
         "date": "27 Agosto 2026",
         "id": "cc84de64bec5e439",
         "title": "Posti orario ogni ordine e grado – GPS a.s. 2026/27",
@@ -107,33 +130,13 @@
         "id": "56a3f0e333e100da",
         "title": "Nomine a Tempo determinato personale ATA profilo COLLABORATORE SCOLASTICO – ESITI",
         "url": "https://re.istruzioneer.gov.it/2026/08/27/nomine-a-tempo-determinato-personale-ata-profilo-collaboratore-scolastico-esiti/"
-      },
-      {
-        "date": "27 Agosto 2026 27 Agosto 2026",
-        "id": "028945297b2a4333",
-        "title": "Graduatorie Provinciali per le Supplenze aa.ss. 2026/27 – 2027/28 – ESCLUSIONI",
-        "url": "https://re.istruzioneer.gov.it/2026/08/27/graduatorie-provinciali-per-le-supplenze-aa-ss-2026-27-2027-28-esclusioni-2/"
-      },
-      {
-        "date": "26 Agosto 2026",
-        "id": "f769a34568a01ecd",
-        "title": "Ottimizzazioni COE a.s. 2026/2027_RETTIFICA",
-        "url": "https://re.istruzioneer.gov.it/2026/08/26/ottimizzazioni-coe-a-s-2026-2027_rettifica/"
-      },
-      {
-        "date": "25 Agosto 2026",
-        "id": "3737c496fce53990",
-        "title": "Nomine a tempo indeterminato Funzionari Elevata Qualificazione – AVVISO CONVOCAZIONE",
-        "url": "https://re.istruzioneer.gov.it/2026/08/25/nomine-a-tempo-indeterminato-funzionari-elevata-qualificazione-avviso-convocazione/"
-      },
-      {
-        "date": "25 Agosto 2026",
-        "id": "1766edfc5246dfe6",
-        "title": "Nomine a Tempo determinato personale ATA – ESITI",
-        "url": "https://re.istruzioneer.gov.it/2026/08/25/nomine-a-tempo-determinato-personale-ata-esiti/"
       }
     ],
     "seen_ids": [
+      "501f38c7b60c4ff5",
+      "b8ba7991ec2382f2",
+      "eb81a97334f98f38",
+      "c2fe5cffc938e25e",
       "cc84de64bec5e439",
       "e29ef85c0c27faa6",
       "73f3c51afbf997dd",
@@ -174,6 +177,12 @@
   },
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "28 Agosto 2026 28 Agosto 2026",
+        "id": "936e44fe48fea95f",
+        "title": "Esiti comando personale ATA USR Emilia-Romagna a.s. 2026/27",
+        "url": "https://www.istruzioneer.gov.it/2026/08/28/esiti-comando-personale-ata-usr-emilia-romagna-a-s-2026-27/"
+      },
       {
         "date": "28 Agosto 2026",
         "id": "75500a3482747a02",
@@ -221,15 +230,10 @@
         "id": "b51d526843210853",
         "title": "“Mini Call Veloce”: esiti seconda fase (SCELTA SEDE)",
         "url": "https://www.istruzioneer.gov.it/2026/08/21/mini-call-veloce-esiti-seconda-fase-scelta-sede-2/"
-      },
-      {
-        "date": "21 Agosto 2026",
-        "id": "364816f4efaf8eb8",
-        "title": "Assunzioni in ruolo DS 2026/27 – Convocazione per sottoscrizione contratto.",
-        "url": "https://www.istruzioneer.gov.it/2026/08/21/assunzioni-in-ruolo-ds-2026-27-convocazione-per-sottoscrizione-contratto/"
       }
     ],
     "seen_ids": [
+      "936e44fe48fea95f",
       "75500a3482747a02",
       "e8bd4544fa1bcefb",
       "0420eb3cc886407e",
