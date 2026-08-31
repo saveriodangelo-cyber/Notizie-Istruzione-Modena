@@ -3,8 +3,8 @@ name: Controlla notizie in evidenza
 on:
   workflow_dispatch:
   schedule:
-    # Ogni 30 minuti. GitHub usa l'orario UTC.
-    - cron: "17,47,53,24,36 * * * *"
+    # Ogni 30 minuti circa. GitHub usa l'orario UTC e può ritardare le esecuzioni.
+    - cron: "7,37 * * * *"
 
 permissions:
   contents: write
@@ -16,6 +16,7 @@ concurrency:
 jobs:
   check-news:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Scarica repository
