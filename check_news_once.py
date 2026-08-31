@@ -1,8 +1,10 @@
 import hashlib
 import json
 import os
+import re
 import smtplib
 import sys
+import time
 from datetime import datetime, timezone
 from email.message import EmailMessage
 from pathlib import Path
@@ -15,26 +17,30 @@ SITES = [
     {
         "name": "Ufficio scolastico territoriale di Modena",
         "url": "https://mo.istruzioneer.gov.it/",
+        "category_url": "https://mo.istruzioneer.gov.it/category/notizie-in-evidenza/",
         "emoji": "📍",
     },
-        {
+    {
         "name": "Ufficio scolastico territoriale di Reggio Emilia",
         "url": "https://re.istruzioneer.gov.it/",
+        "category_url": "https://re.istruzioneer.gov.it/category/notizie-in-evidenza/",
         "emoji": "📌",
     },
     {
         "name": "USR Emilia-Romagna",
         "url": "https://www.istruzioneer.gov.it/",
+        "category_url": "https://www.istruzioneer.gov.it/category/notizie-in-evidenza/",
         "emoji": "🏛️",
     },
 ]
 
 STATE_FILE = Path("seen_news.json")
 USER_AGENT = (
-    "Mozilla/5.0 (compatible; TelegramNewsBot/1.0; "
-    "+https://github.com/)"
+    "Mozilla/5.0 (compatible; TelegramNewsBot/1.1; "
+    "+https://github.com/saveriodangelo-cyber/Notizie-Istruzione-Modena)"
 )
-TIMEOUT_SECONDS = 25
+TIMEOUT_SECONDS = 60
+RETRY_ATTEMPTS = 3
 
 
 def env_bool(name: str, default: bool = False) -> bool:
@@ -73,16 +79,74 @@ def item_id(url: str, title: str) -> str:
     return hashlib.sha256(raw).hexdigest()[:16]
 
 
-def fetch_highlighted_news(site: Dict[str, str]) -> List[Dict[str, str]]:
-    response = requests.get(
-        site["url"],
-        headers={"User-Agent": USER_AGENT},
-        timeout=TIMEOUT_SECONDS,
-    )
-    response.raise_for_status()
+def request_page(url: str) -> requests.Response:
+    last_error: Exception | None = None
 
-    soup = BeautifulSoup(response.text, "html.parser")
+    for attempt in range(1, RETRY_ATTEMPTS + 1):
+        try:
+            response = requests.get(
+                url,
+                headers={"User-Agent": USER_AGENT},
+                timeout=TIMEOUT_SECONDS,
+            )
+            response.raise_for_status()
+            return response
+        except requests.exceptions.RequestException as exc:
+            last_error = exc
+            if attempt < RETRY_ATTEMPTS:
+                time.sleep(5 * attempt)
 
+    assert last_error is not None
+    raise last_error
+
+
+def short_request_error(url: str, exc: Exception) -> str:
+    if isinstance(exc, (requests.exceptions.ConnectTimeout, requests.exceptions.ReadTimeout, requests.exceptions.Timeout)):
+        return f"{url}: timeout"
+    if isinstance(exc, requests.exceptions.HTTPError):
+        status = exc.response.status_code if exc.response is not None else "HTTP"
+        return f"{url}: errore HTTP {status}"
+
+    message = re.sub(r" at 0x[0-9a-fA-F]+", "", str(exc))
+    message = clean_text(message)
+    if len(message) > 180:
+        message = message[:177] + "..."
+    return f"{url}: {exc.__class__.__name__}: {message}"
+
+
+def make_item(site: Dict[str, str], base_url: str, title: str, url: str, date_text: str = "") -> Dict[str, str]:
+    return {
+        "id": item_id(url, title),
+        "site_name": site["name"],
+        "site_url": site["url"],
+        "emoji": site.get("emoji", "📰"),
+        "title": title,
+        "url": url,
+        "date": date_text,
+    }
+
+
+def extract_date_after_heading(node: Tag) -> str:
+    cursor = node.find_next_sibling()
+    checked = 0
+
+    while cursor and checked < 6:
+        checked += 1
+        if isinstance(cursor, Tag) and cursor.name in {"h1", "h2", "h3", "article"}:
+            break
+
+        if isinstance(cursor, Tag):
+            text = clean_text(cursor.get_text(" ", strip=True))
+            lower = text.lower()
+            if text and "continua a leggere" not in lower and "leggi tutto" not in lower:
+                return text[:160]
+
+        cursor = cursor.find_next_sibling()
+
+    return ""
+
+
+def parse_homepage_news(soup: BeautifulSoup, site: Dict[str, str], source_url: str) -> List[Dict[str, str]]:
     heading = None
     for candidate in soup.find_all(["h1", "h2", "h3"]):
         if clean_text(candidate.get_text(" ", strip=True)).lower() == "notizie in evidenza":
@@ -90,7 +154,7 @@ def fetch_highlighted_news(site: Dict[str, str]) -> List[Dict[str, str]]:
             break
 
     if heading is None:
-        raise RuntimeError(f"Sezione 'Notizie in evidenza' non trovata su {site['url']}")
+        return []
 
     items: List[Dict[str, str]] = []
 
@@ -106,32 +170,71 @@ def fetch_highlighted_news(site: Dict[str, str]) -> List[Dict[str, str]]:
             continue
 
         title = clean_text(link.get_text(" ", strip=True))
-        url = absolute_url(site["url"], link["href"])
+        url = absolute_url(source_url, link["href"])
         if not title or not url:
             continue
 
-        date_text = ""
-        cursor = node.find_next_sibling()
-        while cursor and isinstance(cursor, Tag) and cursor.name not in {"h2", "h3"}:
-            text = clean_text(cursor.get_text(" ", strip=True))
-            if text and "continua a leggere" not in text.lower():
-                date_text = text
-                break
-            cursor = cursor.find_next_sibling()
-
-        items.append(
-            {
-                "id": item_id(url, title),
-                "site_name": site["name"],
-                "site_url": site["url"],
-                "emoji": site.get("emoji", "📰"),
-                "title": title,
-                "url": url,
-                "date": date_text,
-            }
-        )
+        items.append(make_item(site, source_url, title, url, extract_date_after_heading(node)))
 
     return items
+
+
+def parse_archive_news(soup: BeautifulSoup, site: Dict[str, str], source_url: str) -> List[Dict[str, str]]:
+    items: List[Dict[str, str]] = []
+    seen_urls = set()
+
+    for node in soup.find_all(["h2", "h3"]):
+        link = node.find("a", href=True)
+        if not link:
+            continue
+
+        title = clean_text(link.get_text(" ", strip=True))
+        url = absolute_url(source_url, link["href"])
+        lower_title = title.lower()
+
+        if not title or not url:
+            continue
+        if "articoli meno recenti" in lower_title:
+            continue
+        if url in seen_urls:
+            continue
+
+        seen_urls.add(url)
+        items.append(make_item(site, source_url, title, url, extract_date_after_heading(node)))
+
+        if len(items) >= 20:
+            break
+
+    return items
+
+
+def fetch_highlighted_news(site: Dict[str, str]) -> List[Dict[str, str]]:
+    urls_to_try = [
+        site.get("category_url", "").strip(),
+        site["url"],
+    ]
+    urls_to_try = [url for url in urls_to_try if url]
+
+    errors: List[str] = []
+
+    for url in urls_to_try:
+        try:
+            response = request_page(url)
+            soup = BeautifulSoup(response.text, "html.parser")
+
+            if "/category/notizie-in-evidenza" in url:
+                items = parse_archive_news(soup, site, url)
+            else:
+                items = parse_homepage_news(soup, site, url)
+
+            if items:
+                return items
+
+            errors.append(f"{url}: nessuna notizia trovata nella pagina")
+        except Exception as exc:
+            errors.append(short_request_error(url, exc))
+
+    raise RuntimeError(" | ".join(errors))
 
 
 def telegram_send(token: str, chat_id: str, text: str) -> None:
@@ -202,6 +305,16 @@ def build_message(item: Dict[str, str]) -> str:
     )
 
 
+def build_error_message(errors: List[str]) -> str:
+    details = "\n".join(f"- {error}" for error in errors)
+    return (
+        "⚠️ Bot notizie istruzione: controllo non riuscito\n\n"
+        "Non sono riuscito a controllare uno o più siti. "
+        "Se l'errore resta uguale, non ti mando questo avviso ogni volta.\n\n"
+        f"{details}"
+    )
+
+
 def main() -> int:
     token = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
     chat_id = os.getenv("TELEGRAM_CHAT_ID", "").strip()
@@ -220,6 +333,8 @@ def main() -> int:
 
     state = load_state()
     already_initialized = bool(state)
+    previous_errors = state.get("_meta", {}).get("last_errors", [])
+
     changed = False
     notifications_sent = 0
     errors: List[str] = []
@@ -235,7 +350,7 @@ def main() -> int:
         try:
             items = fetch_highlighted_news(site)
         except Exception as exc:
-            error = f"{site['name']}: {exc}"
+            error = f"{site['name']}: {clean_text(str(exc))}"
             print(f"ERRORE: {error}")
             errors.append(error)
             continue
@@ -274,8 +389,17 @@ def main() -> int:
     if errors:
         state.setdefault("_meta", {})["last_errors"] = errors[-10:]
         changed = True
+
+        # Avvisa solo quando il tipo di errore cambia, così non spammiamo Telegram.
+        if telegram_configured and errors[-10:] != previous_errors:
+            try:
+                telegram_send(token, chat_id, build_error_message(errors[-10:]))
+                print("Avviso errore inviato su Telegram.")
+            except Exception as exc:
+                print(f"ERRORE: impossibile inviare avviso errore Telegram: {exc}")
     else:
-        state.setdefault("_meta", {}).pop("last_errors", None)
+        if state.setdefault("_meta", {}).pop("last_errors", None) is not None:
+            changed = True
 
     if changed or state.get("_meta", {}).get("last_checked_at_utc") == checked_at:
         save_state(state)
