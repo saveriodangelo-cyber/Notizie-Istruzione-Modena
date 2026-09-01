@@ -1,40 +1,80 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-01T13:27:59+00:00",
-    "last_errors": [
-      "Ufficio scolastico territoriale di Modena: https://mo.istruzioneer.gov.it/category/notizie-in-evidenza/: errore HTTP 403 | https://mo.istruzioneer.gov.it/: errore HTTP 403",
-      "Ufficio scolastico territoriale di Reggio Emilia: https://re.istruzioneer.gov.it/category/notizie-in-evidenza/: errore HTTP 403 | https://re.istruzioneer.gov.it/: errore HTTP 403",
-      "USR Emilia-Romagna: https://www.istruzioneer.gov.it/category/notizie-in-evidenza/: errore HTTP 403 | https://www.istruzioneer.gov.it/: errore HTTP 403"
-    ]
+    "last_checked_at_utc": "2026-09-01T17:26:08+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "1 Settembre 2026",
+        "id": "b80fda7c269a6911",
+        "title": "Avviso procedura comando ATA a.s. 2026/2027 – Scorrimento elenco",
+        "url": "https://mo.istruzioneer.gov.it/2026/09/01/avviso-procedura-comando-ata-a-s-2026-2027-scorrimento-elenco/"
+      },
+      {
+        "date": "31 Agosto 2026 1 Settembre 2026",
+        "id": "27309b1fdbc62bd7",
+        "title": "Rettifica immissione in ruolo docenti IRC Diocesi Carpi – a.s. 26-27",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/31/rettifica-immissione-in-ruolo-docenti-irc-diocesi-carpi-a-s-26-27/"
+      },
+      {
+        "date": "31 Agosto 2026",
+        "id": "ad3d396dd83d2099",
+        "title": "Nomine a t.d. docenti ogni ordine e grado da GPS 1° turno a.s. 2026/27",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/31/nomine-a-t-d-docenti-ogni-ordine-e-grado-da-gps-1-turno-a-s-2026-27/"
+      },
+      {
+        "date": "31 Agosto 2026",
+        "id": "7bcc6906bb26caac",
+        "title": "Immissione in ruolo docenti IRC Diocesi Modena-Nonantola – a.s.2026-27",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/31/immissione-in-ruolo-docenti-irc-diocesi-modena-nonantola-a-s-2026-27/"
+      },
+      {
+        "date": "31 Agosto 2026",
+        "id": "c994e37e3028475a",
+        "title": "Immissione in ruolo docenti IRC Diocesi Carpi – a.s.2026-27",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/31/immissione-in-ruolo-docenti-irc-diocesi-carpi-a-s-2026-27/"
+      },
+      {
+        "date": "31 Agosto 2026",
+        "id": "aa535a28c4541bdf",
+        "title": "Utilizzazioni e Assegnazioni provv. prov. e int. DOCENTI A.S. 2026/27-RETTIFICA",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/31/utilizzazioni-e-assegnazioni-provv-prov-e-int-docenti-a-s-2026-27-rettifica/"
+      },
+      {
+        "date": "31 Agosto 2026",
+        "id": "68f520d37c7d20ae",
+        "title": "POSTI ORARIO AI FINI DEL CONFERIMENTO INCARICHI A T.D.-GPS A.S.26/27-RETTIFICA",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/31/posti-orario-ai-fini-del-conferimento-incarichi-a-t-d-gps-a-s-26-27-rettifica/"
+      },
+      {
+        "date": "31 Agosto 2026",
+        "id": "59f6f8380223d936",
+        "title": "Rettifica GPS definitive di ogni ordine e grado – 2026-2028",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/31/rettifica-gps-definitive-di-ogni-ordine-e-grado-2026-2028/"
+      },
+      {
+        "date": "31 Agosto 2026 31 Agosto 2026",
+        "id": "2898594708cb6355",
+        "title": "Rettifica esclusioni GPS 2026-2028",
+        "url": "https://mo.istruzioneer.gov.it/2026/08/31/rettifica-esclusioni-gps-2026-2028/"
+      },
       {
         "date": "28 Agosto 2026",
         "id": "08bd6ba990dc4a73",
         "title": "Nomine t.d posto sostegno per continuità didattica ogni ordine e grado a.s 26/27",
         "url": "https://mo.istruzioneer.gov.it/2026/08/28/nomine-t-d-posto-sostegno-per-continuita-didattica-ogni-ordine-e-grado-a-s-26-27/"
-      },
-      {
-        "date": "28 Agosto 2026",
-        "id": "fba751ddce3e0618",
-        "title": "Disponibilità nomine continuità sostegno e GPS T.D.ogni ordine e grado a.s.26/27",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/28/disponibilita-nomine-continuita-sostegno-e-gps-t-d-ogni-ordine-e-grado-a-s-26-27/"
-      },
-      {
-        "date": "28 Agosto 2026",
-        "id": "20aef24337459dee",
-        "title": "Personale ATA in comando a.s. 26/27 – Dispositivo presa di servizio",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/28/personale-ata-in-comando-a-s-26-27-dispositivo-presa-di-servizio/"
-      },
-      {
-        "date": "27 Agosto 2026",
-        "id": "ae99f7c0b6bc599b",
-        "title": "Posti orario ogni ordine e grado – GPS a.s. 2026/27",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/27/posti-orario-ogni-ordine-e-grado-gps-a-s-2026-27/"
       }
     ],
     "seen_ids": [
+      "b80fda7c269a6911",
+      "27309b1fdbc62bd7",
+      "ad3d396dd83d2099",
+      "7bcc6906bb26caac",
+      "c994e37e3028475a",
+      "aa535a28c4541bdf",
+      "68f520d37c7d20ae",
+      "59f6f8380223d936",
+      "2898594708cb6355",
       "08bd6ba990dc4a73",
       "fba751ddce3e0618",
       "20aef24337459dee",
@@ -89,6 +129,48 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "31 Agosto 2026",
+        "id": "fadf1807f6816087",
+        "title": "Nomine a tempo determinato personale ATA a.s. 2026-2027",
+        "url": "https://re.istruzioneer.gov.it/2026/08/31/nomine-a-tempo-determinato-personale-ata-a-s-2026-2027/"
+      },
+      {
+        "date": "31 Agosto 2026 31 Agosto 2026",
+        "id": "579f8fece3b67983",
+        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – PRIMA FASE",
+        "url": "https://re.istruzioneer.gov.it/2026/08/31/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-prima-fase/"
+      },
+      {
+        "date": "31 Agosto 2026",
+        "id": "9f3f8eed63b5be87",
+        "title": "A.S. 2026/2027 – Immissioni in ruolo degli insegnanti di religione cattolica – SCORRIMENTO",
+        "url": "https://re.istruzioneer.gov.it/2026/08/31/a-s-2026-2027-immissioni-in-ruolo-degli-insegnanti-di-religione-cattolica-scorrimento/"
+      },
+      {
+        "date": "31 Agosto 2026",
+        "id": "d9e4e49a4331469b",
+        "title": "Nomine a tempo Indetermnato Funzionari Elevata Qualificazione",
+        "url": "https://re.istruzioneer.gov.it/2026/08/31/nomine-a-tempo-indetermnato-funzionari-elevata-qualificazione/"
+      },
+      {
+        "date": "31 Agosto 2026 31 Agosto 2026",
+        "id": "4ad9ec48c36ac767",
+        "title": "NOMINE A TEMPO DETERMINATO AI SENSI DELL’ART. 13 O.M. 27/2026 – CONTINUITA’ SU POSTO DI SOSTEGNO – A.S. 2026/2027",
+        "url": "https://re.istruzioneer.gov.it/2026/08/31/nomine-a-tempo-determinato-ai-sensi-dellart-13-o-m-27-2026-continuita-su-posto-di-sostegno-a-s-2026-2027/"
+      },
+      {
+        "date": "31 Agosto 2026 31 Agosto 2026",
+        "id": "e6e29283bcef6a3b",
+        "title": "I Interpello per la copertura di posti vacanti e/o disponibili area dei FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE ANNO SCOLASTICO 2026/27",
+        "url": "https://re.istruzioneer.gov.it/2026/08/31/i-interpello-per-la-copertura-di-posti-vacanti-e-o-disponibili-area-dei-funzionari-e-dellelevata-qualificazione-anno-scolastico-2026-27/"
+      },
+      {
+        "date": "31 Agosto 2026",
+        "id": "9bf71c5c7b3c9641",
+        "title": "Posti orario ogni ordine e grado – GPS a.s. 2026/27_RETTIFICA",
+        "url": "https://re.istruzioneer.gov.it/2026/08/31/posti-orario-ogni-ordine-e-grado-gps-a-s-2026-27_rettifica/"
+      },
+      {
         "date": "28 Agosto 2026 29 Agosto 2026",
         "id": "501f38c7b60c4ff5",
         "title": "A.S. 2026/2027 – Immissioni in ruolo degli insegnanti di religione cattolica",
@@ -120,6 +202,12 @@
       },
       {
         "date": "27 Agosto 2026 27 Agosto 2026",
+        "id": "56a3f0e333e100da",
+        "title": "Nomine a Tempo determinato personale ATA profilo COLLABORATORE SCOLASTICO – ESITI",
+        "url": "https://re.istruzioneer.gov.it/2026/08/27/nomine-a-tempo-determinato-personale-ata-profilo-collaboratore-scolastico-esiti/"
+      },
+      {
+        "date": "27 Agosto 2026 27 Agosto 2026",
         "id": "e29ef85c0c27faa6",
         "title": "PART-TIME – Personale docente, educativo e ATA. Anno scolastico 2026/27 – RETTIFICA ESITI",
         "url": "https://re.istruzioneer.gov.it/2026/08/27/part-time-personale-docente-educativo-e-ata-anno-scolastico-2026-27-rettifica-esiti-2/"
@@ -132,20 +220,51 @@
       },
       {
         "date": "27 Agosto 2026 27 Agosto 2026",
-        "id": "56a3f0e333e100da",
-        "title": "Nomine a Tempo determinato personale ATA profilo COLLABORATORE SCOLASTICO – ESITI",
-        "url": "https://re.istruzioneer.gov.it/2026/08/27/nomine-a-tempo-determinato-personale-ata-profilo-collaboratore-scolastico-esiti/"
+        "id": "028945297b2a4333",
+        "title": "Graduatorie Provinciali per le Supplenze aa.ss. 2026/27 – 2027/28 – ESCLUSIONI",
+        "url": "https://re.istruzioneer.gov.it/2026/08/27/graduatorie-provinciali-per-le-supplenze-aa-ss-2026-27-2027-28-esclusioni-2/"
+      },
+      {
+        "date": "26 Agosto 2026",
+        "id": "f769a34568a01ecd",
+        "title": "Ottimizzazioni COE a.s. 2026/2027_RETTIFICA",
+        "url": "https://re.istruzioneer.gov.it/2026/08/26/ottimizzazioni-coe-a-s-2026-2027_rettifica/"
+      },
+      {
+        "date": "25 Agosto 2026",
+        "id": "3737c496fce53990",
+        "title": "Nomine a tempo indeterminato Funzionari Elevata Qualificazione – AVVISO CONVOCAZIONE",
+        "url": "https://re.istruzioneer.gov.it/2026/08/25/nomine-a-tempo-indeterminato-funzionari-elevata-qualificazione-avviso-convocazione/"
+      },
+      {
+        "date": "25 Agosto 2026",
+        "id": "1766edfc5246dfe6",
+        "title": "Nomine a Tempo determinato personale ATA – ESITI",
+        "url": "https://re.istruzioneer.gov.it/2026/08/25/nomine-a-tempo-determinato-personale-ata-esiti/"
+      },
+      {
+        "date": "25 Agosto 2026",
+        "id": "10cd4d8c36e803e0",
+        "title": "Ottimizzazioni COE a.s. 2026/2027",
+        "url": "https://re.istruzioneer.gov.it/2026/08/25/ottimizzazioni-coe-a-s-2026-2027/"
       }
     ],
     "seen_ids": [
+      "fadf1807f6816087",
+      "579f8fece3b67983",
+      "9f3f8eed63b5be87",
+      "d9e4e49a4331469b",
+      "4ad9ec48c36ac767",
+      "e6e29283bcef6a3b",
+      "9bf71c5c7b3c9641",
       "501f38c7b60c4ff5",
       "b8ba7991ec2382f2",
       "eb81a97334f98f38",
       "c2fe5cffc938e25e",
       "cc84de64bec5e439",
+      "56a3f0e333e100da",
       "e29ef85c0c27faa6",
       "73f3c51afbf997dd",
-      "56a3f0e333e100da",
       "028945297b2a4333",
       "f769a34568a01ecd",
       "3737c496fce53990",
@@ -183,6 +302,36 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "1 Settembre 2026",
+        "id": "9e93476dc99ae60c",
+        "title": "PNFD “Il Latino per l’Educazione Linguistica (LEL)” Riccione, 1-2 ottobre 2026",
+        "url": "https://www.istruzioneer.gov.it/2026/09/01/pnfd-il-latino-per-leducazione-linguistica-lel-riccione-1-2-ottobre-2026/"
+      },
+      {
+        "date": "1 Settembre 2026",
+        "id": "c0791c40ad31b10a",
+        "title": "Progetto “Crei-AMO l’impresa!”a.s. 26/27:richiesta di adesione entro il 10-10-26",
+        "url": "https://www.istruzioneer.gov.it/2026/09/01/progetto-crei-amo-limpresaa-s-26-27richiesta-di-adesione-entro-il-10-10-26/"
+      },
+      {
+        "date": "1 Settembre 2026",
+        "id": "9492763d81139dad",
+        "title": "PNFD – Costruire la filiera 4+2 – Riccione 24-25 settembre 2026",
+        "url": "https://www.istruzioneer.gov.it/2026/09/01/pnfd-costruire-la-filiera-42-riccione-24-25-settembre-2026/"
+      },
+      {
+        "date": "1 Settembre 2026",
+        "id": "7a483dc6a8a75eb8",
+        "title": "D.M. 104/2024 – CONCORSO ORDINARIO IRC – MMSS",
+        "url": "https://www.istruzioneer.gov.it/2026/09/01/d-m-104-2024-concorso-ordinario-irc-mmss-2/"
+      },
+      {
+        "date": "31 Agosto 2026 31 Agosto 2026",
+        "id": "4eac61cf3604f831",
+        "title": "Open Day – La Scuola all’Opera",
+        "url": "https://www.istruzioneer.gov.it/2026/08/31/open-day-la-scuola-allopera-3/"
+      },
+      {
         "date": "28 Agosto 2026 28 Agosto 2026",
         "id": "936e44fe48fea95f",
         "title": "Esiti comando personale ATA USR Emilia-Romagna a.s. 2026/27",
@@ -211,33 +360,14 @@
         "id": "b9dafc0581f36f88",
         "title": "Junior Achievement: attività scuole secondarie di 1° grado 26/27_Webinar 10/9/26",
         "url": "https://www.istruzioneer.gov.it/2026/08/26/junior-achievement-attivita-scuole-secondarie-di-1-grado-26-27_webinar-10-9-26/"
-      },
-      {
-        "date": "25 Agosto 2026 25 Agosto 2026",
-        "id": "a1978af4afbf8e83",
-        "title": "Assunzioni Dirigenti Scolastici a.s. 2026/2027 – Assegnazione sedi.",
-        "url": "https://www.istruzioneer.gov.it/2026/08/25/assunzioni-dirigenti-scolastici-a-s-2026-2027-assegnazione-sedi/"
-      },
-      {
-        "date": "24 Agosto 2026",
-        "id": "05a762bf112eb5ed",
-        "title": "ASSUNZIONI FUNZIONARI ED ELEVATA QUALIFICAZIONE (FUEQ) a.s. 2026/27 – province",
-        "url": "https://www.istruzioneer.gov.it/2026/08/24/assunzioni-funzionari-ed-elevata-qualificazione-fueq-a-s-2026-27-province/"
-      },
-      {
-        "date": "24 Agosto 2026",
-        "id": "ff9093645bf9d6e0",
-        "title": "Immissioni in ruolo personale docente a.s. 2026/27 – AVVISO ESITO PROVINCE",
-        "url": "https://www.istruzioneer.gov.it/2026/08/24/immissioni-in-ruolo-personale-docente-a-s-2026-27-avviso-esito-province-4/"
-      },
-      {
-        "date": "21 Agosto 2026",
-        "id": "b51d526843210853",
-        "title": "“Mini Call Veloce”: esiti seconda fase (SCELTA SEDE)",
-        "url": "https://www.istruzioneer.gov.it/2026/08/21/mini-call-veloce-esiti-seconda-fase-scelta-sede-2/"
       }
     ],
     "seen_ids": [
+      "9e93476dc99ae60c",
+      "c0791c40ad31b10a",
+      "9492763d81139dad",
+      "7a483dc6a8a75eb8",
+      "4eac61cf3604f831",
       "936e44fe48fea95f",
       "75500a3482747a02",
       "e8bd4544fa1bcefb",
