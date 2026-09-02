@@ -1,9 +1,21 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-02T11:12:07+00:00"
+    "last_checked_at_utc": "2026-09-02T18:56:38+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "2 Settembre 2026",
+        "id": "b5d3ddf32ada845c",
+        "title": "Rettifica sede continuità sostegno e annullamento di una nomina Turno 1 GPS",
+        "url": "https://mo.istruzioneer.gov.it/2026/09/02/rettifica-sede-continuita-sostegno-e-annullamento-di-una-nomina-turno-1-gps/"
+      },
+      {
+        "date": "2 Settembre 2026 2 Settembre 2026",
+        "id": "e998e73f7bed41d0",
+        "title": "Ata-Interpello per copertura posti vacanti e/o disponibili di DSGA-a.s. 2026/27",
+        "url": "https://mo.istruzioneer.gov.it/2026/09/02/ata-interpello-per-copertura-posti-vacanti-e-o-disponibili-di-dsga-a-s-2026-27/"
+      },
       {
         "date": "2 Settembre 2026",
         "id": "1183a427042ebd6e",
@@ -51,21 +63,11 @@
         "id": "68f520d37c7d20ae",
         "title": "POSTI ORARIO AI FINI DEL CONFERIMENTO INCARICHI A T.D.-GPS A.S.26/27-RETTIFICA",
         "url": "https://mo.istruzioneer.gov.it/2026/08/31/posti-orario-ai-fini-del-conferimento-incarichi-a-t-d-gps-a-s-26-27-rettifica/"
-      },
-      {
-        "date": "31 Agosto 2026",
-        "id": "59f6f8380223d936",
-        "title": "Rettifica GPS definitive di ogni ordine e grado – 2026-2028",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/31/rettifica-gps-definitive-di-ogni-ordine-e-grado-2026-2028/"
-      },
-      {
-        "date": "31 Agosto 2026 31 Agosto 2026",
-        "id": "2898594708cb6355",
-        "title": "Rettifica esclusioni GPS 2026-2028",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/31/rettifica-esclusioni-gps-2026-2028/"
       }
     ],
     "seen_ids": [
+      "b5d3ddf32ada845c",
+      "e998e73f7bed41d0",
       "1183a427042ebd6e",
       "b80fda7c269a6911",
       "27309b1fdbc62bd7",
