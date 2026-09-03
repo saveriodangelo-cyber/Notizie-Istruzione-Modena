@@ -1,9 +1,15 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-03T05:00:50+00:00"
+    "last_checked_at_utc": "2026-09-03T09:41:59+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
+      {
+        "date": "3 Settembre 2026",
+        "id": "d937e7afe93dd44d",
+        "title": "Progetto “Crei-AMO l’impresa!”a.s. 26/27:richiesta di adesione entro il 10-10-26",
+        "url": "https://mo.istruzioneer.gov.it/2026/09/03/progetto-crei-amo-limpresaa-s-26-27richiesta-di-adesione-entro-il-10-10-26/"
+      },
       {
         "date": "2 Settembre 2026",
         "id": "b5d3ddf32ada845c",
@@ -57,15 +63,10 @@
         "id": "aa535a28c4541bdf",
         "title": "Utilizzazioni e Assegnazioni provv. prov. e int. DOCENTI A.S. 2026/27-RETTIFICA",
         "url": "https://mo.istruzioneer.gov.it/2026/08/31/utilizzazioni-e-assegnazioni-provv-prov-e-int-docenti-a-s-2026-27-rettifica/"
-      },
-      {
-        "date": "31 Agosto 2026",
-        "id": "68f520d37c7d20ae",
-        "title": "POSTI ORARIO AI FINI DEL CONFERIMENTO INCARICHI A T.D.-GPS A.S.26/27-RETTIFICA",
-        "url": "https://mo.istruzioneer.gov.it/2026/08/31/posti-orario-ai-fini-del-conferimento-incarichi-a-t-d-gps-a-s-26-27-rettifica/"
       }
     ],
     "seen_ids": [
+      "d937e7afe93dd44d",
       "b5d3ddf32ada845c",
       "e998e73f7bed41d0",
       "1183a427042ebd6e",
