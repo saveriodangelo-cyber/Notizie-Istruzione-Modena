@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-03T14:29:05+00:00"
+    "last_checked_at_utc": "2026-09-03T18:01:47+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "3 Settembre 2026",
+        "id": "5d61708ee12e01dc",
+        "title": "Interpello per la copertura di posti vacanti e/o disponibili area dei Funzionari Elevata Qualificazione – ESITI",
+        "url": "https://re.istruzioneer.gov.it/2026/09/03/interpello-per-la-copertura-di-posti-vacanti-e-o-disponibili-area-dei-funzionari-elevata-qualificazione-esiti/"
+      },
+      {
         "date": "31 Agosto 2026",
         "id": "fadf1807f6816087",
         "title": "Nomine a tempo determinato personale ATA a.s. 2026-2027",
@@ -245,15 +251,10 @@
         "id": "1766edfc5246dfe6",
         "title": "Nomine a Tempo determinato personale ATA – ESITI",
         "url": "https://re.istruzioneer.gov.it/2026/08/25/nomine-a-tempo-determinato-personale-ata-esiti/"
-      },
-      {
-        "date": "25 Agosto 2026",
-        "id": "10cd4d8c36e803e0",
-        "title": "Ottimizzazioni COE a.s. 2026/2027",
-        "url": "https://re.istruzioneer.gov.it/2026/08/25/ottimizzazioni-coe-a-s-2026-2027/"
       }
     ],
     "seen_ids": [
+      "5d61708ee12e01dc",
       "fadf1807f6816087",
       "579f8fece3b67983",
       "9f3f8eed63b5be87",
