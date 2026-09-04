@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-04T16:17:32+00:00"
+    "last_checked_at_utc": "2026-09-04T19:07:07+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -309,6 +309,12 @@
     "latest_items": [
       {
         "date": "4 Settembre 2026 4 Settembre 2026",
+        "id": "7a74c8e2f9ec7670",
+        "title": "Individuazione scuola polo regionale “Rete di scopo per la valorizzazione delle lingue classiche”",
+        "url": "https://www.istruzioneer.gov.it/2026/09/04/individuazione-scuola-polo-regionale/"
+      },
+      {
+        "date": "4 Settembre 2026 4 Settembre 2026",
         "id": "b8eae16020d9fcc9",
         "title": "Protocollo d’Intesa USRER-Académie de Nantes. Gemellaggi a.s. 2026/2027",
         "url": "https://www.istruzioneer.gov.it/2026/09/04/protocollo-dintesa-usrer-academie-de-nantes-gemellaggi-a-s-2026-2027/"
@@ -360,15 +366,10 @@
         "id": "e8bd4544fa1bcefb",
         "title": "Dirigenti Scolastici – Incarichi di reggenza anno scolastico 2026/2027.",
         "url": "https://www.istruzioneer.gov.it/2026/08/27/dirigenti-scolastici-incarichi-di-reggenza-anno-scolastico-2026-2027/"
-      },
-      {
-        "date": "26 Agosto 2026",
-        "id": "0420eb3cc886407e",
-        "title": "Junior Achievement: attività scuole secondarie di 2° grado 26/27_ Webinar 9/9/26",
-        "url": "https://www.istruzioneer.gov.it/2026/08/26/junior-achievement-attivita-scuole-secondarie-di-2-grado-26-27_-webinar-9-9-26/"
       }
     ],
     "seen_ids": [
+      "7a74c8e2f9ec7670",
       "b8eae16020d9fcc9",
       "9e93476dc99ae60c",
       "c0791c40ad31b10a",
