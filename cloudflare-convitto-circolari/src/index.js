@@ -73,16 +73,9 @@ async function sendPlainTelegram(env, chatId, text) {
   const response = await fetch(`https://api.telegram.org/bot${env.TELEGRAM_BOT_TOKEN}/sendMessage`, {
     method: "POST",
     headers: { "content-type": "application/json" },
-    body: JSON.stringify({
-      chat_id: chatId,
-      text,
-      disable_web_page_preview: false,
-    }),
+    body: JSON.stringify({ chat_id: chatId, text, disable_web_page_preview: false }),
   });
-
-  if (!response.ok) {
-    throw new Error(`Telegram HTTP ${response.status}: ${await response.text()}`);
-  }
+  if (!response.ok) throw new Error(`Telegram HTTP ${response.status}: ${await response.text()}`);
 }
 
 async function sendTelegram(env, chatId, item) {
@@ -95,7 +88,6 @@ async function sendTelegram(env, chatId, item) {
     "",
     item.link,
   ].filter(Boolean).join("\n");
-
   await sendPlainTelegram(env, chatId, text);
 }
 
@@ -107,7 +99,6 @@ export class StateStore {
 
   async fetch(request) {
     const url = new URL(request.url);
-
     if (url.pathname === "/check") {
       try {
         const result = await this.checkCircolari();
@@ -126,14 +117,11 @@ export class StateStore {
       }
     }
 
-    const current = (await this.state.storage.get("monitor")) || {
-      initialized: false,
-      feed: FEED_URL,
-    };
-
+    const current = (await this.state.storage.get("monitor")) || { initialized: false, feed: FEED_URL };
     const safe = { ...current };
     delete safe.telegramChatId;
     safe.telegramChatConfigured = Boolean(current.telegramChatId || this.env.TELEGRAM_CHAT_ID);
+    safe.durableObjectHasToken = Boolean(this.env.TELEGRAM_BOT_TOKEN);
     return Response.json(safe);
   }
 
@@ -155,7 +143,7 @@ export class StateStore {
         feed: FEED_URL,
         lastCheckedAt: now,
         lastResult: "missing-telegram-token",
-        lastError: "Impostare TELEGRAM_BOT_TOKEN nei Secrets del Worker.",
+        lastError: "Impostare TELEGRAM_BOT_TOKEN nei Secrets runtime del Worker e distribuire la modifica.",
       };
       await this.state.storage.put("monitor", state);
       console.log("check-result", state.lastResult);
@@ -163,7 +151,6 @@ export class StateStore {
     }
 
     let chatId = this.env.TELEGRAM_CHAT_ID || previous.telegramChatId || null;
-
     if (!chatId) {
       chatId = await discoverTelegramChatId(this.env.TELEGRAM_BOT_TOKEN);
       if (!chatId) {
@@ -178,7 +165,6 @@ export class StateStore {
         console.log("check-result", state.lastResult);
         return state;
       }
-
       previous.telegramChatId = chatId;
       console.log("telegram-chat-discovered", true);
     }
@@ -195,31 +181,21 @@ export class StateStore {
     }
 
     const headers = {
-      "user-agent": "Mozilla/5.0 (compatible; CircolariConvittoCloudflare/1.3)",
-      "accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8",
+      "user-agent": "Mozilla/5.0 (compatible; CircolariConvittoCloudflare/1.4)",
+      accept: "application/rss+xml, application/xml;q=0.9, */*;q=0.8",
       "cache-control": "no-cache",
     };
     if (previous.etag) headers["if-none-match"] = previous.etag;
     if (previous.lastModified) headers["if-modified-since"] = previous.lastModified;
 
     const response = await fetch(FEED_URL, { headers });
-
     if (response.status === 304) {
-      const state = {
-        ...previous,
-        telegramChatId: chatId,
-        lastCheckedAt: now,
-        lastResult: "not-modified",
-        lastError: null,
-      };
+      const state = { ...previous, telegramChatId: chatId, lastCheckedAt: now, lastResult: "not-modified", lastError: null };
       await this.state.storage.put("monitor", state);
       console.log("check-result", state.lastResult);
       return state;
     }
-
-    if (!response.ok) {
-      throw new Error(`Feed HTTP ${response.status}`);
-    }
+    if (!response.ok) throw new Error(`Feed HTTP ${response.status}`);
 
     const xml = await response.text();
     const items = parseFeed(xml);
@@ -230,9 +206,7 @@ export class StateStore {
     const initialized = Boolean(previous.initialized);
 
     if (initialized) {
-      for (const item of [...newItems].reverse()) {
-        await sendTelegram(this.env, chatId, item);
-      }
+      for (const item of [...newItems].reverse()) await sendTelegram(this.env, chatId, item);
     }
 
     const mergedSeen = [...new Set([...items.map((x) => x.link), ...(previous.seen || [])])].slice(0, MAX_SEEN);
@@ -266,15 +240,18 @@ function stateStub(env) {
 
 export default {
   async scheduled(_controller, env, ctx) {
+    console.log("scheduled-env", { hasToken: Boolean(env.TELEGRAM_BOT_TOKEN) });
     ctx.waitUntil(stateStub(env).fetch("https://state.local/check"));
   },
 
   async fetch(_request, env) {
+    console.log("fetch-env", { hasToken: Boolean(env.TELEGRAM_BOT_TOKEN) });
     const response = await stateStub(env).fetch("https://state.local/status");
     const data = await response.json();
     return Response.json({
       service: "Monitor circolari Convitto Nazionale Rinaldo Corso",
       schedule: "ogni minuto",
+      workerHasToken: Boolean(env.TELEGRAM_BOT_TOKEN),
       ...data,
     });
   },
