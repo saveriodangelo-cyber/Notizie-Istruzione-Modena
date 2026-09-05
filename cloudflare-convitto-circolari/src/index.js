@@ -47,7 +47,28 @@ function formatDate(pubDate) {
   }).format(d);
 }
 
-async function sendTelegram(env, item) {
+async function discoverTelegramChatId(token) {
+  const response = await fetch(`https://api.telegram.org/bot${token}/getUpdates?limit=20&timeout=0`, {
+    headers: { "cache-control": "no-cache" },
+  });
+  if (!response.ok) {
+    throw new Error(`Telegram getUpdates HTTP ${response.status}: ${await response.text()}`);
+  }
+
+  const data = await response.json();
+  const updates = Array.isArray(data.result) ? data.result : [];
+
+  for (const update of [...updates].reverse()) {
+    const message = update.message || update.edited_message;
+    const chat = message?.chat;
+    if (chat?.id && chat?.type === "private") {
+      return String(chat.id);
+    }
+  }
+  return null;
+}
+
+async function sendTelegram(env, chatId, item) {
   const when = formatDate(item.pubDate);
   const text = [
     "🏫 Nuova circolare — Rinaldo Corso",
@@ -62,7 +83,7 @@ async function sendTelegram(env, item) {
     method: "POST",
     headers: { "content-type": "application/json" },
     body: JSON.stringify({
-      chat_id: env.TELEGRAM_CHAT_ID,
+      chat_id: chatId,
       text,
       disable_web_page_preview: false,
     }),
@@ -104,27 +125,49 @@ export class StateStore {
       initialized: false,
       feed: FEED_URL,
     };
-    return Response.json(current);
+
+    const safe = { ...current };
+    delete safe.telegramChatId;
+    safe.telegramChatConfigured = Boolean(current.telegramChatId || this.env.TELEGRAM_CHAT_ID);
+    return Response.json(safe);
   }
 
   async checkCircolari() {
     const now = new Date().toISOString();
     const previous = (await this.state.storage.get("monitor")) || {};
 
-    if (!this.env.TELEGRAM_BOT_TOKEN || !this.env.TELEGRAM_CHAT_ID) {
+    if (!this.env.TELEGRAM_BOT_TOKEN) {
       const state = {
         ...previous,
         feed: FEED_URL,
         lastCheckedAt: now,
-        lastResult: "missing-telegram-secrets",
-        lastError: "Impostare TELEGRAM_BOT_TOKEN e TELEGRAM_CHAT_ID nei Secrets del Worker.",
+        lastResult: "missing-telegram-token",
+        lastError: "Impostare TELEGRAM_BOT_TOKEN nei Secrets del Worker.",
       };
       await this.state.storage.put("monitor", state);
       return state;
     }
 
+    let chatId = this.env.TELEGRAM_CHAT_ID || previous.telegramChatId || null;
+
+    if (!chatId) {
+      chatId = await discoverTelegramChatId(this.env.TELEGRAM_BOT_TOKEN);
+      if (!chatId) {
+        const state = {
+          ...previous,
+          feed: FEED_URL,
+          lastCheckedAt: now,
+          lastResult: "waiting-for-telegram-start",
+          lastError: "Apri il bot su Telegram e premi Avvia / invia /start. Il Worker rileverà automaticamente la chat al controllo successivo.",
+        };
+        await this.state.storage.put("monitor", state);
+        return state;
+      }
+      previous.telegramChatId = chatId;
+    }
+
     const headers = {
-      "user-agent": "Mozilla/5.0 (compatible; CircolariConvittoCloudflare/1.0)",
+      "user-agent": "Mozilla/5.0 (compatible; CircolariConvittoCloudflare/1.1)",
       "accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8",
       "cache-control": "no-cache",
     };
@@ -136,6 +179,7 @@ export class StateStore {
     if (response.status === 304) {
       const state = {
         ...previous,
+        telegramChatId: chatId,
         lastCheckedAt: now,
         lastResult: "not-modified",
         lastError: null,
@@ -158,7 +202,7 @@ export class StateStore {
 
     if (initialized) {
       for (const item of [...newItems].reverse()) {
-        await sendTelegram(this.env, item);
+        await sendTelegram(this.env, chatId, item);
       }
     }
 
@@ -166,6 +210,7 @@ export class StateStore {
     const state = {
       initialized: true,
       feed: FEED_URL,
+      telegramChatId: chatId,
       etag: response.headers.get("etag") || previous.etag || null,
       lastModified: response.headers.get("last-modified") || previous.lastModified || null,
       lastCheckedAt: now,
