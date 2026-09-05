@@ -1,0 +1,31 @@
+name: Test notifiche USR del 4 settembre
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/run-usr-yesterday-test"
+
+jobs:
+  test-usr-yesterday:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Scarica repository
+        uses: actions/checkout@v4
+
+      - name: Prepara Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Installa dipendenze
+        run: pip install -r requirements.txt
+
+      - name: Reinvio notifiche del 4 settembre 2026
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python test_usr_yesterday.py
