@@ -2,6 +2,10 @@ name: Controlla circolari Convitto Rinaldo Corso
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - "check_circolari_convitto.py"
+      - ".github/workflows/check-circolari-convitto.yml"
   schedule:
     # GitHub Actions supporta una frequenza minima di 5 minuti per i workflow pianificati.
     - cron: "*/5 * * * *"
