@@ -68,17 +68,7 @@ async function discoverTelegramChatId(token) {
   return null;
 }
 
-async function sendTelegram(env, chatId, item) {
-  const when = formatDate(item.pubDate);
-  const text = [
-    "🏫 Nuova circolare — Rinaldo Corso",
-    "",
-    item.title,
-    when ? `Pubblicata: ${when}` : "",
-    "",
-    item.link,
-  ].filter(Boolean).join("\n");
-
+async function sendPlainTelegram(env, chatId, text) {
   const response = await fetch(`https://api.telegram.org/bot${env.TELEGRAM_BOT_TOKEN}/sendMessage`, {
     method: "POST",
     headers: { "content-type": "application/json" },
@@ -92,6 +82,20 @@ async function sendTelegram(env, chatId, item) {
   if (!response.ok) {
     throw new Error(`Telegram HTTP ${response.status}: ${await response.text()}`);
   }
+}
+
+async function sendTelegram(env, chatId, item) {
+  const when = formatDate(item.pubDate);
+  const text = [
+    "🏫 Nuova circolare — Rinaldo Corso",
+    "",
+    item.title,
+    when ? `Pubblicata: ${when}` : "",
+    "",
+    item.link,
+  ].filter(Boolean).join("\n");
+
+  await sendPlainTelegram(env, chatId, text);
 }
 
 export class StateStore {
@@ -163,11 +167,22 @@ export class StateStore {
         await this.state.storage.put("monitor", state);
         return state;
       }
+
       previous.telegramChatId = chatId;
+
+      if (!previous.setupNotificationSent) {
+        await sendPlainTelegram(
+          this.env,
+          chatId,
+          "✅ Test riuscito — monitor circolari Rinaldo Corso attivo.\n\nDa ora controllerò automaticamente il feed delle circolari e ti avviserò quando ne verrà pubblicata una nuova."
+        );
+        previous.setupNotificationSent = true;
+        previous.lastSetupNotificationAt = now;
+      }
     }
 
     const headers = {
-      "user-agent": "Mozilla/5.0 (compatible; CircolariConvittoCloudflare/1.1)",
+      "user-agent": "Mozilla/5.0 (compatible; CircolariConvittoCloudflare/1.2)",
       "accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8",
       "cache-control": "no-cache",
     };
@@ -211,6 +226,8 @@ export class StateStore {
       initialized: true,
       feed: FEED_URL,
       telegramChatId: chatId,
+      setupNotificationSent: previous.setupNotificationSent || false,
+      lastSetupNotificationAt: previous.lastSetupNotificationAt || null,
       etag: response.headers.get("etag") || previous.etag || null,
       lastModified: response.headers.get("last-modified") || previous.lastModified || null,
       lastCheckedAt: now,
