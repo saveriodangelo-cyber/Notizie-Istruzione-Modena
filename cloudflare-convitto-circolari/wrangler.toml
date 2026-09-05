@@ -1,0 +1,17 @@
+name = "convitto-circolari"
+main = "src/index.js"
+compatibility_date = "2026-09-05"
+
+[triggers]
+crons = ["* * * * *"]
+
+[[durable_objects.bindings]]
+name = "STATE_STORE"
+class_name = "StateStore"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["StateStore"]
+
+[observability]
+enabled = true
