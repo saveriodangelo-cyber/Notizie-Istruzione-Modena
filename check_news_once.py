@@ -15,19 +15,15 @@ from bs4 import BeautifulSoup, Tag
 
 SITES = [
     {
-        "name": "Ufficio scolastico territoriale di Modena",
-        "url": "https://mo.istruzioneer.gov.it/",
-        "category_url": "https://mo.istruzioneer.gov.it/category/notizie-in-evidenza/",
-        "emoji": "📍",
-    },
-    {
         "name": "Ufficio scolastico territoriale di Reggio Emilia",
+        "label": "REGGIO",
         "url": "https://re.istruzioneer.gov.it/",
         "category_url": "https://re.istruzioneer.gov.it/category/notizie-in-evidenza/",
         "emoji": "📌",
     },
     {
         "name": "USR Emilia-Romagna",
+        "label": "REGIONE",
         "url": "https://www.istruzioneer.gov.it/",
         "category_url": "https://www.istruzioneer.gov.it/category/notizie-in-evidenza/",
         "emoji": "🏛️",
@@ -118,6 +114,7 @@ def make_item(site: Dict[str, str], base_url: str, title: str, url: str, date_te
     return {
         "id": item_id(url, title),
         "site_name": site["name"],
+        "site_label": site.get("label", site["name"]),
         "site_url": site["url"],
         "emoji": site.get("emoji", "📰"),
         "title": title,
@@ -290,15 +287,14 @@ def notify(token: str, chat_id: str, item: Dict[str, str]) -> None:
         telegram_send(token, chat_id, message)
 
     if email_configured():
-        subject = f"Nuova notizia in evidenza - {item['site_name']}"
+        subject = f"Nuova notizia in evidenza - {item['site_label']}"
         email_send(subject, message)
 
 
 def build_message(item: Dict[str, str]) -> str:
     date_line = f"\nData: {item['date']}" if item.get("date") else ""
     return (
-        f"{item.get('emoji', '📰')} Nuova notizia in evidenza\n\n"
-        f"Sito: {item['site_name']}\n"
+        f"{item.get('emoji', '📰')} {item.get('site_label', item['site_name'])} — Nuova notizia in evidenza\n\n"
         f"Titolo: {item['title']}"
         f"{date_line}\n\n"
         f"{item['url']}"
