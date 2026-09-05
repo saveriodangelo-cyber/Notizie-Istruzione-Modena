@@ -57,6 +57,7 @@ async function discoverTelegramChatId(token) {
 
   const data = await response.json();
   const updates = Array.isArray(data.result) ? data.result : [];
+  console.log("telegram-updates", updates.length);
 
   for (const update of [...updates].reverse()) {
     const message = update.message || update.edited_message;
@@ -112,7 +113,7 @@ export class StateStore {
         const result = await this.checkCircolari();
         return Response.json(result);
       } catch (error) {
-        console.error(error);
+        console.error("check-error", error);
         const previous = (await this.state.storage.get("monitor")) || {};
         const failed = {
           ...previous,
@@ -140,6 +141,14 @@ export class StateStore {
     const now = new Date().toISOString();
     const previous = (await this.state.storage.get("monitor")) || {};
 
+    console.log("check-start", {
+      hasToken: Boolean(this.env.TELEGRAM_BOT_TOKEN),
+      hasStoredChat: Boolean(previous.telegramChatId),
+      hasEnvChat: Boolean(this.env.TELEGRAM_CHAT_ID),
+      setupNotificationSent: Boolean(previous.setupNotificationSent),
+      initialized: Boolean(previous.initialized),
+    });
+
     if (!this.env.TELEGRAM_BOT_TOKEN) {
       const state = {
         ...previous,
@@ -149,6 +158,7 @@ export class StateStore {
         lastError: "Impostare TELEGRAM_BOT_TOKEN nei Secrets del Worker.",
       };
       await this.state.storage.put("monitor", state);
+      console.log("check-result", state.lastResult);
       return state;
     }
 
@@ -165,24 +175,27 @@ export class StateStore {
           lastError: "Apri il bot su Telegram e premi Avvia / invia /start. Il Worker rileverà automaticamente la chat al controllo successivo.",
         };
         await this.state.storage.put("monitor", state);
+        console.log("check-result", state.lastResult);
         return state;
       }
 
       previous.telegramChatId = chatId;
+      console.log("telegram-chat-discovered", true);
+    }
 
-      if (!previous.setupNotificationSent) {
-        await sendPlainTelegram(
-          this.env,
-          chatId,
-          "✅ Test riuscito — monitor circolari Rinaldo Corso attivo.\n\nDa ora controllerò automaticamente il feed delle circolari e ti avviserò quando ne verrà pubblicata una nuova."
-        );
-        previous.setupNotificationSent = true;
-        previous.lastSetupNotificationAt = now;
-      }
+    if (!previous.setupNotificationSent) {
+      await sendPlainTelegram(
+        this.env,
+        chatId,
+        "✅ Test riuscito — monitor circolari Rinaldo Corso attivo.\n\nDa ora controllerò automaticamente il feed delle circolari e ti avviserò quando ne verrà pubblicata una nuova."
+      );
+      previous.setupNotificationSent = true;
+      previous.lastSetupNotificationAt = now;
+      console.log("telegram-test-sent", true);
     }
 
     const headers = {
-      "user-agent": "Mozilla/5.0 (compatible; CircolariConvittoCloudflare/1.2)",
+      "user-agent": "Mozilla/5.0 (compatible; CircolariConvittoCloudflare/1.3)",
       "accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8",
       "cache-control": "no-cache",
     };
@@ -200,6 +213,7 @@ export class StateStore {
         lastError: null,
       };
       await this.state.storage.put("monitor", state);
+      console.log("check-result", state.lastResult);
       return state;
     }
 
@@ -240,6 +254,7 @@ export class StateStore {
     };
 
     await this.state.storage.put("monitor", state);
+    console.log("check-result", state.lastResult, "new-items", newItems.length);
     return state;
   }
 }
