@@ -1,0 +1,54 @@
+name: Controlla circolari Convitto Rinaldo Corso
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub Actions supporta una frequenza minima di 5 minuti per i workflow pianificati.
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: telegram-circolari-convitto
+  cancel-in-progress: false
+
+jobs:
+  check-circolari:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Scarica repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Prepara Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Installa dipendenze
+        run: pip install -r requirements.txt
+
+      - name: Controlla nuove circolari e invia Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SEND_ON_FIRST_RUN: "false"
+        run: python check_circolari_convitto.py
+
+      - name: Salva storico circolari
+        run: |
+          if [ -n "$(git status --porcelain seen_circolari.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add seen_circolari.json
+            git commit -m "Aggiorna storico circolari Convitto"
+            git pull --rebase
+            git push
+          else
+            echo "Nessuna modifica allo storico."
+          fi
