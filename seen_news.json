@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-07T09:41:00+00:00"
+    "last_checked_at_utc": "2026-09-07T15:48:08+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "7 Settembre 2026",
+        "id": "a053ab2d61f63332",
+        "title": "D.M. 140/2024 – Modalità di attribuzione delle posizioni economiche del personale A.T.A. all’interno delle Aree. Individuazione beneficiari.",
+        "url": "https://re.istruzioneer.gov.it/2026/09/07/d-m-140-2024-modalita-di-attribuzione-delle-posizioni-economiche-del-personale-a-t-a-allinterno-delle-aree-individuazione-beneficiari/"
+      },
+      {
         "date": "4 Settembre 2026",
         "id": "9b585aefac296a7b",
         "title": "Interpello per la copertura di posti vacanti e/o disponibili area dei Funzionari Elevata Qualificazione – ERRATA CORRIGE",
@@ -245,15 +251,10 @@
         "id": "f769a34568a01ecd",
         "title": "Ottimizzazioni COE a.s. 2026/2027_RETTIFICA",
         "url": "https://re.istruzioneer.gov.it/2026/08/26/ottimizzazioni-coe-a-s-2026-2027_rettifica/"
-      },
-      {
-        "date": "25 Agosto 2026",
-        "id": "3737c496fce53990",
-        "title": "Nomine a tempo indeterminato Funzionari Elevata Qualificazione – AVVISO CONVOCAZIONE",
-        "url": "https://re.istruzioneer.gov.it/2026/08/25/nomine-a-tempo-indeterminato-funzionari-elevata-qualificazione-avviso-convocazione/"
       }
     ],
     "seen_ids": [
+      "a053ab2d61f63332",
       "9b585aefac296a7b",
       "5d61708ee12e01dc",
       "fadf1807f6816087",
@@ -308,6 +309,18 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "7 Settembre 2026 7 Settembre 2026",
+        "id": "e2e2c2b91f57b7ca",
+        "title": "Scuole paritarie. Indicazioni operative a.s. 2026/2027",
+        "url": "https://www.istruzioneer.gov.it/2026/09/07/scuole-paritarie-indicazioni-operative-a-s-2026-2027/"
+      },
+      {
+        "date": "7 Settembre 2026 7 Settembre 2026",
+        "id": "4e044f14f73ffd5a",
+        "title": "Scuole iscritte al registro regionale delle scuole non paritarie: indicazioni avvio a.s. 2026/2027",
+        "url": "https://www.istruzioneer.gov.it/2026/09/07/scuole-iscritte-al-registro-regionale-delle-scuole-non-paritarie/"
+      },
+      {
         "date": "4 Settembre 2026 4 Settembre 2026",
         "id": "7a74c8e2f9ec7670",
         "title": "Individuazione scuola polo regionale “Rete di scopo per la valorizzazione delle lingue classiche”",
@@ -354,21 +367,11 @@
         "id": "936e44fe48fea95f",
         "title": "Esiti comando personale ATA USR Emilia-Romagna a.s. 2026/27",
         "url": "https://www.istruzioneer.gov.it/2026/08/28/esiti-comando-personale-ata-usr-emilia-romagna-a-s-2026-27/"
-      },
-      {
-        "date": "28 Agosto 2026",
-        "id": "75500a3482747a02",
-        "title": "NOMINE a.s. 2026/27: Dispositivo attribuzione SEDI – Surroghe",
-        "url": "https://www.istruzioneer.gov.it/2026/08/28/nomine-a-s-2026-27-dispositivo-attribuzione-sedi-surroghe-3/"
-      },
-      {
-        "date": "27 Agosto 2026",
-        "id": "e8bd4544fa1bcefb",
-        "title": "Dirigenti Scolastici – Incarichi di reggenza anno scolastico 2026/2027.",
-        "url": "https://www.istruzioneer.gov.it/2026/08/27/dirigenti-scolastici-incarichi-di-reggenza-anno-scolastico-2026-2027/"
       }
     ],
     "seen_ids": [
+      "e2e2c2b91f57b7ca",
+      "4e044f14f73ffd5a",
       "7a74c8e2f9ec7670",
       "b8eae16020d9fcc9",
       "9e93476dc99ae60c",
