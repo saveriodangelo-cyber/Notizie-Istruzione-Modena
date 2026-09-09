@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-09T14:33:54+00:00"
+    "last_checked_at_utc": "2026-09-09T17:58:10+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "9 Settembre 2026",
+        "id": "f5355ceb501a38db",
+        "title": "Part-time personale docente, educativo ed A.T.A. neo assunto T.I. – T.D. – a.s. 2026/2027",
+        "url": "https://re.istruzioneer.gov.it/2026/09/09/part-time-personale-docente-educativo-ed-a-t-a-neo-assunto-t-i-t-d-a-s-2026-2027/"
+      },
+      {
         "date": "8 Settembre 2026",
         "id": "3a12cf3cb999ed5e",
         "title": "II Interpello per la copertura di posti vacanti e/o disponibili area dei Funzionari e dell’Elevata Qualificazione anno scolastico 2026/27",
@@ -245,15 +251,10 @@
         "id": "73f3c51afbf997dd",
         "title": "Ottimizzazioni COE a.s. 2026/2027_RETTIFICA",
         "url": "https://re.istruzioneer.gov.it/2026/08/27/ottimizzazioni-coe-a-s-2026-2027_rettifica-2/"
-      },
-      {
-        "date": "27 Agosto 2026 27 Agosto 2026",
-        "id": "028945297b2a4333",
-        "title": "Graduatorie Provinciali per le Supplenze aa.ss. 2026/27 – 2027/28 – ESCLUSIONI",
-        "url": "https://re.istruzioneer.gov.it/2026/08/27/graduatorie-provinciali-per-le-supplenze-aa-ss-2026-27-2027-28-esclusioni-2/"
       }
     ],
     "seen_ids": [
+      "f5355ceb501a38db",
       "3a12cf3cb999ed5e",
       "a053ab2d61f63332",
       "9b585aefac296a7b",
