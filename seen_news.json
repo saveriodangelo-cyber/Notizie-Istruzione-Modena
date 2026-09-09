@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-09T05:11:42+00:00"
+    "last_checked_at_utc": "2026-09-09T10:05:06+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -310,6 +310,18 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "9 Settembre 2026 9 Settembre 2026",
+        "id": "1bb4d7f5d9c224f0",
+        "title": "PNFD “Per una progettazione universale in chiave inclusiva” – Riccione, 14 e 15 ottobre",
+        "url": "https://www.istruzioneer.gov.it/2026/09/09/pnfd-per-una-progettazione-universale-in-chiave-inclusiva-riccione-14-e-15-ottobre/"
+      },
+      {
+        "date": "9 Settembre 2026 9 Settembre 2026",
+        "id": "04359e02a204ac85",
+        "title": "PNFD “Coltivare relazioni per generare apprendimento” – Riccione, 29 e 30 settembre",
+        "url": "https://www.istruzioneer.gov.it/2026/09/09/pnfd-coltivare-relazioni-per-generare-apprendimento/"
+      },
+      {
         "date": "7 Settembre 2026 7 Settembre 2026",
         "id": "e2e2c2b91f57b7ca",
         "title": "Scuole paritarie. Indicazioni operative a.s. 2026/2027",
@@ -356,21 +368,11 @@
         "id": "7a483dc6a8a75eb8",
         "title": "D.M. 104/2024 – CONCORSO ORDINARIO IRC – MMSS",
         "url": "https://www.istruzioneer.gov.it/2026/09/01/d-m-104-2024-concorso-ordinario-irc-mmss-2/"
-      },
-      {
-        "date": "31 Agosto 2026 31 Agosto 2026",
-        "id": "4eac61cf3604f831",
-        "title": "Open Day – La Scuola all’Opera",
-        "url": "https://www.istruzioneer.gov.it/2026/08/31/open-day-la-scuola-allopera-3/"
-      },
-      {
-        "date": "28 Agosto 2026 28 Agosto 2026",
-        "id": "936e44fe48fea95f",
-        "title": "Esiti comando personale ATA USR Emilia-Romagna a.s. 2026/27",
-        "url": "https://www.istruzioneer.gov.it/2026/08/28/esiti-comando-personale-ata-usr-emilia-romagna-a-s-2026-27/"
       }
     ],
     "seen_ids": [
+      "1bb4d7f5d9c224f0",
+      "04359e02a204ac85",
       "e2e2c2b91f57b7ca",
       "4e044f14f73ffd5a",
       "7a74c8e2f9ec7670",
