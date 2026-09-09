@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-09-09T06:03:23+00:00",
+  "last_checked_at_utc": "2026-09-09T11:12:14+00:00",
   "latest_items": [
     {
       "date": "11 settembre 2026",
@@ -22,6 +22,20 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "11 settembre 2026",
+      "id": "c646b289fe5d4eae04e8",
+      "number": "",
+      "title": "2026 09 Set circ. n.7 Progetto “Pranziamo insieme” Progetto \"Pranziamo insieme\"",
+      "url": "https://www.convittocorreggio.edu.it/circolare/progetto-pranziamo-insieme-2/"
+    },
+    {
+      "date": "11 settembre 2026",
+      "id": "aeb995aa5d93d404dcb9",
+      "number": "",
+      "title": "2026 09 Set circ. n.6 Visita di istruzione classi 3A – 3B scuola Primaria Visita di istruzione classi 3A - 3B scuola Primaria",
+      "url": "https://www.convittocorreggio.edu.it/circolare/visita-di-istruzione-classi-3a-3b-scuola-primaria/"
     },
     {
       "date": "11 settembre 2026",
@@ -81,20 +95,6 @@
     },
     {
       "date": "11 settembre 2026",
-      "id": "1cb8770a405dc45f2881",
-      "number": "",
-      "title": "2026 09 Giu circ. n.346 Convocazione commissione intercultura Convocazione commissione intercultura",
-      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-commissione-intercultura-15/"
-    },
-    {
-      "date": "11 settembre 2026",
-      "id": "4b2dbb5f35f9773ba8fd",
-      "number": "",
-      "title": "2026 08 Giu circ. n.345 Convocazione e ordine del giorno del Collegio dei Docenti Unitario del 13 giugno 2026. Convocazione e ordine del giorno del Collegio dei Docenti Unitario del 13 giugno 2026.",
-      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-e-ordine-del-giorno-del-collegio-dei-docenti-unitario-del-13-giugno-2026/"
-    },
-    {
-      "date": "11 settembre 2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -109,13 +109,6 @@
     },
     {
       "date": "11 settembre 2026",
-      "id": "368b84f5af4954639416",
-      "number": "",
-      "title": "81",
-      "url": "https://www.convittocorreggio.edu.it/circolare/page/81/"
-    },
-    {
-      "date": "11 settembre 2026",
       "id": "1eed0c69c3a8755cedbb",
       "number": "",
       "title": "82",
@@ -127,12 +120,21 @@
       "number": "",
       "title": "83",
       "url": "https://www.convittocorreggio.edu.it/circolare/page/83/"
+    },
+    {
+      "date": "11 settembre 2026",
+      "id": "b18b0e48ec73ef6bbed8",
+      "number": "",
+      "title": "84",
+      "url": "https://www.convittocorreggio.edu.it/circolare/page/84/"
     }
   ],
   "seen_ids": [
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "c646b289fe5d4eae04e8",
+    "aeb995aa5d93d404dcb9",
     "bacd6d8b2531e3d13942",
     "00ba41159625e966ef7c",
     "5b445b0d274c650d7d4f",
@@ -141,13 +143,14 @@
     "501ac3170c51c455c777",
     "de7c147d89039ced84cc",
     "8f4783b19f39e8f2b301",
-    "1cb8770a405dc45f2881",
-    "4b2dbb5f35f9773ba8fd",
     "f644c01aa52b628ff81a",
     "9b764765971a1e33e24d",
-    "368b84f5af4954639416",
     "1eed0c69c3a8755cedbb",
     "9cdd8b7c329411c107b4",
+    "b18b0e48ec73ef6bbed8",
+    "1cb8770a405dc45f2881",
+    "4b2dbb5f35f9773ba8fd",
+    "368b84f5af4954639416",
     "20e820b8271354309fc2",
     "843d16b41981276aef01"
   ],
