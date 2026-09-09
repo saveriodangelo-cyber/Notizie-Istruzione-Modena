@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-09T10:05:06+00:00"
+    "last_checked_at_utc": "2026-09-09T14:33:54+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -310,6 +310,18 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "9 Settembre 2026",
+        "id": "2ba4f57640b654bd",
+        "title": "Passaggio dal1°al2°grado:strategie di continuità per Italiano e Matematica_26/27",
+        "url": "https://www.istruzioneer.gov.it/2026/09/09/passaggio-dal1al2gradostrategie-di-continuita-per-italiano-e-matematica_26-27/"
+      },
+      {
+        "date": "9 Settembre 2026",
+        "id": "1f36845504746054",
+        "title": "Istruzione Tecnica: primi orientamenti per la progettazione curricolare",
+        "url": "https://www.istruzioneer.gov.it/2026/09/09/istruzione-tecnica-primi-orientamenti-per-la-progettazione-curricolare/"
+      },
+      {
         "date": "9 Settembre 2026 9 Settembre 2026",
         "id": "1bb4d7f5d9c224f0",
         "title": "PNFD “Per una progettazione universale in chiave inclusiva” – Riccione, 14 e 15 ottobre",
@@ -356,21 +368,11 @@
         "id": "c0791c40ad31b10a",
         "title": "Progetto “Crei-AMO l’impresa!”a.s. 26/27:richiesta di adesione entro il 10-10-26",
         "url": "https://www.istruzioneer.gov.it/2026/09/01/progetto-crei-amo-limpresaa-s-26-27richiesta-di-adesione-entro-il-10-10-26/"
-      },
-      {
-        "date": "1 Settembre 2026",
-        "id": "9492763d81139dad",
-        "title": "PNFD – Costruire la filiera 4+2 – Riccione 24-25 settembre 2026",
-        "url": "https://www.istruzioneer.gov.it/2026/09/01/pnfd-costruire-la-filiera-42-riccione-24-25-settembre-2026/"
-      },
-      {
-        "date": "1 Settembre 2026",
-        "id": "7a483dc6a8a75eb8",
-        "title": "D.M. 104/2024 – CONCORSO ORDINARIO IRC – MMSS",
-        "url": "https://www.istruzioneer.gov.it/2026/09/01/d-m-104-2024-concorso-ordinario-irc-mmss-2/"
       }
     ],
     "seen_ids": [
+      "2ba4f57640b654bd",
+      "1f36845504746054",
       "1bb4d7f5d9c224f0",
       "04359e02a204ac85",
       "e2e2c2b91f57b7ca",
