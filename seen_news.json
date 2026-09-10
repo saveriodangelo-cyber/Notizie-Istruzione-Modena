@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-10T16:39:21+00:00"
+    "last_checked_at_utc": "2026-09-10T19:37:25+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "10 Settembre 2026",
+        "id": "6f277cf089de329d",
+        "title": "Graduatorie Provinciali per le Supplenze aa.ss. 2026/27 – 2027/28 – ESCLUSIONI",
+        "url": "https://re.istruzioneer.gov.it/2026/09/10/graduatorie-provinciali-per-le-supplenze-aa-ss-2026-27-2027-28-esclusioni-3/"
+      },
+      {
         "date": "9 Settembre 2026",
         "id": "f5355ceb501a38db",
         "title": "Part-time personale docente, educativo ed A.T.A. neo assunto T.I. – T.D. – a.s. 2026/2027",
@@ -245,15 +251,10 @@
         "id": "e29ef85c0c27faa6",
         "title": "PART-TIME – Personale docente, educativo e ATA. Anno scolastico 2026/27 – RETTIFICA ESITI",
         "url": "https://re.istruzioneer.gov.it/2026/08/27/part-time-personale-docente-educativo-e-ata-anno-scolastico-2026-27-rettifica-esiti-2/"
-      },
-      {
-        "date": "27 Agosto 2026 27 Agosto 2026",
-        "id": "73f3c51afbf997dd",
-        "title": "Ottimizzazioni COE a.s. 2026/2027_RETTIFICA",
-        "url": "https://re.istruzioneer.gov.it/2026/08/27/ottimizzazioni-coe-a-s-2026-2027_rettifica-2/"
       }
     ],
     "seen_ids": [
+      "6f277cf089de329d",
       "f5355ceb501a38db",
       "3a12cf3cb999ed5e",
       "a053ab2d61f63332",
