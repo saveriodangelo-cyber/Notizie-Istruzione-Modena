@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-10T06:37:37+00:00"
+    "last_checked_at_utc": "2026-09-10T12:12:18+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -311,6 +311,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "10 Settembre 2026 10 Settembre 2026",
+        "id": "eae8490687b56772",
+        "title": "SNV a.s. 2026/27 – Azione regionale accompagnamento alle scuole",
+        "url": "https://www.istruzioneer.gov.it/2026/09/10/snv-a-s-2026-27-azione-regionale-accompagnamento-alle-scuole/"
+      },
+      {
         "date": "9 Settembre 2026",
         "id": "2ba4f57640b654bd",
         "title": "Passaggio dal1°al2°grado:strategie di continuità per Italiano e Matematica_26/27",
@@ -363,15 +369,10 @@
         "id": "9e93476dc99ae60c",
         "title": "PNFD “Il Latino per l’Educazione Linguistica (LEL)” Riccione, 1-2 ottobre 2026",
         "url": "https://www.istruzioneer.gov.it/2026/09/01/pnfd-il-latino-per-leducazione-linguistica-lel-riccione-1-2-ottobre-2026/"
-      },
-      {
-        "date": "1 Settembre 2026",
-        "id": "c0791c40ad31b10a",
-        "title": "Progetto “Crei-AMO l’impresa!”a.s. 26/27:richiesta di adesione entro il 10-10-26",
-        "url": "https://www.istruzioneer.gov.it/2026/09/01/progetto-crei-amo-limpresaa-s-26-27richiesta-di-adesione-entro-il-10-10-26/"
       }
     ],
     "seen_ids": [
+      "eae8490687b56772",
       "2ba4f57640b654bd",
       "1f36845504746054",
       "1bb4d7f5d9c224f0",
