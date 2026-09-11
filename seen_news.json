@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-11T09:59:09+00:00"
+    "last_checked_at_utc": "2026-09-11T14:23:04+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,18 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "11 Settembre 2026",
+        "id": "c71efb9441937097",
+        "title": "Modifica Posti orario scuola dell’infanzia, primaria e secondaria di II grado – GPS a.s. 2026/27",
+        "url": "https://re.istruzioneer.gov.it/2026/09/11/modifica-posti-orario-scuola-dellinfanzia-primaria-e-secondaria-di-ii-grado-gps-a-s-2026-27/"
+      },
+      {
+        "date": "11 Settembre 2026",
+        "id": "7b4ebe9967881872",
+        "title": "Part-time personale docente, educativo ed A.T.A. neo assunto T.I. – T.D. – a.s. 2026/2027",
+        "url": "https://re.istruzioneer.gov.it/2026/09/11/part-time-personale-docente-educativo-ed-a-t-a-neo-assunto-t-i-t-d-a-s-2026-2027-2/"
+      },
+      {
         "date": "10 Settembre 2026",
         "id": "6f277cf089de329d",
         "title": "Graduatorie Provinciali per le Supplenze aa.ss. 2026/27 – 2027/28 – ESCLUSIONI",
@@ -239,21 +251,11 @@
         "id": "cc84de64bec5e439",
         "title": "Posti orario ogni ordine e grado – GPS a.s. 2026/27",
         "url": "https://re.istruzioneer.gov.it/2026/08/27/posti-orario-ogni-ordine-e-grado-gps-a-s-2026-27/"
-      },
-      {
-        "date": "27 Agosto 2026 27 Agosto 2026",
-        "id": "56a3f0e333e100da",
-        "title": "Nomine a Tempo determinato personale ATA profilo COLLABORATORE SCOLASTICO – ESITI",
-        "url": "https://re.istruzioneer.gov.it/2026/08/27/nomine-a-tempo-determinato-personale-ata-profilo-collaboratore-scolastico-esiti/"
-      },
-      {
-        "date": "27 Agosto 2026 27 Agosto 2026",
-        "id": "e29ef85c0c27faa6",
-        "title": "PART-TIME – Personale docente, educativo e ATA. Anno scolastico 2026/27 – RETTIFICA ESITI",
-        "url": "https://re.istruzioneer.gov.it/2026/08/27/part-time-personale-docente-educativo-e-ata-anno-scolastico-2026-27-rettifica-esiti-2/"
       }
     ],
     "seen_ids": [
+      "c71efb9441937097",
+      "7b4ebe9967881872",
       "6f277cf089de329d",
       "f5355ceb501a38db",
       "3a12cf3cb999ed5e",
@@ -312,6 +314,18 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "11 Settembre 2026",
+        "id": "3dc66b6ad190abb3",
+        "title": "Lettera del Direttore Generale a studenti, famiglie, personale: avvio a.s. 26-27",
+        "url": "https://www.istruzioneer.gov.it/2026/09/11/lettera-del-direttore-generale-a-studenti-famiglie-personale-avvio-a-s-26-27/"
+      },
+      {
+        "date": "11 Settembre 2026",
+        "id": "0389cc05baff8f10",
+        "title": "Comunicazione pubblica – inizio anno scolastico 2026-2027",
+        "url": "https://www.istruzioneer.gov.it/2026/09/11/comunicazione-pubblica-inizio-anno-scolastico-2026-2027/"
+      },
+      {
         "date": "10 Settembre 2026 10 Settembre 2026",
         "id": "eae8490687b56772",
         "title": "SNV a.s. 2026/27 – Azione regionale accompagnamento alle scuole",
@@ -358,21 +372,11 @@
         "id": "7a74c8e2f9ec7670",
         "title": "Individuazione scuola polo regionale “Rete di scopo per la valorizzazione delle lingue classiche”",
         "url": "https://www.istruzioneer.gov.it/2026/09/04/individuazione-scuola-polo-regionale/"
-      },
-      {
-        "date": "4 Settembre 2026 4 Settembre 2026",
-        "id": "b8eae16020d9fcc9",
-        "title": "Protocollo d’Intesa USRER-Académie de Nantes. Gemellaggi a.s. 2026/2027",
-        "url": "https://www.istruzioneer.gov.it/2026/09/04/protocollo-dintesa-usrer-academie-de-nantes-gemellaggi-a-s-2026-2027/"
-      },
-      {
-        "date": "1 Settembre 2026",
-        "id": "9e93476dc99ae60c",
-        "title": "PNFD “Il Latino per l’Educazione Linguistica (LEL)” Riccione, 1-2 ottobre 2026",
-        "url": "https://www.istruzioneer.gov.it/2026/09/01/pnfd-il-latino-per-leducazione-linguistica-lel-riccione-1-2-ottobre-2026/"
       }
     ],
     "seen_ids": [
+      "3dc66b6ad190abb3",
+      "0389cc05baff8f10",
       "eae8490687b56772",
       "2ba4f57640b654bd",
       "1f36845504746054",
