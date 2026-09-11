@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-09-11T04:51:52+00:00",
+  "last_checked_at_utc": "2026-09-11T09:11:20+00:00",
   "latest_items": [
     {
       "date": "11 settembre 2026",
@@ -36,13 +36,6 @@
       "number": "",
       "title": "2026 09 Set circ. n.7 Progetto “Pranziamo insieme” Progetto \"Pranziamo insieme\"",
       "url": "https://www.convittocorreggio.edu.it/circolare/progetto-pranziamo-insieme-2/"
-    },
-    {
-      "date": "11 settembre 2026",
-      "id": "aeb995aa5d93d404dcb9",
-      "number": "",
-      "title": "2026 09 Set circ. n.6 Visita di istruzione classi 3A – 3B scuola Primaria Visita di istruzione classi 3A - 3B scuola Primaria",
-      "url": "https://www.convittocorreggio.edu.it/circolare/visita-di-istruzione-classi-3a-3b-scuola-primaria/"
     },
     {
       "date": "11 settembre 2026",
@@ -95,6 +88,13 @@
     },
     {
       "date": "11 settembre 2026",
+      "id": "8f4783b19f39e8f2b301",
+      "number": "",
+      "title": "2026 30 Lug circ. n.347 Pubblicazione Calendario Prove Studenti con Sospensione del Giudizio Classi Polo Pubblicazione Calendario Prove Studenti con Sospensione del Giudizio Classi Polo",
+      "url": "https://www.convittocorreggio.edu.it/circolare/pubblicazione-calendario-prove-studenti-con-sospensione-del-giudizio-classi-polo-3/"
+    },
+    {
+      "date": "11 settembre 2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -135,7 +135,6 @@
     "7d309ce5bfb6c96b6656",
     "40a628a87249d3c4e49c",
     "c646b289fe5d4eae04e8",
-    "aeb995aa5d93d404dcb9",
     "bacd6d8b2531e3d13942",
     "00ba41159625e966ef7c",
     "5b445b0d274c650d7d4f",
@@ -143,12 +142,13 @@
     "d1e5303e6dab0f2a1585",
     "501ac3170c51c455c777",
     "de7c147d89039ced84cc",
+    "8f4783b19f39e8f2b301",
     "f644c01aa52b628ff81a",
     "9b764765971a1e33e24d",
     "1eed0c69c3a8755cedbb",
     "9cdd8b7c329411c107b4",
     "b18b0e48ec73ef6bbed8",
-    "8f4783b19f39e8f2b301",
+    "aeb995aa5d93d404dcb9",
     "1cb8770a405dc45f2881",
     "4b2dbb5f35f9773ba8fd",
     "368b84f5af4954639416",
