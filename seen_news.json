@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-11T14:23:04+00:00"
+    "last_checked_at_utc": "2026-09-11T17:52:47+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -134,6 +134,24 @@
     "latest_items": [
       {
         "date": "11 Settembre 2026",
+        "id": "88690664872eb178",
+        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – SECONDA FASE",
+        "url": "https://re.istruzioneer.gov.it/2026/09/11/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-seconda-fase/"
+      },
+      {
+        "date": "11 Settembre 2026",
+        "id": "7cb753c5a5e00594",
+        "title": "II Interpello per la copertura di posti vacanti e/o disponibili area dei Funzionari Elevata Qualificazione- Esiti",
+        "url": "https://re.istruzioneer.gov.it/2026/09/11/ii-interpello-per-la-copertura-di-posti-vacanti-e-o-disponibili-area-dei-funzionari-elevata-qualificazione-esiti/"
+      },
+      {
+        "date": "11 Settembre 2026",
+        "id": "f50d0571c75c8906",
+        "title": "Graduatorie Provinciali per le Supplenze aa.ss. 2026/27 – 2027/28 – RETTIFICA",
+        "url": "https://re.istruzioneer.gov.it/2026/09/11/graduatorie-provinciali-per-le-supplenze-aa-ss-2026-27-2027-28-rettifica-3/"
+      },
+      {
+        "date": "11 Settembre 2026",
         "id": "c71efb9441937097",
         "title": "Modifica Posti orario scuola dell’infanzia, primaria e secondaria di II grado – GPS a.s. 2026/27",
         "url": "https://re.istruzioneer.gov.it/2026/09/11/modifica-posti-orario-scuola-dellinfanzia-primaria-e-secondaria-di-ii-grado-gps-a-s-2026-27/"
@@ -233,27 +251,12 @@
         "id": "b8ba7991ec2382f2",
         "title": "Graduatorie Provinciali per le Supplenze aa.ss. 2026/27 – 2027/28 – RETTIFICA",
         "url": "https://re.istruzioneer.gov.it/2026/08/28/graduatorie-provinciali-per-le-supplenze-aa-ss-2026-27-2027-28-rettifica-2/"
-      },
-      {
-        "date": "28 Agosto 2026",
-        "id": "eb81a97334f98f38",
-        "title": "NOMINE A TEMPO INDETERMINATO E DETERMINATO PERSONALE ATA A.S. 2026-2027",
-        "url": "https://re.istruzioneer.gov.it/2026/08/28/nomine-a-tempo-indeterminato-e-determinato-personale-ata-a-s-2026-2027/"
-      },
-      {
-        "date": "28 Agosto 2026",
-        "id": "c2fe5cffc938e25e",
-        "title": "PROCEDURA PER L’INDIVIDUAZIONE DI PERSONALE ATA DA DESTINARE A COMANDO PRESSO L’UFFICIO SCOLASTICO REGIONALE PER L’EMILIA ROMAGNA PER L’A.S. 26-27",
-        "url": "https://re.istruzioneer.gov.it/2026/08/28/procedura-per-lindividuazione-di-personale-ata-da-destinare-a-comando-presso-lufficio-scolastico-regionale-per-lemilia-romagna-per-la-s-26-27-2/"
-      },
-      {
-        "date": "27 Agosto 2026",
-        "id": "cc84de64bec5e439",
-        "title": "Posti orario ogni ordine e grado – GPS a.s. 2026/27",
-        "url": "https://re.istruzioneer.gov.it/2026/08/27/posti-orario-ogni-ordine-e-grado-gps-a-s-2026-27/"
       }
     ],
     "seen_ids": [
+      "88690664872eb178",
+      "7cb753c5a5e00594",
+      "f50d0571c75c8906",
       "c71efb9441937097",
       "7b4ebe9967881872",
       "6f277cf089de329d",
