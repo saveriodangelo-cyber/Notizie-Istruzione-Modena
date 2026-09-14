@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-14T07:06:44+00:00"
+    "last_checked_at_utc": "2026-09-14T14:01:55+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,18 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "11 Settembre 2026 14 Settembre 2026",
+        "id": "c71efb9441937097",
+        "title": "Modifica Posti orario scuola dell’infanzia, primaria e secondaria di II grado – GPS a.s. 2026/27",
+        "url": "https://re.istruzioneer.gov.it/2026/09/11/modifica-posti-orario-scuola-dellinfanzia-primaria-e-secondaria-di-ii-grado-gps-a-s-2026-27/"
+      },
+      {
+        "date": "14 Settembre 2026",
+        "id": "2bffa6bd4d98701f",
+        "title": "III Interpello per la copertura di posti disponibili ma non vacanti area dei Funzionari e dell’Elevata Qualificazione anno scolastico 2026/27",
+        "url": "https://re.istruzioneer.gov.it/2026/09/14/iii-interpello-per-la-copertura-di-posti-disponibili-ma-non-vacanti-area-dei-funzionari-e-dellelevata-qualificazione-anno-scolastico-2026-27/"
+      },
+      {
         "date": "11 Settembre 2026",
         "id": "88690664872eb178",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – SECONDA FASE",
@@ -149,12 +161,6 @@
         "id": "f50d0571c75c8906",
         "title": "Graduatorie Provinciali per le Supplenze aa.ss. 2026/27 – 2027/28 – RETTIFICA",
         "url": "https://re.istruzioneer.gov.it/2026/09/11/graduatorie-provinciali-per-le-supplenze-aa-ss-2026-27-2027-28-rettifica-3/"
-      },
-      {
-        "date": "11 Settembre 2026",
-        "id": "c71efb9441937097",
-        "title": "Modifica Posti orario scuola dell’infanzia, primaria e secondaria di II grado – GPS a.s. 2026/27",
-        "url": "https://re.istruzioneer.gov.it/2026/09/11/modifica-posti-orario-scuola-dellinfanzia-primaria-e-secondaria-di-ii-grado-gps-a-s-2026-27/"
       },
       {
         "date": "11 Settembre 2026",
@@ -245,19 +251,14 @@
         "id": "501f38c7b60c4ff5",
         "title": "A.S. 2026/2027 – Immissioni in ruolo degli insegnanti di religione cattolica",
         "url": "https://re.istruzioneer.gov.it/2026/08/28/a-s-2026-2027-immissioni-in-ruolo-degli-insegnanti-di-religione-cattolica/"
-      },
-      {
-        "date": "28 Agosto 2026",
-        "id": "b8ba7991ec2382f2",
-        "title": "Graduatorie Provinciali per le Supplenze aa.ss. 2026/27 – 2027/28 – RETTIFICA",
-        "url": "https://re.istruzioneer.gov.it/2026/08/28/graduatorie-provinciali-per-le-supplenze-aa-ss-2026-27-2027-28-rettifica-2/"
       }
     ],
     "seen_ids": [
+      "c71efb9441937097",
+      "2bffa6bd4d98701f",
       "88690664872eb178",
       "7cb753c5a5e00594",
       "f50d0571c75c8906",
-      "c71efb9441937097",
       "7b4ebe9967881872",
       "6f277cf089de329d",
       "f5355ceb501a38db",
