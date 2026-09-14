@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-14T14:01:55+00:00"
+    "last_checked_at_utc": "2026-09-14T19:18:37+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "27 Luglio 2026 14 Settembre 2026",
+        "id": "13fe675d1a73b361",
+        "title": "DDG 2938/2025 e DDG 3059/2024 – Scorrimenti GM",
+        "url": "https://re.istruzioneer.gov.it/2026/07/27/ddg-2938-2025-e-ddg-3059-2024-scorrimenti-gm/"
+      },
+      {
         "date": "11 Settembre 2026 14 Settembre 2026",
         "id": "c71efb9441937097",
         "title": "Modifica Posti orario scuola dell’infanzia, primaria e secondaria di II grado – GPS a.s. 2026/27",
@@ -245,15 +251,10 @@
         "id": "9bf71c5c7b3c9641",
         "title": "Posti orario ogni ordine e grado – GPS a.s. 2026/27_RETTIFICA",
         "url": "https://re.istruzioneer.gov.it/2026/08/31/posti-orario-ogni-ordine-e-grado-gps-a-s-2026-27_rettifica/"
-      },
-      {
-        "date": "28 Agosto 2026 29 Agosto 2026",
-        "id": "501f38c7b60c4ff5",
-        "title": "A.S. 2026/2027 – Immissioni in ruolo degli insegnanti di religione cattolica",
-        "url": "https://re.istruzioneer.gov.it/2026/08/28/a-s-2026-2027-immissioni-in-ruolo-degli-insegnanti-di-religione-cattolica/"
       }
     ],
     "seen_ids": [
+      "13fe675d1a73b361",
       "c71efb9441937097",
       "2bffa6bd4d98701f",
       "88690664872eb178",
