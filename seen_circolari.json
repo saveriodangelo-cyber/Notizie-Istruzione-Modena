@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-09-15T05:14:24+00:00",
+  "last_checked_at_utc": "2026-09-15T10:06:21+00:00",
   "latest_items": [
     {
       "date": "11 settembre 2026",
@@ -22,6 +22,13 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "11 settembre 2026",
+      "id": "f3e4c1af32c83386709a",
+      "number": "",
+      "title": "2026 15 Set circ. n.13 Avvio dei Corsi di Recupero revisione PFI – Classi SECONDE POLO PROFESSIONALE Avvio dei Corsi di Recupero revisione PFI – Classi SECONDE POLO PROFESSIONALE",
+      "url": "https://www.convittocorreggio.edu.it/circolare/avvio-dei-corsi-di-recupero-revisione-pfi-classi-seconde-polo-professionale/"
     },
     {
       "date": "11 settembre 2026",
@@ -88,13 +95,6 @@
     },
     {
       "date": "11 settembre 2026",
-      "id": "de7c147d89039ced84cc",
-      "number": "",
-      "title": "2026 25 Ago circ. n.350 Comunicazione presa di servizio per il personale a.s. 2026/27 Comunicazione presa di servizio per il personale a.s. 2026/27",
-      "url": "https://www.convittocorreggio.edu.it/circolare/comunicazione-presa-di-servizio-per-il-personale-a-s-2026-27/"
-    },
-    {
-      "date": "11 settembre 2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -133,6 +133,7 @@
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "f3e4c1af32c83386709a",
     "010d0ad08dd55b232730",
     "40a628a87249d3c4e49c",
     "c646b289fe5d4eae04e8",
@@ -142,12 +143,12 @@
     "7699a2e0145f8e902d72",
     "d1e5303e6dab0f2a1585",
     "501ac3170c51c455c777",
-    "de7c147d89039ced84cc",
     "f644c01aa52b628ff81a",
     "9b764765971a1e33e24d",
     "1eed0c69c3a8755cedbb",
     "9cdd8b7c329411c107b4",
     "b18b0e48ec73ef6bbed8",
+    "de7c147d89039ced84cc",
     "8f4783b19f39e8f2b301",
     "aeb995aa5d93d404dcb9",
     "1cb8770a405dc45f2881",
