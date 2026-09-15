@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-15T06:39:14+00:00"
+    "last_checked_at_utc": "2026-09-15T12:38:10+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "15 Settembre 2026",
+        "id": "8c95f183d6a2682e",
+        "title": "DIRIGENTI SCOLASTICI – AVVISO PUBBLICO DI INTERPELLO – Istituto Comprensivo Correggio 1 della provincia di Reggio Emilia",
+        "url": "https://re.istruzioneer.gov.it/2026/09/15/dirigenti-scolastici-avviso-pubblico-di-interpello-istituto-comprensivo-correggio-1-della-provincia-di-reggio-emilia/"
+      },
+      {
         "date": "27 Luglio 2026 14 Settembre 2026",
         "id": "13fe675d1a73b361",
         "title": "DDG 2938/2025 e DDG 3059/2024 – Scorrimenti GM",
@@ -245,15 +251,10 @@
         "id": "e6e29283bcef6a3b",
         "title": "I Interpello per la copertura di posti vacanti e/o disponibili area dei FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE ANNO SCOLASTICO 2026/27",
         "url": "https://re.istruzioneer.gov.it/2026/08/31/i-interpello-per-la-copertura-di-posti-vacanti-e-o-disponibili-area-dei-funzionari-e-dellelevata-qualificazione-anno-scolastico-2026-27/"
-      },
-      {
-        "date": "31 Agosto 2026",
-        "id": "9bf71c5c7b3c9641",
-        "title": "Posti orario ogni ordine e grado – GPS a.s. 2026/27_RETTIFICA",
-        "url": "https://re.istruzioneer.gov.it/2026/08/31/posti-orario-ogni-ordine-e-grado-gps-a-s-2026-27_rettifica/"
       }
     ],
     "seen_ids": [
+      "8c95f183d6a2682e",
       "13fe675d1a73b361",
       "c71efb9441937097",
       "2bffa6bd4d98701f",
