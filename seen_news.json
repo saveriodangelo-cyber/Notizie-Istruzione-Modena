@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-16T04:43:32+00:00"
+    "last_checked_at_utc": "2026-09-16T09:52:44+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -320,6 +320,18 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "16 Settembre 2026",
+        "id": "e6674dc64a0059a6",
+        "title": "Junior Achievement:attività secondarie di 2° grado26/27_Webinar 9/9/26_Materiali",
+        "url": "https://www.istruzioneer.gov.it/2026/09/16/junior-achievementattivita-secondarie-di-2-grado26-27_webinar-9-9-26_materiali/"
+      },
+      {
+        "date": "16 Settembre 2026",
+        "id": "6639226da982a8e8",
+        "title": "Junior Achievement:attività secondarie di 1° grado26/27_Webinar10/9/26_Materiali",
+        "url": "https://www.istruzioneer.gov.it/2026/09/16/junior-achievementattivita-secondarie-di-1-grado26-27_webinar10-9-26_materiali/"
+      },
+      {
         "date": "15 Settembre 2026 15 Settembre 2026",
         "id": "9379ef2c39ee675c",
         "title": "Sperimentazione studente-atleta di alto livello a.s. 2026/2027",
@@ -366,21 +378,11 @@
         "id": "3ca84a52d0d8dc8e",
         "title": "PNFD “Coltivare relazioni per generare apprendimento” – 29 e 30 settembre",
         "url": "https://www.istruzioneer.gov.it/2026/09/09/pnfd-coltivare-relazioni-per-generare-apprendimento/"
-      },
-      {
-        "date": "7 Settembre 2026 7 Settembre 2026",
-        "id": "e2e2c2b91f57b7ca",
-        "title": "Scuole paritarie. Indicazioni operative a.s. 2026/2027",
-        "url": "https://www.istruzioneer.gov.it/2026/09/07/scuole-paritarie-indicazioni-operative-a-s-2026-2027/"
-      },
-      {
-        "date": "7 Settembre 2026 7 Settembre 2026",
-        "id": "4e044f14f73ffd5a",
-        "title": "Scuole iscritte al registro regionale delle scuole non paritarie: indicazioni avvio a.s. 2026/2027",
-        "url": "https://www.istruzioneer.gov.it/2026/09/07/scuole-iscritte-al-registro-regionale-delle-scuole-non-paritarie/"
       }
     ],
     "seen_ids": [
+      "e6674dc64a0059a6",
+      "6639226da982a8e8",
       "9379ef2c39ee675c",
       "3dc66b6ad190abb3",
       "0389cc05baff8f10",
