@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-16T09:52:44+00:00"
+    "last_checked_at_utc": "2026-09-16T14:54:08+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,24 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "16 Settembre 2026",
+        "id": "723c88fb77c5e3b6",
+        "title": "Conferimento incarico aggiuntivo di reggenza temporanea presso l’Istituto Comprensivo Correggio 1 della provincia di Reggio Emilia",
+        "url": "https://re.istruzioneer.gov.it/2026/09/16/conferimento-incarico-aggiuntivo-di-reggenza-temporanea-presso-listituto-comprensivo-correggio-1-della-provincia-di-reggio-emilia/"
+      },
+      {
+        "date": "16 Settembre 2026",
+        "id": "34c0bc729525fda7",
+        "title": "IV Interpello per la copertura di posti area dei Funzionari e dell’Elevata Qualificazione anno scolastico 2026/27",
+        "url": "https://re.istruzioneer.gov.it/2026/09/16/iv-interpello-per-la-copertura-di-posti-area-dei-funzionari-e-dellelevata-qualificazione-anno-scolastico-2026-27/"
+      },
+      {
+        "date": "16 Settembre 2026",
+        "id": "6171e385829214da",
+        "title": "Esiti III interpello per il reclutamento di personale da inquadrare nel profilo DSGA/FEQ",
+        "url": "https://re.istruzioneer.gov.it/2026/09/16/esiti-iii-interpello-per-il-reclutamento-di-personale-da-inquadrare-nel-profilo-dsga-feq/"
+      },
+      {
         "date": "15 Settembre 2026",
         "id": "8c95f183d6a2682e",
         "title": "DIRIGENTI SCOLASTICI – AVVISO PUBBLICO DI INTERPELLO – Istituto Comprensivo Correggio 1 della provincia di Reggio Emilia",
@@ -233,27 +251,12 @@
         "id": "9f3f8eed63b5be87",
         "title": "A.S. 2026/2027 – Immissioni in ruolo degli insegnanti di religione cattolica – SCORRIMENTO",
         "url": "https://re.istruzioneer.gov.it/2026/08/31/a-s-2026-2027-immissioni-in-ruolo-degli-insegnanti-di-religione-cattolica-scorrimento/"
-      },
-      {
-        "date": "31 Agosto 2026",
-        "id": "d9e4e49a4331469b",
-        "title": "Nomine a tempo Indetermnato Funzionari Elevata Qualificazione",
-        "url": "https://re.istruzioneer.gov.it/2026/08/31/nomine-a-tempo-indetermnato-funzionari-elevata-qualificazione/"
-      },
-      {
-        "date": "31 Agosto 2026 31 Agosto 2026",
-        "id": "4ad9ec48c36ac767",
-        "title": "NOMINE A TEMPO DETERMINATO AI SENSI DELL’ART. 13 O.M. 27/2026 – CONTINUITA’ SU POSTO DI SOSTEGNO – A.S. 2026/2027",
-        "url": "https://re.istruzioneer.gov.it/2026/08/31/nomine-a-tempo-determinato-ai-sensi-dellart-13-o-m-27-2026-continuita-su-posto-di-sostegno-a-s-2026-2027/"
-      },
-      {
-        "date": "31 Agosto 2026 31 Agosto 2026",
-        "id": "e6e29283bcef6a3b",
-        "title": "I Interpello per la copertura di posti vacanti e/o disponibili area dei FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE ANNO SCOLASTICO 2026/27",
-        "url": "https://re.istruzioneer.gov.it/2026/08/31/i-interpello-per-la-copertura-di-posti-vacanti-e-o-disponibili-area-dei-funzionari-e-dellelevata-qualificazione-anno-scolastico-2026-27/"
       }
     ],
     "seen_ids": [
+      "723c88fb77c5e3b6",
+      "34c0bc729525fda7",
+      "6171e385829214da",
       "8c95f183d6a2682e",
       "13fe675d1a73b361",
       "c71efb9441937097",
@@ -321,6 +324,12 @@
     "latest_items": [
       {
         "date": "16 Settembre 2026",
+        "id": "d872273e9cdbed2c",
+        "title": "Seminario “L’Europa comincia a scuola” – Modena, 16 ottobre 2026",
+        "url": "https://www.istruzioneer.gov.it/2026/09/16/seminario-leuropa-comincia-a-scuola-modena-16-ottobre-2026/"
+      },
+      {
+        "date": "16 Settembre 2026",
         "id": "e6674dc64a0059a6",
         "title": "Junior Achievement:attività secondarie di 2° grado26/27_Webinar 9/9/26_Materiali",
         "url": "https://www.istruzioneer.gov.it/2026/09/16/junior-achievementattivita-secondarie-di-2-grado26-27_webinar-9-9-26_materiali/"
@@ -372,15 +381,10 @@
         "id": "1bb4d7f5d9c224f0",
         "title": "PNFD “Per una progettazione universale in chiave inclusiva” – Riccione, 14 e 15 ottobre",
         "url": "https://www.istruzioneer.gov.it/2026/09/09/pnfd-per-una-progettazione-universale-in-chiave-inclusiva-riccione-14-e-15-ottobre/"
-      },
-      {
-        "date": "9 Settembre 2026 15 Settembre 2026",
-        "id": "3ca84a52d0d8dc8e",
-        "title": "PNFD “Coltivare relazioni per generare apprendimento” – 29 e 30 settembre",
-        "url": "https://www.istruzioneer.gov.it/2026/09/09/pnfd-coltivare-relazioni-per-generare-apprendimento/"
       }
     ],
     "seen_ids": [
+      "d872273e9cdbed2c",
       "e6674dc64a0059a6",
       "6639226da982a8e8",
       "9379ef2c39ee675c",
