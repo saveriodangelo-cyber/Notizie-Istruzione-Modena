@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-17T05:19:27+00:00"
+    "last_checked_at_utc": "2026-09-17T10:24:17+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,16 +133,16 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "16 Settembre 2026 17 Settembre 2026",
+        "id": "34c0bc729525fda7",
+        "title": "IV Interpello per la copertura di posti area dei Funzionari e dell’Elevata Qualificazione anno scolastico 2026/27",
+        "url": "https://re.istruzioneer.gov.it/2026/09/16/iv-interpello-per-la-copertura-di-posti-area-dei-funzionari-e-dellelevata-qualificazione-anno-scolastico-2026-27/"
+      },
+      {
         "date": "16 Settembre 2026",
         "id": "723c88fb77c5e3b6",
         "title": "Conferimento incarico aggiuntivo di reggenza temporanea presso l’Istituto Comprensivo Correggio 1 della provincia di Reggio Emilia",
         "url": "https://re.istruzioneer.gov.it/2026/09/16/conferimento-incarico-aggiuntivo-di-reggenza-temporanea-presso-listituto-comprensivo-correggio-1-della-provincia-di-reggio-emilia/"
-      },
-      {
-        "date": "16 Settembre 2026",
-        "id": "34c0bc729525fda7",
-        "title": "IV Interpello per la copertura di posti area dei Funzionari e dell’Elevata Qualificazione anno scolastico 2026/27",
-        "url": "https://re.istruzioneer.gov.it/2026/09/16/iv-interpello-per-la-copertura-di-posti-area-dei-funzionari-e-dellelevata-qualificazione-anno-scolastico-2026-27/"
       },
       {
         "date": "16 Settembre 2026",
@@ -254,8 +254,8 @@
       }
     ],
     "seen_ids": [
-      "723c88fb77c5e3b6",
       "34c0bc729525fda7",
+      "723c88fb77c5e3b6",
       "6171e385829214da",
       "8c95f183d6a2682e",
       "13fe675d1a73b361",
@@ -329,15 +329,15 @@
         "url": "https://www.istruzioneer.gov.it/2026/09/16/seminario-leuropa-comincia-a-scuola-modena-16-ottobre-2026/"
       },
       {
-        "date": "16 Settembre 2026",
-        "id": "e6674dc64a0059a6",
-        "title": "Junior Achievement:attività secondarie di 2° grado26/27_Webinar 9/9/26_Materiali",
+        "date": "16 Settembre 2026 17 Settembre 2026",
+        "id": "eac0dc8819c0ffa8",
+        "title": "Junior Achievement: attività secondarie 2° grado26/27 Webinar 9/9/26 Materiali",
         "url": "https://www.istruzioneer.gov.it/2026/09/16/junior-achievementattivita-secondarie-di-2-grado26-27_webinar-9-9-26_materiali/"
       },
       {
-        "date": "16 Settembre 2026",
-        "id": "6639226da982a8e8",
-        "title": "Junior Achievement:attività secondarie di 1° grado26/27_Webinar10/9/26_Materiali",
+        "date": "16 Settembre 2026 17 Settembre 2026",
+        "id": "8ea229ede2061a9b",
+        "title": "Junior Achievement: attività secondarie 1° grado26/27 Webinar10/9/26 Materiali",
         "url": "https://www.istruzioneer.gov.it/2026/09/16/junior-achievementattivita-secondarie-di-1-grado26-27_webinar10-9-26_materiali/"
       },
       {
@@ -365,9 +365,9 @@
         "url": "https://www.istruzioneer.gov.it/2026/09/10/snv-a-s-2026-27-azione-regionale-accompagnamento-alle-scuole/"
       },
       {
-        "date": "9 Settembre 2026",
-        "id": "2ba4f57640b654bd",
-        "title": "Passaggio dal1°al2°grado:strategie di continuità per Italiano e Matematica_26/27",
+        "date": "9 Settembre 2026 17 Settembre 2026",
+        "id": "c1ee6153d58f5d1b",
+        "title": "Passaggio 1° – 2°grado: strategie di continuità per Italiano e Matematica 26/27",
         "url": "https://www.istruzioneer.gov.it/2026/09/09/passaggio-dal1al2gradostrategie-di-continuita-per-italiano-e-matematica_26-27/"
       },
       {
@@ -385,15 +385,18 @@
     ],
     "seen_ids": [
       "d872273e9cdbed2c",
-      "e6674dc64a0059a6",
-      "6639226da982a8e8",
+      "eac0dc8819c0ffa8",
+      "8ea229ede2061a9b",
       "9379ef2c39ee675c",
       "3dc66b6ad190abb3",
       "0389cc05baff8f10",
       "eae8490687b56772",
-      "2ba4f57640b654bd",
+      "c1ee6153d58f5d1b",
       "1f36845504746054",
       "1bb4d7f5d9c224f0",
+      "e6674dc64a0059a6",
+      "6639226da982a8e8",
+      "2ba4f57640b654bd",
       "3ca84a52d0d8dc8e",
       "e2e2c2b91f57b7ca",
       "4e044f14f73ffd5a",
