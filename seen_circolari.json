@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-09-18T11:42:28+00:00",
+  "last_checked_at_utc": "2026-09-18T15:09:27+00:00",
   "latest_items": [
     {
       "date": "03/10/2026",
@@ -22,6 +22,13 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "03/10/2026",
+      "id": "aefa8bddc31bf7a1f821",
+      "number": "",
+      "title": "2026 18 Set circ. n.17 Convocazione Dipartimenti di materia settembre 2026 – POLO PROFESSIONALE Convocazione Dipartimenti di materia settembre 2026 - POLO PROFESSIONALE",
+      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-dipartimenti-di-materia-settembre-2026-polo-professionale/"
     },
     {
       "date": "03/10/2026",
@@ -88,13 +95,6 @@
     },
     {
       "date": "03/10/2026",
-      "id": "7699a2e0145f8e902d72",
-      "number": "",
-      "title": "2026 03 Set circ. n.2 Pubblicazione Impegni Collegiali Settembre 2026 Pubblicazione Impegni Collegiali Settembre 2026",
-      "url": "https://www.convittocorreggio.edu.it/circolare/pubblicazione-impegni-collegiali-settembre-2026/"
-    },
-    {
-      "date": "03/10/2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -133,6 +133,7 @@
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "aefa8bddc31bf7a1f821",
     "7568866245b00d189395",
     "aa9d8f1dec9260838ef6",
     "f3e4c1af32c83386709a",
@@ -142,12 +143,12 @@
     "bacd6d8b2531e3d13942",
     "00ba41159625e966ef7c",
     "5b445b0d274c650d7d4f",
-    "7699a2e0145f8e902d72",
     "f644c01aa52b628ff81a",
     "9b764765971a1e33e24d",
     "1eed0c69c3a8755cedbb",
     "9cdd8b7c329411c107b4",
     "b18b0e48ec73ef6bbed8",
+    "7699a2e0145f8e902d72",
     "d1e5303e6dab0f2a1585",
     "501ac3170c51c455c777",
     "de7c147d89039ced84cc",
