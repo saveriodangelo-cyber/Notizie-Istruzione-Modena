@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-09-19T09:45:40+00:00",
+  "last_checked_at_utc": "2026-09-19T13:28:41+00:00",
   "latest_items": [
     {
       "date": "03/10/2026",
@@ -22,6 +22,27 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "03/10/2026",
+      "id": "d5de9fd0a741dcd6b206",
+      "number": "",
+      "title": "2026 19 Set circ. n.22 Incontro preliminare FSL – referenti di dipartimento e indirizzi (organizzazione FSL, orientamento Incontro preliminare FSL – referenti di dipartimento e indirizzi (organizzazione FSL, orientamento in uscita, apprendistato duale).",
+      "url": "https://www.convittocorreggio.edu.it/circolare/incontro-preliminare-fsl-referenti-di-dipartimento-e-indirizzi-organizzazione-fsl-orientamento/"
+    },
+    {
+      "date": "03/10/2026",
+      "id": "557b083fe633e645c313",
+      "number": "",
+      "title": "2026 19 Set circ. n.20 Richiesta disponibilità ore eccedenti Richiesta disponibilità ore eccedenti",
+      "url": "https://www.convittocorreggio.edu.it/circolare/richiesta-disponibilita-ore-eccedenti-8/"
+    },
+    {
+      "date": "03/10/2026",
+      "id": "05f273064da9e102a380",
+      "number": "",
+      "title": "2026 19 Set circ. n.21 Orario dal 21/09 – 03/10/2026 – POLO professionale (rettifica) Orario dal 21/09 - 03/10/2026 - POLO professionale (rettifica)",
+      "url": "https://www.convittocorreggio.edu.it/circolare/orario-dal-21-09-03-10-2026-polo-professionale-rettifica/"
     },
     {
       "date": "03/10/2026",
@@ -74,27 +95,6 @@
     },
     {
       "date": "03/10/2026",
-      "id": "c646b289fe5d4eae04e8",
-      "number": "",
-      "title": "2026 09 Set circ. n.7 Progetto “Pranziamo insieme” Progetto \"Pranziamo insieme\"",
-      "url": "https://www.convittocorreggio.edu.it/circolare/progetto-pranziamo-insieme-2/"
-    },
-    {
-      "date": "03/10/2026",
-      "id": "bacd6d8b2531e3d13942",
-      "number": "",
-      "title": "2026 08 Set circ. n.5 Convocazione e Ordine del giorno del Collegio docenti del giorno 11 settembre 2026. Convocazione e Ordine del giorno del Collegio docenti del giorno 11 settembre 2026.",
-      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-e-ordine-del-giorno-del-collegio-docenti-del-giorno-11-settembre-2026/"
-    },
-    {
-      "date": "03/10/2026",
-      "id": "00ba41159625e966ef7c",
-      "number": "",
-      "title": "2026 08 Set circ. n.4 Nuove modalità accesso registro online per Alunni e Genitori A.S. 2026/2027 – Nuove modalità di accesso al Registro Elettronico Argo esclusivamente tramite SPID o CIE dal 14 settembre 2026",
-      "url": "https://www.convittocorreggio.edu.it/circolare/nuove-modalita-accesso-registro-online/"
-    },
-    {
-      "date": "03/10/2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -109,13 +109,6 @@
     },
     {
       "date": "03/10/2026",
-      "id": "1eed0c69c3a8755cedbb",
-      "number": "",
-      "title": "82",
-      "url": "https://www.convittocorreggio.edu.it/circolare/page/82/"
-    },
-    {
-      "date": "03/10/2026",
       "id": "9cdd8b7c329411c107b4",
       "number": "",
       "title": "83",
@@ -127,12 +120,22 @@
       "number": "",
       "title": "84",
       "url": "https://www.convittocorreggio.edu.it/circolare/page/84/"
+    },
+    {
+      "date": "03/10/2026",
+      "id": "f228499642bffe0d4a72",
+      "number": "",
+      "title": "85",
+      "url": "https://www.convittocorreggio.edu.it/circolare/page/85/"
     }
   ],
   "seen_ids": [
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "d5de9fd0a741dcd6b206",
+    "557b083fe633e645c313",
+    "05f273064da9e102a380",
     "d657003f3629676dd93e",
     "aefa8bddc31bf7a1f821",
     "7568866245b00d189395",
@@ -140,14 +143,15 @@
     "f3e4c1af32c83386709a",
     "010d0ad08dd55b232730",
     "40a628a87249d3c4e49c",
+    "f644c01aa52b628ff81a",
+    "9b764765971a1e33e24d",
+    "9cdd8b7c329411c107b4",
+    "b18b0e48ec73ef6bbed8",
+    "f228499642bffe0d4a72",
     "c646b289fe5d4eae04e8",
     "bacd6d8b2531e3d13942",
     "00ba41159625e966ef7c",
-    "f644c01aa52b628ff81a",
-    "9b764765971a1e33e24d",
     "1eed0c69c3a8755cedbb",
-    "9cdd8b7c329411c107b4",
-    "b18b0e48ec73ef6bbed8",
     "5b445b0d274c650d7d4f",
     "7699a2e0145f8e902d72",
     "d1e5303e6dab0f2a1585",
