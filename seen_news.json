@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-21T15:04:05+00:00"
+    "last_checked_at_utc": "2026-09-21T19:58:01+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,18 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "21 Settembre 2026",
+        "id": "a939553fa6e259e6",
+        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – TERZA FASE",
+        "url": "https://re.istruzioneer.gov.it/2026/09/21/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-terza-fase/"
+      },
+      {
+        "date": "21 Settembre 2026",
+        "id": "6f70cf52048a989e",
+        "title": "Part-time personale docente, educativo ed A.T.A. neo assunto T.I. – T.D. – a.s. 2026/2027",
+        "url": "https://re.istruzioneer.gov.it/2026/09/21/part-time-personale-docente-educativo-ed-a-t-a-neo-assunto-t-i-t-d-a-s-2026-2027-3/"
+      },
+      {
         "date": "16 Settembre 2026 17 Settembre 2026",
         "id": "34c0bc729525fda7",
         "title": "IV Interpello per la copertura di posti area dei Funzionari e dell’Elevata Qualificazione anno scolastico 2026/27",
@@ -239,21 +251,11 @@
         "id": "fadf1807f6816087",
         "title": "Nomine a tempo determinato personale ATA a.s. 2026-2027",
         "url": "https://re.istruzioneer.gov.it/2026/08/31/nomine-a-tempo-determinato-personale-ata-a-s-2026-2027/"
-      },
-      {
-        "date": "31 Agosto 2026 31 Agosto 2026",
-        "id": "579f8fece3b67983",
-        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – PRIMA FASE",
-        "url": "https://re.istruzioneer.gov.it/2026/08/31/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-prima-fase/"
-      },
-      {
-        "date": "31 Agosto 2026",
-        "id": "9f3f8eed63b5be87",
-        "title": "A.S. 2026/2027 – Immissioni in ruolo degli insegnanti di religione cattolica – SCORRIMENTO",
-        "url": "https://re.istruzioneer.gov.it/2026/08/31/a-s-2026-2027-immissioni-in-ruolo-degli-insegnanti-di-religione-cattolica-scorrimento/"
       }
     ],
     "seen_ids": [
+      "a939553fa6e259e6",
+      "6f70cf52048a989e",
       "34c0bc729525fda7",
       "723c88fb77c5e3b6",
       "6171e385829214da",
