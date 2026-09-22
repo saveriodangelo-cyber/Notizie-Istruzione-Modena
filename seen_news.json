@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-22T07:39:54+00:00"
+    "last_checked_at_utc": "2026-09-22T13:22:20+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "22 Settembre 2026",
+        "id": "61e8b26d7c062f3a",
+        "title": "Esiti IV interpello per il reclutamento di personale da inquadrare nel profilo DSGA/FEQ",
+        "url": "https://re.istruzioneer.gov.it/2026/09/22/esiti-iv-interpello-per-il-reclutamento-di-personale-da-inquadrare-nel-profilo-dsga-feq/"
+      },
+      {
         "date": "21 Settembre 2026",
         "id": "a939553fa6e259e6",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – TERZA FASE",
@@ -245,15 +251,10 @@
         "id": "5d61708ee12e01dc",
         "title": "Interpello per la copertura di posti vacanti e/o disponibili area dei Funzionari Elevata Qualificazione – ESITI",
         "url": "https://re.istruzioneer.gov.it/2026/09/03/interpello-per-la-copertura-di-posti-vacanti-e-o-disponibili-area-dei-funzionari-elevata-qualificazione-esiti/"
-      },
-      {
-        "date": "31 Agosto 2026",
-        "id": "fadf1807f6816087",
-        "title": "Nomine a tempo determinato personale ATA a.s. 2026-2027",
-        "url": "https://re.istruzioneer.gov.it/2026/08/31/nomine-a-tempo-determinato-personale-ata-a-s-2026-2027/"
       }
     ],
     "seen_ids": [
+      "61e8b26d7c062f3a",
       "a939553fa6e259e6",
       "6f70cf52048a989e",
       "34c0bc729525fda7",
@@ -325,6 +326,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "22 Settembre 2026",
+        "id": "43281154ee7f97ca",
+        "title": "SNV a.s. 2026/27 – Webinar di introduzione all’azione formativa regionale.",
+        "url": "https://www.istruzioneer.gov.it/2026/09/22/snv-a-s-2026-27-webinar-di-introduzione-allazione-formativa-regionale/"
+      },
+      {
         "date": "17 Settembre 2026 17 Settembre 2026",
         "id": "6415302d41f0f2b4",
         "title": "Passaggio1°-2°grado: strategie di continuità per ITA e MATE 26/27 scadenza 26/9",
@@ -377,15 +384,10 @@
         "id": "c1ee6153d58f5d1b",
         "title": "Passaggio 1° – 2°grado: strategie di continuità per Italiano e Matematica 26/27",
         "url": "https://www.istruzioneer.gov.it/2026/09/09/passaggio-dal1al2gradostrategie-di-continuita-per-italiano-e-matematica_26-27/"
-      },
-      {
-        "date": "9 Settembre 2026",
-        "id": "1f36845504746054",
-        "title": "Istruzione Tecnica: primi orientamenti per la progettazione curricolare",
-        "url": "https://www.istruzioneer.gov.it/2026/09/09/istruzione-tecnica-primi-orientamenti-per-la-progettazione-curricolare/"
       }
     ],
     "seen_ids": [
+      "43281154ee7f97ca",
       "6415302d41f0f2b4",
       "d872273e9cdbed2c",
       "eac0dc8819c0ffa8",
