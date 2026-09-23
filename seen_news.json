@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-23T09:55:24+00:00"
+    "last_checked_at_utc": "2026-09-23T14:57:51+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -326,6 +326,18 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "23 Settembre 2026",
+        "id": "93eaca6d1c52efc2",
+        "title": "Nomine a.s. 2026/27: Dispositivo assegnazione sedi – Rettifica",
+        "url": "https://www.istruzioneer.gov.it/2026/09/23/nomine-a-s-2026-27-dispositivo-assegnazione-sedi-rettifica-3/"
+      },
+      {
+        "date": "23 Settembre 2026",
+        "id": "ce01c890d63140e9",
+        "title": "Esito aggiornamento anagrafe enti, associazioni, enti del terzo settore",
+        "url": "https://www.istruzioneer.gov.it/2026/09/23/esito-aggiornamento-anagrafe-enti-associazioni-enti-del-terzo-settore/"
+      },
+      {
         "date": "23 Settembre 2026 23 Settembre 2026",
         "id": "295001fb053a4a67",
         "title": "“Scuola in Ospedale” e “Istruzione Domiciliare” – Indicazioni – A.s. 2026/2027",
@@ -372,21 +384,11 @@
         "id": "3dc66b6ad190abb3",
         "title": "Lettera del Direttore Generale a studenti, famiglie, personale: avvio a.s. 26-27",
         "url": "https://www.istruzioneer.gov.it/2026/09/11/lettera-del-direttore-generale-a-studenti-famiglie-personale-avvio-a-s-26-27/"
-      },
-      {
-        "date": "11 Settembre 2026",
-        "id": "0389cc05baff8f10",
-        "title": "Comunicazione pubblica – inizio anno scolastico 2026-2027",
-        "url": "https://www.istruzioneer.gov.it/2026/09/11/comunicazione-pubblica-inizio-anno-scolastico-2026-2027/"
-      },
-      {
-        "date": "10 Settembre 2026 10 Settembre 2026",
-        "id": "eae8490687b56772",
-        "title": "SNV a.s. 2026/27 – Azione regionale accompagnamento alle scuole",
-        "url": "https://www.istruzioneer.gov.it/2026/09/10/snv-a-s-2026-27-azione-regionale-accompagnamento-alle-scuole/"
       }
     ],
     "seen_ids": [
+      "93eaca6d1c52efc2",
+      "ce01c890d63140e9",
       "295001fb053a4a67",
       "0074b9fa2755af0f",
       "43281154ee7f97ca",
