@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-24T06:07:58+00:00"
+    "last_checked_at_utc": "2026-09-24T12:10:13+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "24 Settembre 2026 24 Settembre 2026",
+        "id": "0b9685c3eacaaf86",
+        "title": "Part-time personale docente, educativo ed A.T.A. neo assunto T.D. – a.s. 2026/2027",
+        "url": "https://re.istruzioneer.gov.it/2026/09/24/part-time-personale-docente-educativo-ed-a-t-a-neo-assunto-t-d-a-s-2026-2027/"
+      },
+      {
         "date": "22 Settembre 2026",
         "id": "61e8b26d7c062f3a",
         "title": "Esiti IV interpello per il reclutamento di personale da inquadrare nel profilo DSGA/FEQ",
@@ -245,15 +251,10 @@
         "id": "5d61708ee12e01dc",
         "title": "Interpello per la copertura di posti vacanti e/o disponibili area dei Funzionari Elevata Qualificazione – ESITI",
         "url": "https://re.istruzioneer.gov.it/2026/09/03/interpello-per-la-copertura-di-posti-vacanti-e-o-disponibili-area-dei-funzionari-elevata-qualificazione-esiti/"
-      },
-      {
-        "date": "31 Agosto 2026",
-        "id": "fadf1807f6816087",
-        "title": "Nomine a tempo determinato personale ATA a.s. 2026-2027",
-        "url": "https://re.istruzioneer.gov.it/2026/08/31/nomine-a-tempo-determinato-personale-ata-a-s-2026-2027/"
       }
     ],
     "seen_ids": [
+      "0b9685c3eacaaf86",
       "61e8b26d7c062f3a",
       "a939553fa6e259e6",
       "6f70cf52048a989e",
