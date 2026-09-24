@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-24T12:10:13+00:00"
+    "last_checked_at_utc": "2026-09-24T17:31:30+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "24 Settembre 2026",
+        "id": "ad864b7c09ff89d3",
+        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – QUARTA FASE",
+        "url": "https://re.istruzioneer.gov.it/2026/09/24/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-quarta-fase/"
+      },
+      {
         "date": "24 Settembre 2026 24 Settembre 2026",
         "id": "0b9685c3eacaaf86",
         "title": "Part-time personale docente, educativo ed A.T.A. neo assunto T.D. – a.s. 2026/2027",
@@ -245,15 +251,10 @@
         "id": "9b585aefac296a7b",
         "title": "Interpello per la copertura di posti vacanti e/o disponibili area dei Funzionari Elevata Qualificazione – ERRATA CORRIGE",
         "url": "https://re.istruzioneer.gov.it/2026/09/04/interpello-per-la-copertura-di-posti-vacanti-e-o-disponibili-area-dei-funzionari-elevata-qualificazione-errata-corrige/"
-      },
-      {
-        "date": "3 Settembre 2026",
-        "id": "5d61708ee12e01dc",
-        "title": "Interpello per la copertura di posti vacanti e/o disponibili area dei Funzionari Elevata Qualificazione – ESITI",
-        "url": "https://re.istruzioneer.gov.it/2026/09/03/interpello-per-la-copertura-di-posti-vacanti-e-o-disponibili-area-dei-funzionari-elevata-qualificazione-esiti/"
       }
     ],
     "seen_ids": [
+      "ad864b7c09ff89d3",
       "0b9685c3eacaaf86",
       "61e8b26d7c062f3a",
       "a939553fa6e259e6",
