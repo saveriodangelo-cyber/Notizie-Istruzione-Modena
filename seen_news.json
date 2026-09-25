@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-25T04:50:01+00:00"
+    "last_checked_at_utc": "2026-09-25T10:09:13+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -328,6 +328,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "25 Settembre 2026 25 Settembre 2026",
+        "id": "526da64167d09054",
+        "title": "P.I. USR ER–GRUPPO HERA per PCTO (FSL) triennio 2024-27_ Piano Attività 26-27",
+        "url": "https://www.istruzioneer.gov.it/2026/09/25/p-i-usr-er-gruppo-hera-per-pcto-fsl-triennio-2024-27_-piano-attivita-26-27/"
+      },
+      {
         "date": "23 Settembre 2026",
         "id": "93eaca6d1c52efc2",
         "title": "Nomine a.s. 2026/27: Dispositivo assegnazione sedi – Rettifica",
@@ -380,15 +386,10 @@
         "id": "9379ef2c39ee675c",
         "title": "Sperimentazione studente-atleta di alto livello a.s. 2026/2027",
         "url": "https://www.istruzioneer.gov.it/2026/09/15/sperimentazione-studente-atleta-di-alto-livello-a-s-2026-2027/"
-      },
-      {
-        "date": "11 Settembre 2026",
-        "id": "3dc66b6ad190abb3",
-        "title": "Lettera del Direttore Generale a studenti, famiglie, personale: avvio a.s. 26-27",
-        "url": "https://www.istruzioneer.gov.it/2026/09/11/lettera-del-direttore-generale-a-studenti-famiglie-personale-avvio-a-s-26-27/"
       }
     ],
     "seen_ids": [
+      "526da64167d09054",
       "93eaca6d1c52efc2",
       "ce01c890d63140e9",
       "295001fb053a4a67",
