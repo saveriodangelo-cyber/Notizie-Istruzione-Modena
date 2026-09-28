@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-09-28T07:35:30+00:00",
+  "last_checked_at_utc": "2026-09-28T15:53:25+00:00",
   "latest_items": [
     {
       "date": "03/10/2026",
@@ -22,6 +22,13 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "03/10/2026",
+      "id": "15ccb16ff1d119c5abc1",
+      "number": "",
+      "title": "2026 28 Set circ. n.29 Oggetto: Sperimentazione studente-atleta di alto livello a.s. 2026/2027 Oggetto: Sperimentazione studente-atleta di alto livello a.s. 2026/2027",
+      "url": "https://www.convittocorreggio.edu.it/circolare/oggetto-sperimentazione-studente-atleta-di-alto-livello-a-s-2026-2027/"
     },
     {
       "date": "03/10/2026",
@@ -88,13 +95,6 @@
     },
     {
       "date": "03/10/2026",
-      "id": "aa9d8f1dec9260838ef6",
-      "number": "",
-      "title": "2026 17 Set circ. n.16 Orario dal 21/09 – 03/10/2026 – POLO professionale Orario dal 21/09 - 03/10/2026 - POLO professionale",
-      "url": "https://www.convittocorreggio.edu.it/circolare/orario-dal-21-09-03-10-2026-polo-professionale/"
-    },
-    {
-      "date": "03/10/2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -133,6 +133,7 @@
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "15ccb16ff1d119c5abc1",
     "5b388ff7f9e0890cb83b",
     "10e060722c0b884d3541",
     "9e084f00f5c757a49fee",
@@ -142,12 +143,12 @@
     "d657003f3629676dd93e",
     "aefa8bddc31bf7a1f821",
     "7568866245b00d189395",
-    "aa9d8f1dec9260838ef6",
     "f644c01aa52b628ff81a",
     "9b764765971a1e33e24d",
     "9cdd8b7c329411c107b4",
     "b18b0e48ec73ef6bbed8",
     "f228499642bffe0d4a72",
+    "aa9d8f1dec9260838ef6",
     "f3e4c1af32c83386709a",
     "010d0ad08dd55b232730",
     "40a628a87249d3c4e49c",
