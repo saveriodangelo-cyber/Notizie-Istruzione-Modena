@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-28T08:38:24+00:00"
+    "last_checked_at_utc": "2026-09-28T17:37:05+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -328,6 +328,18 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "28 Settembre 2026",
+        "id": "12ca47c5f354dfd3",
+        "title": "Accreditamento scuole per attività di tirocinio. Indicazioni operative a.s.26/27",
+        "url": "https://www.istruzioneer.gov.it/2026/09/28/accreditamento-scuole-per-attivita-di-tirocinio-indicazioni-operative-a-s-26-27/"
+      },
+      {
+        "date": "28 Settembre 2026 28 Settembre 2026",
+        "id": "b9c85fa1c5747cd2",
+        "title": "SNV a.s. 2026/27 – Webinar di introduzione all’azione formativa regionale",
+        "url": "https://www.istruzioneer.gov.it/2026/09/28/snv-a-s-2026-27-webinar-di-introduzione-allazione-formativa-regionale-2/"
+      },
+      {
         "date": "25 Settembre 2026 25 Settembre 2026",
         "id": "c3c0015854af0786",
         "title": "P.I. USR ER–GRUPPO HERA per PCTO (FSL) triennio 2024-27 Piano Attività 26-27",
@@ -374,21 +386,11 @@
         "id": "eac0dc8819c0ffa8",
         "title": "Junior Achievement: attività secondarie 2° grado26/27 Webinar 9/9/26 Materiali",
         "url": "https://www.istruzioneer.gov.it/2026/09/16/junior-achievementattivita-secondarie-di-2-grado26-27_webinar-9-9-26_materiali/"
-      },
-      {
-        "date": "16 Settembre 2026 17 Settembre 2026",
-        "id": "8ea229ede2061a9b",
-        "title": "Junior Achievement: attività secondarie 1° grado26/27 Webinar10/9/26 Materiali",
-        "url": "https://www.istruzioneer.gov.it/2026/09/16/junior-achievementattivita-secondarie-di-1-grado26-27_webinar10-9-26_materiali/"
-      },
-      {
-        "date": "15 Settembre 2026 15 Settembre 2026",
-        "id": "9379ef2c39ee675c",
-        "title": "Sperimentazione studente-atleta di alto livello a.s. 2026/2027",
-        "url": "https://www.istruzioneer.gov.it/2026/09/15/sperimentazione-studente-atleta-di-alto-livello-a-s-2026-2027/"
       }
     ],
     "seen_ids": [
+      "12ca47c5f354dfd3",
+      "b9c85fa1c5747cd2",
       "c3c0015854af0786",
       "93eaca6d1c52efc2",
       "ce01c890d63140e9",
