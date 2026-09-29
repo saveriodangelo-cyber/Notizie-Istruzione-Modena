@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-09-29T09:01:08+00:00"
+    "last_checked_at_utc": "2026-09-29T15:44:02+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,18 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "29 Settembre 2026",
+        "id": "fb750fdcef9fb7d2",
+        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – QUINTA FASE",
+        "url": "https://re.istruzioneer.gov.it/2026/09/29/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-quinta-fase/"
+      },
+      {
+        "date": "29 Settembre 2026",
+        "id": "db8cbb2b5fe83f3b",
+        "title": "Part-time personale docente, educativo ed A.T.A. neo assunto T.D. – a.s. 2026/2027",
+        "url": "https://re.istruzioneer.gov.it/2026/09/29/part-time-personale-docente-educativo-ed-a-t-a-neo-assunto-t-d-a-s-2026-2027-2/"
+      },
+      {
         "date": "24 Settembre 2026",
         "id": "ad864b7c09ff89d3",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – QUARTA FASE",
@@ -239,21 +251,11 @@
         "id": "f5355ceb501a38db",
         "title": "Part-time personale docente, educativo ed A.T.A. neo assunto T.I. – T.D. – a.s. 2026/2027",
         "url": "https://re.istruzioneer.gov.it/2026/09/09/part-time-personale-docente-educativo-ed-a-t-a-neo-assunto-t-i-t-d-a-s-2026-2027/"
-      },
-      {
-        "date": "8 Settembre 2026",
-        "id": "3a12cf3cb999ed5e",
-        "title": "II Interpello per la copertura di posti vacanti e/o disponibili area dei Funzionari e dell’Elevata Qualificazione anno scolastico 2026/27",
-        "url": "https://re.istruzioneer.gov.it/2026/09/08/ii-interpello-per-la-copertura-di-posti-vacanti-e-o-disponibili-area-dei-funzionari-e-dellelevata-qualificazione-anno-scolastico-2026-27/"
-      },
-      {
-        "date": "4 Settembre 2026",
-        "id": "9b585aefac296a7b",
-        "title": "Interpello per la copertura di posti vacanti e/o disponibili area dei Funzionari Elevata Qualificazione – ERRATA CORRIGE",
-        "url": "https://re.istruzioneer.gov.it/2026/09/04/interpello-per-la-copertura-di-posti-vacanti-e-o-disponibili-area-dei-funzionari-elevata-qualificazione-errata-corrige/"
       }
     ],
     "seen_ids": [
+      "fb750fdcef9fb7d2",
+      "db8cbb2b5fe83f3b",
       "ad864b7c09ff89d3",
       "0b9685c3eacaaf86",
       "61e8b26d7c062f3a",
@@ -328,6 +330,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "29 Settembre 2026",
+        "id": "d38ba36a290c3b3e",
+        "title": "P.I. USR ER – ANBI ER per FSL aa.ss. 2025-2028 _ Disponibilità a.s. 2026-27",
+        "url": "https://www.istruzioneer.gov.it/2026/09/29/p-i-usr-er-anbi-er-per-fsl-aa-ss-2025-2028-_-disponibilita-a-s-2026-27/"
+      },
+      {
         "date": "28 Settembre 2026",
         "id": "12ca47c5f354dfd3",
         "title": "Accreditamento scuole per attività di tirocinio. Indicazioni operative a.s.26/27",
@@ -380,15 +388,10 @@
         "id": "d872273e9cdbed2c",
         "title": "Seminario “L’Europa comincia a scuola” – Modena, 16 ottobre 2026",
         "url": "https://www.istruzioneer.gov.it/2026/09/16/seminario-leuropa-comincia-a-scuola-modena-16-ottobre-2026/"
-      },
-      {
-        "date": "16 Settembre 2026 17 Settembre 2026",
-        "id": "eac0dc8819c0ffa8",
-        "title": "Junior Achievement: attività secondarie 2° grado26/27 Webinar 9/9/26 Materiali",
-        "url": "https://www.istruzioneer.gov.it/2026/09/16/junior-achievementattivita-secondarie-di-2-grado26-27_webinar-9-9-26_materiali/"
       }
     ],
     "seen_ids": [
+      "d38ba36a290c3b3e",
       "12ca47c5f354dfd3",
       "b9c85fa1c5747cd2",
       "c3c0015854af0786",
