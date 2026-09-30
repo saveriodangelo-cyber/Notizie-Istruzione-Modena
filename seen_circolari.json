@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-09-30T07:18:41+00:00",
+  "last_checked_at_utc": "2026-09-30T13:52:48+00:00",
   "latest_items": [
     {
       "date": "01/09/2026",
@@ -22,6 +22,27 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "01/09/2026",
+      "id": "76c8d242c87424acff59",
+      "number": "",
+      "title": "2026 30 Set circ. n.35 Convocazione commissione elettorale Convocazione commissione elettorale",
+      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-commissione-elettorale-2/"
+    },
+    {
+      "date": "01/09/2026",
+      "id": "78b857bba70d72157049",
+      "number": "",
+      "title": "2026 30 Set circ. n.34 Convocazione Commissione NIV, 7 ottobre 2026 Convocazione Commissione NIV, 7 ottobre 2026",
+      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-commissione-niv-7-ottobre-2026/"
+    },
+    {
+      "date": "01/09/2026",
+      "id": "5d4c672a576c24838048",
+      "number": "",
+      "title": "2026 30 Set circ. n.31 Inizio lezioni Corso serale e pubblicazione orario settimanale Inizio lezioni Corso serale e pubblicazione orario settimanale",
+      "url": "https://www.convittocorreggio.edu.it/circolare/inizio-lezioni-corso-serale-e-pubblicazione-orario-settimanale-4/"
     },
     {
       "date": "01/09/2026",
@@ -74,27 +95,6 @@
     },
     {
       "date": "01/09/2026",
-      "id": "05f273064da9e102a380",
-      "number": "",
-      "title": "2026 19 Set circ. n.21 Orario dal 21/09 – 03/10/2026 – POLO professionale (rettifica) Orario dal 21/09 - 03/10/2026 - POLO professionale (rettifica)",
-      "url": "https://www.convittocorreggio.edu.it/circolare/orario-dal-21-09-03-10-2026-polo-professionale-rettifica/"
-    },
-    {
-      "date": "01/09/2026",
-      "id": "d657003f3629676dd93e",
-      "number": "",
-      "title": "2026 19 Set circ. n.19 Convocazione commissione Orientamento in entrata Convocazione commissione Orientamento in entrata",
-      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-commissione-orientamento-in-entrata-2/"
-    },
-    {
-      "date": "01/09/2026",
-      "id": "aefa8bddc31bf7a1f821",
-      "number": "",
-      "title": "2026 18 Set circ. n.18 Convocazione Dipartimenti di materia settembre 2026 – POLO PROFESSIONALE Convocazione Dipartimenti di materia settembre 2026 - POLO PROFESSIONALE",
-      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-dipartimenti-di-materia-settembre-2026-polo-professionale/"
-    },
-    {
-      "date": "01/09/2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -133,6 +133,9 @@
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "76c8d242c87424acff59",
+    "78b857bba70d72157049",
+    "5d4c672a576c24838048",
     "d052ca2f0b414ef9ca73",
     "15ccb16ff1d119c5abc1",
     "5b388ff7f9e0890cb83b",
@@ -140,14 +143,14 @@
     "9e084f00f5c757a49fee",
     "d5de9fd0a741dcd6b206",
     "557b083fe633e645c313",
-    "05f273064da9e102a380",
-    "d657003f3629676dd93e",
-    "aefa8bddc31bf7a1f821",
     "f644c01aa52b628ff81a",
     "9b764765971a1e33e24d",
     "9cdd8b7c329411c107b4",
     "b18b0e48ec73ef6bbed8",
     "f228499642bffe0d4a72",
+    "05f273064da9e102a380",
+    "d657003f3629676dd93e",
+    "aefa8bddc31bf7a1f821",
     "7568866245b00d189395",
     "aa9d8f1dec9260838ef6",
     "f3e4c1af32c83386709a",
