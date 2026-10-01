@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-10-01T15:24:39+00:00"
+    "last_checked_at_utc": "2026-10-01T20:28:53+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -340,6 +340,18 @@
     "latest_items": [
       {
         "date": "1 Ottobre 2026",
+        "id": "76c5e2532ac4f657",
+        "title": "D.D.G. 2575/2023: GM AM2B – Integrazione",
+        "url": "https://www.istruzioneer.gov.it/2026/10/01/d-d-g-2575-2023-gm-am2b-integrazione/"
+      },
+      {
+        "date": "1 Ottobre 2026",
+        "id": "7a9a2335c13cb6d3",
+        "title": "D.D.G. 2575/2023: GM AM12 – Integrazione",
+        "url": "https://www.istruzioneer.gov.it/2026/10/01/d-d-g-2575-2023-gm-am12-integrazione/"
+      },
+      {
+        "date": "1 Ottobre 2026",
         "id": "afe9bffdcda09e45",
         "title": "D.D.G. 2939/2025: GM BC02- Emilia Romagna – integrazione",
         "url": "https://www.istruzioneer.gov.it/2026/10/01/d-d-g-2939-2025-gm-bc02-emilia-romagna-integrazione/"
@@ -385,21 +397,11 @@
         "id": "2c57b47e3d26d025",
         "title": "D.D.G. 2939/2025: GM AS48 – Integrazione",
         "url": "https://www.istruzioneer.gov.it/2026/09/30/d-d-g-2939-2025-gm-as48-integrazione/"
-      },
-      {
-        "date": "30 Settembre 2026 1 Ottobre 2026",
-        "id": "cb92bccc27edcd7b",
-        "title": "D.D.G. 2939/2025: GM A027 – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/09/30/d-d-g-2939-2025-gm-a027-integrazione/"
-      },
-      {
-        "date": "30 Settembre 2026 1 Ottobre 2026",
-        "id": "bde2ee931fd28ddb",
-        "title": "D.D.G. 2939/2025: GM AS2A – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/09/30/d-d-g-2939-2025-gm-as2a-integrazione/"
       }
     ],
     "seen_ids": [
+      "76c5e2532ac4f657",
+      "7a9a2335c13cb6d3",
       "afe9bffdcda09e45",
       "7ec314f52e1ba3ae",
       "ca7dc291cc405e85",
