@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-10-02T13:08:07+00:00"
+    "last_checked_at_utc": "2026-10-02T18:40:18+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "2 Ottobre 2026",
+        "id": "b47437da7559f233",
+        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – SESTA FASE",
+        "url": "https://re.istruzioneer.gov.it/2026/10/02/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-sesta-fase/"
+      },
+      {
         "date": "1 Ottobre 2026",
         "id": "709999654dfee09c",
         "title": "D.D.G. 2938/2025: GM EEEE – Integrazione",
@@ -245,15 +251,10 @@
         "id": "6171e385829214da",
         "title": "Esiti III interpello per il reclutamento di personale da inquadrare nel profilo DSGA/FEQ",
         "url": "https://re.istruzioneer.gov.it/2026/09/16/esiti-iii-interpello-per-il-reclutamento-di-personale-da-inquadrare-nel-profilo-dsga-feq/"
-      },
-      {
-        "date": "15 Settembre 2026",
-        "id": "8c95f183d6a2682e",
-        "title": "DIRIGENTI SCOLASTICI – AVVISO PUBBLICO DI INTERPELLO – Istituto Comprensivo Correggio 1 della provincia di Reggio Emilia",
-        "url": "https://re.istruzioneer.gov.it/2026/09/15/dirigenti-scolastici-avviso-pubblico-di-interpello-istituto-comprensivo-correggio-1-della-provincia-di-reggio-emilia/"
       }
     ],
     "seen_ids": [
+      "b47437da7559f233",
       "709999654dfee09c",
       "5b921199043c7d66",
       "c890ff66b5b31b15",
@@ -339,9 +340,9 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
-        "date": "2 Ottobre 2026",
-        "id": "ce0b68eeaf6e217d",
-        "title": "Titolo SNV a.s. 2026/27 – Webinar di introduzione all’azione formativa regionale",
+        "date": "2 Ottobre 2026 2 Ottobre 2026",
+        "id": "76f7edf685e779aa",
+        "title": "SNV a.s. 2026/27 – Webinar di introduzione all’azione formativa regionale",
         "url": "https://www.istruzioneer.gov.it/2026/10/02/titolo-snv-a-s-2026-27-webinar-di-introduzione-allazione-formativa-regionale/"
       },
       {
@@ -400,7 +401,7 @@
       }
     ],
     "seen_ids": [
-      "ce0b68eeaf6e217d",
+      "76f7edf685e779aa",
       "76c5e2532ac4f657",
       "7a9a2335c13cb6d3",
       "afe9bffdcda09e45",
@@ -410,6 +411,7 @@
       "3cf22d329cc138ee",
       "9f13a4a1719afd1b",
       "6882d828863508d6",
+      "ce0b68eeaf6e217d",
       "2c57b47e3d26d025",
       "cb92bccc27edcd7b",
       "bde2ee931fd28ddb",
