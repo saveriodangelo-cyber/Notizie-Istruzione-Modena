@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-10-02T06:08:49+00:00"
+    "last_checked_at_utc": "2026-10-02T13:08:07+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -339,6 +339,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "2 Ottobre 2026",
+        "id": "ce0b68eeaf6e217d",
+        "title": "Titolo SNV a.s. 2026/27 – Webinar di introduzione all’azione formativa regionale",
+        "url": "https://www.istruzioneer.gov.it/2026/10/02/titolo-snv-a-s-2026-27-webinar-di-introduzione-allazione-formativa-regionale/"
+      },
+      {
         "date": "1 Ottobre 2026",
         "id": "76c5e2532ac4f657",
         "title": "D.D.G. 2575/2023: GM AM2B – Integrazione",
@@ -391,15 +397,10 @@
         "id": "6882d828863508d6",
         "title": "D.D.G. 2939/2025: GM AM01- Integrazione",
         "url": "https://www.istruzioneer.gov.it/2026/09/30/d-d-g-2939-2025-gm-am01-integrazione/"
-      },
-      {
-        "date": "30 Settembre 2026 1 Ottobre 2026",
-        "id": "2c57b47e3d26d025",
-        "title": "D.D.G. 2939/2025: GM AS48 – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/09/30/d-d-g-2939-2025-gm-as48-integrazione/"
       }
     ],
     "seen_ids": [
+      "ce0b68eeaf6e217d",
       "76c5e2532ac4f657",
       "7a9a2335c13cb6d3",
       "afe9bffdcda09e45",
