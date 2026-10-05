@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-10-05T01:14:46+00:00"
+    "last_checked_at_utc": "2026-10-05T07:39:49+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -340,6 +340,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "5 Ottobre 2026",
+        "id": "c90c0b313b88d0ab",
+        "title": "Elezioni organi collegiali a livello di istituzione scolastica – a.s. 2026-2027",
+        "url": "https://www.istruzioneer.gov.it/2026/10/05/elezioni-organi-collegiali-a-livello-di-istituzione-scolastica-a-s-2026-2027/"
+      },
+      {
         "date": "2 Ottobre 2026 2 Ottobre 2026",
         "id": "76f7edf685e779aa",
         "title": "SNV a.s. 2026/27 – Webinar di introduzione all’azione formativa regionale",
@@ -392,15 +398,10 @@
         "id": "9f13a4a1719afd1b",
         "title": "D.D.G. 2939/2025: GM B022- Emilia Romagna – integrazione",
         "url": "https://www.istruzioneer.gov.it/2026/10/01/d-d-g-2939-2025-gm-b022-emilia-romagna-integrazione/"
-      },
-      {
-        "date": "30 Settembre 2026 1 Ottobre 2026",
-        "id": "6882d828863508d6",
-        "title": "D.D.G. 2939/2025: GM AM01- Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/09/30/d-d-g-2939-2025-gm-am01-integrazione/"
       }
     ],
     "seen_ids": [
+      "c90c0b313b88d0ab",
       "76f7edf685e779aa",
       "76c5e2532ac4f657",
       "7a9a2335c13cb6d3",
