@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-10-06T07:14:33+00:00",
+  "last_checked_at_utc": "2026-10-06T14:13:04+00:00",
   "latest_items": [
     {
       "date": "05/10/2026",
@@ -22,6 +22,13 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "05/10/2026",
+      "id": "34480374aded1891a33c",
+      "number": "",
+      "title": "2026 06 Ott circ. n.42 IeFP_Progetto “Divise in circolo” IeFP_Progetto “Divise in circolo”",
+      "url": "https://www.convittocorreggio.edu.it/circolare/iefp_progetto-divise-in-circolo/"
     },
     {
       "date": "05/10/2026",
@@ -88,13 +95,6 @@
     },
     {
       "date": "05/10/2026",
-      "id": "10e060722c0b884d3541",
-      "number": "",
-      "title": "2026 22 Set circ. n.26 Convocazione commissione intercultura Convocazione commissione intercultura",
-      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-commissione-intercultura-16/"
-    },
-    {
-      "date": "05/10/2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -133,6 +133,7 @@
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "34480374aded1891a33c",
     "92989f867c37c1b37117",
     "afcc66f4cad1d59fc74e",
     "a8dd5c8e5b7640e22332",
@@ -142,12 +143,12 @@
     "d052ca2f0b414ef9ca73",
     "15ccb16ff1d119c5abc1",
     "5b388ff7f9e0890cb83b",
-    "10e060722c0b884d3541",
     "f644c01aa52b628ff81a",
     "9b764765971a1e33e24d",
     "b18b0e48ec73ef6bbed8",
     "f228499642bffe0d4a72",
     "c77e94b11545ae3d873d",
+    "10e060722c0b884d3541",
     "9e084f00f5c757a49fee",
     "d5de9fd0a741dcd6b206",
     "557b083fe633e645c313",
