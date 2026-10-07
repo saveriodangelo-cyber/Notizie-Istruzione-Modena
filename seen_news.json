@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-10-07T07:41:56+00:00"
+    "last_checked_at_utc": "2026-10-07T15:30:58+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "7 Ottobre 2026",
+        "id": "9990c3afb58ac86f",
+        "title": "DIRIGENTI SCOLASTICI – AVVISO PUBBLICO DI INTERPELLO – I.I.S. Russell della provincia di Reggio Emilia",
+        "url": "https://re.istruzioneer.gov.it/2026/10/07/dirigenti-scolastici-avviso-pubblico-di-interpello-i-i-s-russell-della-provincia-di-reggio-emilia/"
+      },
+      {
         "date": "6 Ottobre 2026",
         "id": "cae11bd593fb2661",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – SETTIMA FASE",
@@ -245,15 +251,10 @@
         "id": "34c0bc729525fda7",
         "title": "IV Interpello per la copertura di posti area dei Funzionari e dell’Elevata Qualificazione anno scolastico 2026/27",
         "url": "https://re.istruzioneer.gov.it/2026/09/16/iv-interpello-per-la-copertura-di-posti-area-dei-funzionari-e-dellelevata-qualificazione-anno-scolastico-2026-27/"
-      },
-      {
-        "date": "16 Settembre 2026",
-        "id": "723c88fb77c5e3b6",
-        "title": "Conferimento incarico aggiuntivo di reggenza temporanea presso l’Istituto Comprensivo Correggio 1 della provincia di Reggio Emilia",
-        "url": "https://re.istruzioneer.gov.it/2026/09/16/conferimento-incarico-aggiuntivo-di-reggenza-temporanea-presso-listituto-comprensivo-correggio-1-della-provincia-di-reggio-emilia/"
       }
     ],
     "seen_ids": [
+      "9990c3afb58ac86f",
       "cae11bd593fb2661",
       "b47437da7559f233",
       "709999654dfee09c",
@@ -342,6 +343,42 @@
     "latest_items": [
       {
         "date": "7 Ottobre 2026",
+        "id": "b08122800be0aa11",
+        "title": "D.D.G. 2939/2025: GM AS12 – Integrazione",
+        "url": "https://www.istruzioneer.gov.it/2026/10/07/d-d-g-2939-2025-gm-as12-integrazione-2/"
+      },
+      {
+        "date": "7 Ottobre 2026",
+        "id": "da58b805f18a7828",
+        "title": "D.D.G. 2939/2025: GM AS48 – Integrazione",
+        "url": "https://www.istruzioneer.gov.it/2026/10/07/d-d-g-2939-2025-gm-as48-integrazione-2/"
+      },
+      {
+        "date": "7 Ottobre 2026",
+        "id": "b691a410d698e400",
+        "title": "D.M. 104/2024 – CONCORSO ORDINARIO IRC – MMSS",
+        "url": "https://www.istruzioneer.gov.it/2026/10/07/d-m-104-2024-concorso-ordinario-irc-mmss-3/"
+      },
+      {
+        "date": "7 Ottobre 2026",
+        "id": "f1dbe9dcd831d2e0",
+        "title": "D.D.G. 2939/2025: GM AM2A – Integrazione",
+        "url": "https://www.istruzioneer.gov.it/2026/10/07/d-d-g-2939-2025-gm-am2a-integrazione-2/"
+      },
+      {
+        "date": "7 Ottobre 2026",
+        "id": "ff10aabf9af7214d",
+        "title": "D.D.G. 2939/2025: GM ADMM – Integrazione",
+        "url": "https://www.istruzioneer.gov.it/2026/10/07/d-d-g-2939-2025-gm-admm-integrazione-2/"
+      },
+      {
+        "date": "7 Ottobre 2026",
+        "id": "223a97cb6025e1e0",
+        "title": "D.D.G. 2939/2025: GM AM12 – Integrazione",
+        "url": "https://www.istruzioneer.gov.it/2026/10/07/d-d-g-2939-2025-gm-am12-integrazione-2/"
+      },
+      {
+        "date": "7 Ottobre 2026",
         "id": "91687a0b0ba197bb",
         "title": "D.D.G. 2939/2025: GM AM48 – Integrazione",
         "url": "https://www.istruzioneer.gov.it/2026/10/07/d-d-g-2939-2025-gm-am48-integrazione-2/"
@@ -363,45 +400,15 @@
         "id": "76c5e2532ac4f657",
         "title": "D.D.G. 2575/2023: GM AM2B – Integrazione",
         "url": "https://www.istruzioneer.gov.it/2026/10/01/d-d-g-2575-2023-gm-am2b-integrazione/"
-      },
-      {
-        "date": "1 Ottobre 2026",
-        "id": "7a9a2335c13cb6d3",
-        "title": "D.D.G. 2575/2023: GM AM12 – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/01/d-d-g-2575-2023-gm-am12-integrazione/"
-      },
-      {
-        "date": "1 Ottobre 2026",
-        "id": "afe9bffdcda09e45",
-        "title": "D.D.G. 2939/2025: GM BC02- Emilia Romagna – integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/01/d-d-g-2939-2025-gm-bc02-emilia-romagna-integrazione/"
-      },
-      {
-        "date": "1 Ottobre 2026 1 Ottobre 2026",
-        "id": "7ec314f52e1ba3ae",
-        "title": "D.D.G. 2939/2025: GM AM2C – Emilia Romagna – integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/01/d-d-g-2939-2025-gm-am2c-emilia-romagna-integrazione/"
-      },
-      {
-        "date": "1 Ottobre 2026 1 Ottobre 2026",
-        "id": "ca7dc291cc405e85",
-        "title": "D.D.G. 2939/2025: GM AB56- Emilia Romagna – integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/01/d-d-g-2939-2025-gm-ac56-emilia-romagna-integrazione-2/"
-      },
-      {
-        "date": "1 Ottobre 2026 1 Ottobre 2026",
-        "id": "5b0b7a0f6aa3feab",
-        "title": "D.D.G. 2939/2025: GM AC56- Emilia Romagna – integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/01/d-d-g-2939-2025-gm-ac56-emilia-romagna-integrazione/"
-      },
-      {
-        "date": "1 Ottobre 2026 1 Ottobre 2026",
-        "id": "3cf22d329cc138ee",
-        "title": "D.D.G. 2939/2025: GM AJ56- Emilia Romagna – integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/01/d-d-g-2939-2025-gm-aj56-emilia-romagna-integrazione/"
       }
     ],
     "seen_ids": [
+      "b08122800be0aa11",
+      "da58b805f18a7828",
+      "b691a410d698e400",
+      "f1dbe9dcd831d2e0",
+      "ff10aabf9af7214d",
+      "223a97cb6025e1e0",
       "91687a0b0ba197bb",
       "c90c0b313b88d0ab",
       "76f7edf685e779aa",
