@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-10-07T08:55:45+00:00",
+  "last_checked_at_utc": "2026-10-07T15:58:20+00:00",
   "latest_items": [
     {
       "date": "05/10/2026",
@@ -22,6 +22,13 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "05/10/2026",
+      "id": "c6b01b02736dab2ba1ec",
+      "number": "",
+      "title": "2026 07 Ott circ. n.43 Convocazione della Commissione Orientamento in Entrata Convocazione della Commissione Orientamento in Entrata",
+      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-della-commissione-orientamento-in-entrata/"
     },
     {
       "date": "05/10/2026",
@@ -88,13 +95,6 @@
     },
     {
       "date": "05/10/2026",
-      "id": "5b388ff7f9e0890cb83b",
-      "number": "",
-      "title": "2026 25 Set circ. n.27 Si comunica che la CSLE, ha proclamato uno sciopero plurisettoriale per Venerdi 2 Ottobre Si comunica che la CSLE, ha proclamato uno sciopero plurisettoriale per Venerdi 2 Ottobre",
-      "url": "https://www.convittocorreggio.edu.it/circolare/si-comunica-che-la-csle-ha-proclamato-uno-sciopero-plurisettoriale-per-venerdi-2-ottobre/"
-    },
-    {
-      "date": "05/10/2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -133,6 +133,7 @@
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "c6b01b02736dab2ba1ec",
     "34480374aded1891a33c",
     "92989f867c37c1b37117",
     "afcc66f4cad1d59fc74e",
@@ -142,12 +143,12 @@
     "5d4c672a576c24838048",
     "d052ca2f0b414ef9ca73",
     "15ccb16ff1d119c5abc1",
-    "5b388ff7f9e0890cb83b",
     "f644c01aa52b628ff81a",
     "9b764765971a1e33e24d",
     "b18b0e48ec73ef6bbed8",
     "f228499642bffe0d4a72",
     "c77e94b11545ae3d873d",
+    "5b388ff7f9e0890cb83b",
     "10e060722c0b884d3541",
     "9e084f00f5c757a49fee",
     "d5de9fd0a741dcd6b206",
