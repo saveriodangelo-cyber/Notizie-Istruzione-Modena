@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-10-08T07:17:23+00:00"
+    "last_checked_at_utc": "2026-10-08T14:54:23+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,18 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "8 Ottobre 2026",
+        "id": "54f3f330d2f61320",
+        "title": "Dispositivo n. 12739 del 08/10/2026– Depennamento GaE infanzia e primaria",
+        "url": "https://re.istruzioneer.gov.it/2026/10/08/dispositivo-n-12739-del-08-10-2026-depennamento-gae-infanzia-e-primaria/"
+      },
+      {
+        "date": "8 Ottobre 2026 8 Ottobre 2026",
+        "id": "777766f438c3b3b1",
+        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – OTTAVA FASE",
+        "url": "https://re.istruzioneer.gov.it/2026/10/08/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-ottava-fase/"
+      },
+      {
         "date": "7 Ottobre 2026",
         "id": "9990c3afb58ac86f",
         "title": "DIRIGENTI SCOLASTICI – AVVISO PUBBLICO DI INTERPELLO – I.I.S. Russell della provincia di Reggio Emilia",
@@ -239,21 +251,11 @@
         "id": "a939553fa6e259e6",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – TERZA FASE",
         "url": "https://re.istruzioneer.gov.it/2026/09/21/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-terza-fase/"
-      },
-      {
-        "date": "21 Settembre 2026",
-        "id": "6f70cf52048a989e",
-        "title": "Part-time personale docente, educativo ed A.T.A. neo assunto T.I. – T.D. – a.s. 2026/2027",
-        "url": "https://re.istruzioneer.gov.it/2026/09/21/part-time-personale-docente-educativo-ed-a-t-a-neo-assunto-t-i-t-d-a-s-2026-2027-3/"
-      },
-      {
-        "date": "16 Settembre 2026 17 Settembre 2026",
-        "id": "34c0bc729525fda7",
-        "title": "IV Interpello per la copertura di posti area dei Funzionari e dell’Elevata Qualificazione anno scolastico 2026/27",
-        "url": "https://re.istruzioneer.gov.it/2026/09/16/iv-interpello-per-la-copertura-di-posti-area-dei-funzionari-e-dellelevata-qualificazione-anno-scolastico-2026-27/"
       }
     ],
     "seen_ids": [
+      "54f3f330d2f61320",
+      "777766f438c3b3b1",
       "9990c3afb58ac86f",
       "cae11bd593fb2661",
       "b47437da7559f233",
@@ -342,6 +344,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "8 Ottobre 2026",
+        "id": "8acfa29e9749715d",
+        "title": "D.D.G. 2939/2025: GM AM2C – Emilia Romagna – integrazione",
+        "url": "https://www.istruzioneer.gov.it/2026/10/08/d-d-g-2939-2025-gm-am2c-emilia-romagna-integrazione-2/"
+      },
+      {
         "date": "7 Ottobre 2026",
         "id": "b08122800be0aa11",
         "title": "D.D.G. 2939/2025: GM AS12 – Integrazione",
@@ -394,15 +402,10 @@
         "id": "76f7edf685e779aa",
         "title": "SNV a.s. 2026/27 – Webinar di introduzione all’azione formativa regionale",
         "url": "https://www.istruzioneer.gov.it/2026/10/02/titolo-snv-a-s-2026-27-webinar-di-introduzione-allazione-formativa-regionale/"
-      },
-      {
-        "date": "1 Ottobre 2026",
-        "id": "76c5e2532ac4f657",
-        "title": "D.D.G. 2575/2023: GM AM2B – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/01/d-d-g-2575-2023-gm-am2b-integrazione/"
       }
     ],
     "seen_ids": [
+      "8acfa29e9749715d",
       "b08122800be0aa11",
       "da58b805f18a7828",
       "b691a410d698e400",
