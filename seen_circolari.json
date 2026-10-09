@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-10-09T12:00:45+00:00",
+  "last_checked_at_utc": "2026-10-09T18:15:37+00:00",
   "latest_items": [
     {
       "date": "05/10/2026",
@@ -22,6 +22,20 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "05/10/2026",
+      "id": "a5041368d2911991c518",
+      "number": "",
+      "title": "2026 09 Ott circ. n.45 Convocazione della Commissione Educazione Civica Polo secondaria secondo grado Convocazione della Commissione Educazione Civica Polo secondaria secondo grado",
+      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-della-commissione-educazione-civica-polo-secondaria-secondo-grado/"
+    },
+    {
+      "date": "05/10/2026",
+      "id": "271c7139c4a5306a78dd",
+      "number": "",
+      "title": "2026 09 Ott circ. n.44 Elezioni organi collegiali – componente genitori Elezioni organi collegiali - componente genitori",
+      "url": "https://www.convittocorreggio.edu.it/circolare/elezioni-organi-collegiali-componente-genitori-3/"
     },
     {
       "date": "05/10/2026",
@@ -81,20 +95,6 @@
     },
     {
       "date": "05/10/2026",
-      "id": "d052ca2f0b414ef9ca73",
-      "number": "",
-      "title": "2026 29 Set circ. n.30 Convocazione di un’assemblea sindacale ANIEF dalle ore 8:00 alle ore 10:00. Giovedi 01/09/2026 Assemblea Sindacale presso il Convitto Rinaldo Corso",
-      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-di-unassemblea-sindacale-anief-dalle-ore-800-alle-ore-1000-giovedi-01-09-2026/"
-    },
-    {
-      "date": "05/10/2026",
-      "id": "15ccb16ff1d119c5abc1",
-      "number": "",
-      "title": "2026 28 Set circ. n.29 Oggetto: Sperimentazione studente-atleta di alto livello a.s. 2026/2027 Oggetto: Sperimentazione studente-atleta di alto livello a.s. 2026/2027",
-      "url": "https://www.convittocorreggio.edu.it/circolare/oggetto-sperimentazione-studente-atleta-di-alto-livello-a-s-2026-2027/"
-    },
-    {
-      "date": "05/10/2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -133,6 +133,8 @@
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "a5041368d2911991c518",
+    "271c7139c4a5306a78dd",
     "c6b01b02736dab2ba1ec",
     "34480374aded1891a33c",
     "92989f867c37c1b37117",
@@ -141,13 +143,13 @@
     "76c8d242c87424acff59",
     "78b857bba70d72157049",
     "5d4c672a576c24838048",
-    "d052ca2f0b414ef9ca73",
-    "15ccb16ff1d119c5abc1",
     "f644c01aa52b628ff81a",
     "9b764765971a1e33e24d",
     "b18b0e48ec73ef6bbed8",
     "f228499642bffe0d4a72",
     "c77e94b11545ae3d873d",
+    "d052ca2f0b414ef9ca73",
+    "15ccb16ff1d119c5abc1",
     "5b388ff7f9e0890cb83b",
     "10e060722c0b884d3541",
     "9e084f00f5c757a49fee",
