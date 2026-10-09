@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-10-09T07:58:44+00:00"
+    "last_checked_at_utc": "2026-10-09T15:14:36+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -344,6 +344,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "9 Ottobre 2026",
+        "id": "c2b38a50c9cb9366",
+        "title": "Protocollo d’intesa USR E-R– FONDAZIONE ERT _ Disponibilità 2026-27",
+        "url": "https://www.istruzioneer.gov.it/2026/10/09/protocollo-dintesa-usr-e-r-fondazione-ert-_-disponibilita-2026-27/"
+      },
+      {
         "date": "8 Ottobre 2026",
         "id": "8acfa29e9749715d",
         "title": "D.D.G. 2939/2025: GM AM2C – Emilia Romagna – integrazione",
@@ -396,15 +402,10 @@
         "id": "c90c0b313b88d0ab",
         "title": "Elezioni organi collegiali a livello di istituzione scolastica – a.s. 2026-2027",
         "url": "https://www.istruzioneer.gov.it/2026/10/05/elezioni-organi-collegiali-a-livello-di-istituzione-scolastica-a-s-2026-2027/"
-      },
-      {
-        "date": "2 Ottobre 2026 2 Ottobre 2026",
-        "id": "76f7edf685e779aa",
-        "title": "SNV a.s. 2026/27 – Webinar di introduzione all’azione formativa regionale",
-        "url": "https://www.istruzioneer.gov.it/2026/10/02/titolo-snv-a-s-2026-27-webinar-di-introduzione-allazione-formativa-regionale/"
       }
     ],
     "seen_ids": [
+      "c2b38a50c9cb9366",
       "8acfa29e9749715d",
       "b08122800be0aa11",
       "da58b805f18a7828",
