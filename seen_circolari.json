@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-10-12T06:35:57+00:00",
+  "last_checked_at_utc": "2026-10-12T16:02:18+00:00",
   "latest_items": [
     {
       "date": "16/10/2026",
@@ -22,6 +22,27 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "16/10/2026",
+      "id": "ac9db726251a8df74500",
+      "number": "",
+      "title": "2026 12 Ott circ. n.50 Comunicazione Uscita Didattica – Progetto Accoglienza IeFP – Classi Prime e Corso QR Comunicazione Uscita Didattica – Progetto Accoglienza IeFP – Classi Prime e Corso QR",
+      "url": "https://www.convittocorreggio.edu.it/circolare/comunicazione-uscita-didattica-progetto-accoglienza-iefp-classi-prime-e-corso-qr/"
+    },
+    {
+      "date": "16/10/2026",
+      "id": "6901067df33c0d505886",
+      "number": "",
+      "title": "2026 12 Ott circ. n.49 Convocazione NIV Convocazione NIV",
+      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-niv-6/"
+    },
+    {
+      "date": "16/10/2026",
+      "id": "0057bf4952707b0f8947",
+      "number": "",
+      "title": "2026 12 Ott circ. n.48 Questionario di rilevazione del gradimento sulla “settimana corta” – A.S. 2027/2028 Questionario di rilevazione del gradimento sulla \"settimana corta\" – A.S. 2027/2028",
+      "url": "https://www.convittocorreggio.edu.it/circolare/questionario-di-rilevazione-del-gradimento-sulla-settimana-corta-a-s-2027-2028/"
     },
     {
       "date": "16/10/2026",
@@ -74,27 +95,6 @@
     },
     {
       "date": "16/10/2026",
-      "id": "afcc66f4cad1d59fc74e",
-      "number": "",
-      "title": "2026 03 Ott circ. n.38 Orario POLO professionale provvisorio dal 05/10/2026 al 10/10/2026 Orario POLO professionale provvisorio dal 05/10/2026 al 10/10/2026",
-      "url": "https://www.convittocorreggio.edu.it/circolare/orario-polo-professionale-provvisorio-dal-05-10-2026-al-10-10-2026/"
-    },
-    {
-      "date": "16/10/2026",
-      "id": "a8dd5c8e5b7640e22332",
-      "number": "",
-      "title": "2026 03 Ott circ. n.37 Indicazioni operative: espressione di disponibilità e procedura di assegnazione ore alternativa Indicazioni operative per l’espressione di disponibilità e procedura di assegnazione per l'attribuzione delle ore di attività alternativa",
-      "url": "https://www.convittocorreggio.edu.it/circolare/indicazioni-operative-espressione-di-disponibilita-e-procedura-di-assegnazione-ore-alternativa/"
-    },
-    {
-      "date": "16/10/2026",
-      "id": "76c8d242c87424acff59",
-      "number": "",
-      "title": "2026 30 Set circ. n.35 Convocazione commissione elettorale Convocazione commissione elettorale",
-      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-commissione-elettorale-2/"
-    },
-    {
-      "date": "16/10/2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -109,13 +109,6 @@
     },
     {
       "date": "16/10/2026",
-      "id": "b18b0e48ec73ef6bbed8",
-      "number": "",
-      "title": "84",
-      "url": "https://www.convittocorreggio.edu.it/circolare/page/84/"
-    },
-    {
-      "date": "16/10/2026",
       "id": "f228499642bffe0d4a72",
       "number": "",
       "title": "85",
@@ -127,12 +120,22 @@
       "number": "",
       "title": "86",
       "url": "https://www.convittocorreggio.edu.it/circolare/page/86/"
+    },
+    {
+      "date": "16/10/2026",
+      "id": "713de89bccb42c62ac96",
+      "number": "",
+      "title": "87",
+      "url": "https://www.convittocorreggio.edu.it/circolare/page/87/"
     }
   ],
   "seen_ids": [
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "ac9db726251a8df74500",
+    "6901067df33c0d505886",
+    "0057bf4952707b0f8947",
     "5cb538da1d125f69b2a4",
     "e7708b185b8f59c9c548",
     "a5041368d2911991c518",
@@ -140,14 +143,15 @@
     "c6b01b02736dab2ba1ec",
     "34480374aded1891a33c",
     "92989f867c37c1b37117",
+    "f644c01aa52b628ff81a",
+    "9b764765971a1e33e24d",
+    "f228499642bffe0d4a72",
+    "c77e94b11545ae3d873d",
+    "713de89bccb42c62ac96",
     "afcc66f4cad1d59fc74e",
     "a8dd5c8e5b7640e22332",
     "76c8d242c87424acff59",
-    "f644c01aa52b628ff81a",
-    "9b764765971a1e33e24d",
     "b18b0e48ec73ef6bbed8",
-    "f228499642bffe0d4a72",
-    "c77e94b11545ae3d873d",
     "78b857bba70d72157049",
     "5d4c672a576c24838048",
     "d052ca2f0b414ef9ca73",
