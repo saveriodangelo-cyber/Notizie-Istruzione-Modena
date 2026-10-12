@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-10-12T09:06:04+00:00"
+    "last_checked_at_utc": "2026-10-12T19:01:07+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "12 Ottobre 2026",
+        "id": "c855622a6e2c3bfc",
+        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – NONA FASE",
+        "url": "https://re.istruzioneer.gov.it/2026/10/12/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-nona-fase/"
+      },
+      {
         "date": "9 Ottobre 2026 9 Ottobre 2026",
         "id": "f24432d7631a1ff1",
         "title": "Conferimento incarico aggiuntivo di reggenza temporanea presso l’I.I.S. Russell della provincia di Reggio Emilia",
@@ -245,15 +251,10 @@
         "id": "0b9685c3eacaaf86",
         "title": "Part-time personale docente, educativo ed A.T.A. neo assunto T.D. – a.s. 2026/2027",
         "url": "https://re.istruzioneer.gov.it/2026/09/24/part-time-personale-docente-educativo-ed-a-t-a-neo-assunto-t-d-a-s-2026-2027/"
-      },
-      {
-        "date": "22 Settembre 2026",
-        "id": "61e8b26d7c062f3a",
-        "title": "Esiti IV interpello per il reclutamento di personale da inquadrare nel profilo DSGA/FEQ",
-        "url": "https://re.istruzioneer.gov.it/2026/09/22/esiti-iv-interpello-per-il-reclutamento-di-personale-da-inquadrare-nel-profilo-dsga-feq/"
       }
     ],
     "seen_ids": [
+      "c855622a6e2c3bfc",
       "f24432d7631a1ff1",
       "54f3f330d2f61320",
       "777766f438c3b3b1",
@@ -345,6 +346,18 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "12 Ottobre 2026",
+        "id": "23018e82345c3981",
+        "title": "Ruolo – Personale docente a.s. 2026/27 – Nomine giuridiche",
+        "url": "https://www.istruzioneer.gov.it/2026/10/12/ruolo-personale-docente-a-s-2026-27-nomine-giuridiche/"
+      },
+      {
+        "date": "12 Ottobre 2026 12 Ottobre 2026",
+        "id": "b502b861303cc2f1",
+        "title": "SNV a.s. 2026/27–Webinar Introduzione all’azione formativa regionale: materiali",
+        "url": "https://www.istruzioneer.gov.it/2026/10/12/snv-a-s-2026-27-webinar-introduzione-allazione-formativa-regionale-materiali/"
+      },
+      {
         "date": "9 Ottobre 2026",
         "id": "c2b38a50c9cb9366",
         "title": "Protocollo d’intesa USR E-R– FONDAZIONE ERT _ Disponibilità 2026-27",
@@ -391,21 +404,11 @@
         "id": "223a97cb6025e1e0",
         "title": "D.D.G. 2939/2025: GM AM12 – Integrazione",
         "url": "https://www.istruzioneer.gov.it/2026/10/07/d-d-g-2939-2025-gm-am12-integrazione-2/"
-      },
-      {
-        "date": "7 Ottobre 2026",
-        "id": "91687a0b0ba197bb",
-        "title": "D.D.G. 2939/2025: GM AM48 – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/07/d-d-g-2939-2025-gm-am48-integrazione-2/"
-      },
-      {
-        "date": "5 Ottobre 2026",
-        "id": "c90c0b313b88d0ab",
-        "title": "Elezioni organi collegiali a livello di istituzione scolastica – a.s. 2026-2027",
-        "url": "https://www.istruzioneer.gov.it/2026/10/05/elezioni-organi-collegiali-a-livello-di-istituzione-scolastica-a-s-2026-2027/"
       }
     ],
     "seen_ids": [
+      "23018e82345c3981",
+      "b502b861303cc2f1",
       "c2b38a50c9cb9366",
       "8acfa29e9749715d",
       "b08122800be0aa11",
