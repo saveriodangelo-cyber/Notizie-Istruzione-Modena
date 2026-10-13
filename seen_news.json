@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-10-13T08:24:25+00:00"
+    "last_checked_at_utc": "2026-10-13T16:24:44+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "13 Ottobre 2026",
+        "id": "adecaad78722cf23",
+        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – DECIMA FASE",
+        "url": "https://re.istruzioneer.gov.it/2026/10/13/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-decima-fase/"
+      },
+      {
         "date": "12 Ottobre 2026",
         "id": "c855622a6e2c3bfc",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – NONA FASE",
@@ -245,15 +251,10 @@
         "id": "ad864b7c09ff89d3",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – QUARTA FASE",
         "url": "https://re.istruzioneer.gov.it/2026/09/24/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-quarta-fase/"
-      },
-      {
-        "date": "24 Settembre 2026 24 Settembre 2026",
-        "id": "0b9685c3eacaaf86",
-        "title": "Part-time personale docente, educativo ed A.T.A. neo assunto T.D. – a.s. 2026/2027",
-        "url": "https://re.istruzioneer.gov.it/2026/09/24/part-time-personale-docente-educativo-ed-a-t-a-neo-assunto-t-d-a-s-2026-2027/"
       }
     ],
     "seen_ids": [
+      "adecaad78722cf23",
       "c855622a6e2c3bfc",
       "f24432d7631a1ff1",
       "54f3f330d2f61320",
@@ -346,6 +347,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "13 Ottobre 2026",
+        "id": "067899e949e58e01",
+        "title": "Progetto “Un consulente in famiglia” Agenzia delle Entrate a.s. 26-27",
+        "url": "https://www.istruzioneer.gov.it/2026/10/13/progetto-un-consulente-in-famiglia-agenzia-delle-entrate-a-s-26-27/"
+      },
+      {
         "date": "13 Ottobre 2026 13 Ottobre 2026",
         "id": "fd6e5e75331a0b30",
         "title": "D.D.G. 2939/2025 – GM AS2B – Integrazione",
@@ -358,7 +365,7 @@
         "url": "https://www.istruzioneer.gov.it/2026/10/12/ruolo-personale-docente-a-s-2026-27-nomine-giuridiche/"
       },
       {
-        "date": "12 Ottobre 2026 12 Ottobre 2026",
+        "date": "12 Ottobre 2026 13 Ottobre 2026",
         "id": "b502b861303cc2f1",
         "title": "SNV a.s. 2026/27–Webinar Introduzione all’azione formativa regionale: materiali",
         "url": "https://www.istruzioneer.gov.it/2026/10/12/snv-a-s-2026-27-webinar-introduzione-allazione-formativa-regionale-materiali/"
@@ -398,15 +405,10 @@
         "id": "f1dbe9dcd831d2e0",
         "title": "D.D.G. 2939/2025: GM AM2A – Integrazione",
         "url": "https://www.istruzioneer.gov.it/2026/10/07/d-d-g-2939-2025-gm-am2a-integrazione-2/"
-      },
-      {
-        "date": "7 Ottobre 2026",
-        "id": "ff10aabf9af7214d",
-        "title": "D.D.G. 2939/2025: GM ADMM – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/07/d-d-g-2939-2025-gm-admm-integrazione-2/"
       }
     ],
     "seen_ids": [
+      "067899e949e58e01",
       "fd6e5e75331a0b30",
       "23018e82345c3981",
       "b502b861303cc2f1",
