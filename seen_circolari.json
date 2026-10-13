@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-10-13T10:37:58+00:00",
+  "last_checked_at_utc": "2026-10-13T17:47:13+00:00",
   "latest_items": [
     {
       "date": "16/10/2026",
@@ -22,6 +22,13 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "16/10/2026",
+      "id": "7766ceb836420b7a9ebd",
+      "number": "",
+      "title": "2026 13 Ott circ. n.52 Convocazione commissione FSL Convocazione commissione FSL",
+      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-commissione-fsl/"
     },
     {
       "date": "16/10/2026",
@@ -88,13 +95,6 @@
     },
     {
       "date": "16/10/2026",
-      "id": "34480374aded1891a33c",
-      "number": "",
-      "title": "2026 06 Ott circ. n.42 IeFP_Progetto “Divise in circolo” IeFP_Progetto “Divise in circolo”",
-      "url": "https://www.convittocorreggio.edu.it/circolare/iefp_progetto-divise-in-circolo/"
-    },
-    {
-      "date": "16/10/2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -133,6 +133,7 @@
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "7766ceb836420b7a9ebd",
     "dc1b91f49dfeb2c19e83",
     "ac9db726251a8df74500",
     "6901067df33c0d505886",
@@ -142,12 +143,12 @@
     "a5041368d2911991c518",
     "271c7139c4a5306a78dd",
     "c6b01b02736dab2ba1ec",
-    "34480374aded1891a33c",
     "f644c01aa52b628ff81a",
     "9b764765971a1e33e24d",
     "f228499642bffe0d4a72",
     "c77e94b11545ae3d873d",
     "713de89bccb42c62ac96",
+    "34480374aded1891a33c",
     "92989f867c37c1b37117",
     "afcc66f4cad1d59fc74e",
     "a8dd5c8e5b7640e22332",
