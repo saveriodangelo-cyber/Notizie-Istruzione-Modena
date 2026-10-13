@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-10-13T01:17:57+00:00"
+    "last_checked_at_utc": "2026-10-13T08:24:25+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -346,6 +346,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "13 Ottobre 2026 13 Ottobre 2026",
+        "id": "fd6e5e75331a0b30",
+        "title": "D.D.G. 2939/2025 – GM AS2B – Integrazione",
+        "url": "https://www.istruzioneer.gov.it/2026/10/13/d-d-g-2939-2025-concorso-docenti-gm-as2b-integrazione/"
+      },
+      {
         "date": "12 Ottobre 2026",
         "id": "23018e82345c3981",
         "title": "Ruolo – Personale docente a.s. 2026/27 – Nomine giuridiche",
@@ -398,15 +404,10 @@
         "id": "ff10aabf9af7214d",
         "title": "D.D.G. 2939/2025: GM ADMM – Integrazione",
         "url": "https://www.istruzioneer.gov.it/2026/10/07/d-d-g-2939-2025-gm-admm-integrazione-2/"
-      },
-      {
-        "date": "7 Ottobre 2026",
-        "id": "223a97cb6025e1e0",
-        "title": "D.D.G. 2939/2025: GM AM12 – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/07/d-d-g-2939-2025-gm-am12-integrazione-2/"
       }
     ],
     "seen_ids": [
+      "fd6e5e75331a0b30",
       "23018e82345c3981",
       "b502b861303cc2f1",
       "c2b38a50c9cb9366",
