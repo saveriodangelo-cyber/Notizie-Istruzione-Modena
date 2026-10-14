@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-10-14T10:34:34+00:00"
+    "last_checked_at_utc": "2026-10-14T15:28:21+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,18 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "14 Ottobre 2026",
+        "id": "767d7761ffec28b4",
+        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – DODICESIMA FASE",
+        "url": "https://re.istruzioneer.gov.it/2026/10/14/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-dodicesima-fase/"
+      },
+      {
+        "date": "14 Ottobre 2026",
+        "id": "404437dabe6d687a",
+        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – UNDICESIMA FASE",
+        "url": "https://re.istruzioneer.gov.it/2026/10/14/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-undicesima-fase/"
+      },
+      {
         "date": "13 Ottobre 2026",
         "id": "adecaad78722cf23",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – DECIMA FASE",
@@ -239,21 +251,11 @@
         "id": "fb750fdcef9fb7d2",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – QUINTA FASE",
         "url": "https://re.istruzioneer.gov.it/2026/09/29/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-quinta-fase/"
-      },
-      {
-        "date": "29 Settembre 2026",
-        "id": "db8cbb2b5fe83f3b",
-        "title": "Part-time personale docente, educativo ed A.T.A. neo assunto T.D. – a.s. 2026/2027",
-        "url": "https://re.istruzioneer.gov.it/2026/09/29/part-time-personale-docente-educativo-ed-a-t-a-neo-assunto-t-d-a-s-2026-2027-2/"
-      },
-      {
-        "date": "24 Settembre 2026",
-        "id": "ad864b7c09ff89d3",
-        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – QUARTA FASE",
-        "url": "https://re.istruzioneer.gov.it/2026/09/24/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-quarta-fase/"
       }
     ],
     "seen_ids": [
+      "767d7761ffec28b4",
+      "404437dabe6d687a",
       "adecaad78722cf23",
       "c855622a6e2c3bfc",
       "f24432d7631a1ff1",
@@ -347,6 +349,18 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "14 Ottobre 2026",
+        "id": "3775189c01146b44",
+        "title": "Conferenza dei servizi con i Dirigenti Scolastici – Bologna, 11 novembre 2026.",
+        "url": "https://www.istruzioneer.gov.it/2026/10/14/conferenza-dei-servizi-con-i-dirigenti-scolastici-bologna-11-novembre-2026/"
+      },
+      {
+        "date": "14 Ottobre 2026",
+        "id": "bda36714645dc6ef",
+        "title": "Ruolo – Personale docente a.s. 2026/27 – Nomine giuridiche – integrazione",
+        "url": "https://www.istruzioneer.gov.it/2026/10/14/ruolo-personale-docente-a-s-2026-27-nomine-giuridiche-integrazione/"
+      },
+      {
         "date": "13 Ottobre 2026",
         "id": "067899e949e58e01",
         "title": "Progetto “Un consulente in famiglia” Agenzia delle Entrate a.s. 26-27",
@@ -393,21 +407,11 @@
         "id": "da58b805f18a7828",
         "title": "D.D.G. 2939/2025: GM AS48 – Integrazione",
         "url": "https://www.istruzioneer.gov.it/2026/10/07/d-d-g-2939-2025-gm-as48-integrazione-2/"
-      },
-      {
-        "date": "7 Ottobre 2026",
-        "id": "b691a410d698e400",
-        "title": "D.M. 104/2024 – CONCORSO ORDINARIO IRC – MMSS",
-        "url": "https://www.istruzioneer.gov.it/2026/10/07/d-m-104-2024-concorso-ordinario-irc-mmss-3/"
-      },
-      {
-        "date": "7 Ottobre 2026",
-        "id": "f1dbe9dcd831d2e0",
-        "title": "D.D.G. 2939/2025: GM AM2A – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/07/d-d-g-2939-2025-gm-am2a-integrazione-2/"
       }
     ],
     "seen_ids": [
+      "3775189c01146b44",
+      "bda36714645dc6ef",
       "067899e949e58e01",
       "fd6e5e75331a0b30",
       "23018e82345c3981",
