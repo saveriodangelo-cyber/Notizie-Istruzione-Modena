@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-10-16T09:16:08+00:00"
+    "last_checked_at_utc": "2026-10-16T14:12:21+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "16 Ottobre 2026",
+        "id": "277144272a26e4b5",
+        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – FASE ESONERI/SEMIESONERI",
+        "url": "https://re.istruzioneer.gov.it/2026/10/16/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-fase-esoneri-semiesoneri/"
+      },
+      {
         "date": "14 Ottobre 2026",
         "id": "767d7761ffec28b4",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – DODICESIMA FASE",
@@ -245,15 +251,10 @@
         "id": "448f96b8b66f2977",
         "title": "Progetto Studente-atleta di alto livello – A.S. 2026/2027",
         "url": "https://re.istruzioneer.gov.it/2026/09/17/progetto-studente-atleta-di-alto-livello-a-s-2026-2027/"
-      },
-      {
-        "date": "29 Settembre 2026",
-        "id": "fb750fdcef9fb7d2",
-        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – QUINTA FASE",
-        "url": "https://re.istruzioneer.gov.it/2026/09/29/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-quinta-fase/"
       }
     ],
     "seen_ids": [
+      "277144272a26e4b5",
       "767d7761ffec28b4",
       "404437dabe6d687a",
       "adecaad78722cf23",
@@ -349,6 +350,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "16 Ottobre 2026 16 Ottobre 2026",
+        "id": "c8a19d73569c9dda",
+        "title": "D.D.G. 2939/2025: integrazione GM A019 – Friuli-Venezia Giulia",
+        "url": "https://www.istruzioneer.gov.it/2026/10/16/d-d-g-2939-2025-integrazione-gm-a019-friuli-venezia-giulia/"
+      },
+      {
         "date": "14 Ottobre 2026",
         "id": "3775189c01146b44",
         "title": "Conferenza dei servizi con i Dirigenti Scolastici – Bologna, 11 novembre 2026.",
@@ -401,15 +408,10 @@
         "id": "b08122800be0aa11",
         "title": "D.D.G. 2939/2025: GM AS12 – Integrazione",
         "url": "https://www.istruzioneer.gov.it/2026/10/07/d-d-g-2939-2025-gm-as12-integrazione-2/"
-      },
-      {
-        "date": "7 Ottobre 2026",
-        "id": "da58b805f18a7828",
-        "title": "D.D.G. 2939/2025: GM AS48 – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/07/d-d-g-2939-2025-gm-as48-integrazione-2/"
       }
     ],
     "seen_ids": [
+      "c8a19d73569c9dda",
       "3775189c01146b44",
       "bda36714645dc6ef",
       "067899e949e58e01",
