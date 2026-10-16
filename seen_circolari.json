@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-10-16T07:19:20+00:00",
+  "last_checked_at_utc": "2026-10-16T12:31:38+00:00",
   "latest_items": [
     {
       "date": "16/10/2026",
@@ -22,6 +22,13 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "16/10/2026",
+      "id": "dfe4bfcf28b5c340e028",
+      "number": "",
+      "title": "2026 16 Ott circ. n.54 Comunicazione ingressi di entrata ed uscita ed aule per le Elezioni dei Rappresentanti dei Genitori Comunicazione ingressi di entrata ed uscita ed aule per le Elezioni dei Rappresentanti dei Genitori",
+      "url": "https://www.convittocorreggio.edu.it/circolare/comunicazione-ingressi-di-entrata-ed-uscita-ed-aule-per-le-elezioni-dei-rappresentanti-dei-genitori-3/"
     },
     {
       "date": "16/10/2026",
@@ -88,13 +95,6 @@
     },
     {
       "date": "16/10/2026",
-      "id": "c6b01b02736dab2ba1ec",
-      "number": "",
-      "title": "2026 07 Ott circ. n.43 Convocazione della Commissione Orientamento in Entrata Convocazione della Commissione Orientamento in Entrata",
-      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-della-commissione-orientamento-in-entrata/"
-    },
-    {
-      "date": "16/10/2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -133,6 +133,7 @@
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "dfe4bfcf28b5c340e028",
     "7766ceb836420b7a9ebd",
     "dc1b91f49dfeb2c19e83",
     "ac9db726251a8df74500",
@@ -142,12 +143,12 @@
     "e7708b185b8f59c9c548",
     "a5041368d2911991c518",
     "271c7139c4a5306a78dd",
-    "c6b01b02736dab2ba1ec",
     "f644c01aa52b628ff81a",
     "9b764765971a1e33e24d",
     "f228499642bffe0d4a72",
     "c77e94b11545ae3d873d",
     "713de89bccb42c62ac96",
+    "c6b01b02736dab2ba1ec",
     "34480374aded1891a33c",
     "92989f867c37c1b37117",
     "afcc66f4cad1d59fc74e",
