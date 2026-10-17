@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-10-17T08:52:17+00:00",
+  "last_checked_at_utc": "2026-10-17T12:29:43+00:00",
   "latest_items": [
     {
       "date": "16/10/2026",
@@ -22,6 +22,13 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "16/10/2026",
+      "id": "aba0a085fb23f5bf2982",
+      "number": "",
+      "title": "2026 17 Ott circ. n.57 Orario definitivo Orario POLO professionale definitivo",
+      "url": "https://www.convittocorreggio.edu.it/circolare/orario-definitivo/"
     },
     {
       "date": "16/10/2026",
@@ -88,13 +95,6 @@
     },
     {
       "date": "16/10/2026",
-      "id": "a5041368d2911991c518",
-      "number": "",
-      "title": "2026 09 Ott circ. n.45 Convocazione della Commissione Educazione Civica Polo secondaria secondo grado Convocazione della Commissione Educazione Civica Polo secondaria secondo grado",
-      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-della-commissione-educazione-civica-polo-secondaria-secondo-grado/"
-    },
-    {
-      "date": "16/10/2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -133,6 +133,7 @@
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "aba0a085fb23f5bf2982",
     "3f0249aec113a814fefd",
     "dfe4bfcf28b5c340e028",
     "7766ceb836420b7a9ebd",
@@ -142,12 +143,12 @@
     "0057bf4952707b0f8947",
     "5cb538da1d125f69b2a4",
     "e7708b185b8f59c9c548",
-    "a5041368d2911991c518",
     "f644c01aa52b628ff81a",
     "9b764765971a1e33e24d",
     "f228499642bffe0d4a72",
     "c77e94b11545ae3d873d",
     "713de89bccb42c62ac96",
+    "a5041368d2911991c518",
     "271c7139c4a5306a78dd",
     "c6b01b02736dab2ba1ec",
     "34480374aded1891a33c",
