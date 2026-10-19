@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-10-19T11:13:28+00:00"
+    "last_checked_at_utc": "2026-10-19T17:45:02+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "19 Ottobre 2026",
+        "id": "c46a60ba70b789b4",
+        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – SECONDA FASE ESONERI/SEMIESONERI",
+        "url": "https://re.istruzioneer.gov.it/2026/10/19/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-seconda-fase-esoneri-semiesoneri/"
+      },
+      {
         "date": "16 Ottobre 2026",
         "id": "277144272a26e4b5",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – FASE ESONERI/SEMIESONERI",
@@ -245,15 +251,10 @@
         "id": "4b444e1b16d93e60",
         "title": "D.D.G. 2575/2023: GM A028 – Integrazione",
         "url": "https://re.istruzioneer.gov.it/2026/10/01/d-d-g-2575-2023-gm-a028-integrazione/"
-      },
-      {
-        "date": "17 Settembre 2026 30 Settembre 2026",
-        "id": "448f96b8b66f2977",
-        "title": "Progetto Studente-atleta di alto livello – A.S. 2026/2027",
-        "url": "https://re.istruzioneer.gov.it/2026/09/17/progetto-studente-atleta-di-alto-livello-a-s-2026-2027/"
       }
     ],
     "seen_ids": [
+      "c46a60ba70b789b4",
       "277144272a26e4b5",
       "767d7761ffec28b4",
       "404437dabe6d687a",
