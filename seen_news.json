@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-10-19T05:16:45+00:00"
+    "last_checked_at_utc": "2026-10-19T11:13:28+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -350,6 +350,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "19 Ottobre 2026",
+        "id": "58446f4918dfc094",
+        "title": "A.S. 2026/2027 – “Nuovi Giochi della gioventù”. Organizzazione delle attività",
+        "url": "https://www.istruzioneer.gov.it/2026/10/19/a-s-2026-2027-nuovi-giochi-della-gioventu-organizzazione-delle-attivita/"
+      },
+      {
         "date": "16 Ottobre 2026 16 Ottobre 2026",
         "id": "c8a19d73569c9dda",
         "title": "D.D.G. 2939/2025: integrazione GM A019 – Friuli-Venezia Giulia",
@@ -402,15 +408,10 @@
         "id": "8acfa29e9749715d",
         "title": "D.D.G. 2939/2025: GM AM2C – Emilia Romagna – integrazione",
         "url": "https://www.istruzioneer.gov.it/2026/10/08/d-d-g-2939-2025-gm-am2c-emilia-romagna-integrazione-2/"
-      },
-      {
-        "date": "7 Ottobre 2026",
-        "id": "b08122800be0aa11",
-        "title": "D.D.G. 2939/2025: GM AS12 – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/07/d-d-g-2939-2025-gm-as12-integrazione-2/"
       }
     ],
     "seen_ids": [
+      "58446f4918dfc094",
       "c8a19d73569c9dda",
       "3775189c01146b44",
       "bda36714645dc6ef",
