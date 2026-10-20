@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-10-20T06:33:46+00:00"
+    "last_checked_at_utc": "2026-10-20T12:08:58+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "20 Ottobre 2026",
+        "id": "7abb539c69adcd01",
+        "title": "DIRIGENTI SCOLASTICI – AVVISO PUBBLICO DI INTERPELLO – I.C. Kennedy della provincia di Reggio Emilia",
+        "url": "https://re.istruzioneer.gov.it/2026/10/20/dirigenti-scolastici-avviso-pubblico-di-interpello-i-c-kennedy-della-provincia-di-reggio-emilia/"
+      },
+      {
         "date": "19 Ottobre 2026",
         "id": "c46a60ba70b789b4",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – SECONDA FASE ESONERI/SEMIESONERI",
@@ -245,15 +251,10 @@
         "id": "916a5330e1efe793",
         "title": "D.D.G. 2575/2023: GM AS12 – Integrazione",
         "url": "https://re.istruzioneer.gov.it/2026/10/01/d-d-g-2575-2023-gm-as12-integrazione/"
-      },
-      {
-        "date": "1 Ottobre 2026",
-        "id": "4b444e1b16d93e60",
-        "title": "D.D.G. 2575/2023: GM A028 – Integrazione",
-        "url": "https://re.istruzioneer.gov.it/2026/10/01/d-d-g-2575-2023-gm-a028-integrazione/"
       }
     ],
     "seen_ids": [
+      "7abb539c69adcd01",
       "c46a60ba70b789b4",
       "277144272a26e4b5",
       "767d7761ffec28b4",
@@ -351,6 +352,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "20 Ottobre 2026",
+        "id": "cccd03871e56d023",
+        "title": "Ruolo – Personale docente a.s. 2026/27 – Nomine giuridiche",
+        "url": "https://www.istruzioneer.gov.it/2026/10/20/ruolo-personale-docente-a-s-2026-27-nomine-giuridiche-2/"
+      },
+      {
         "date": "19 Ottobre 2026 20 Ottobre 2026",
         "id": "58446f4918dfc094",
         "title": "A.S. 2026/2027 – “Nuovi Giochi della gioventù”. Organizzazione delle attività",
@@ -403,15 +410,10 @@
         "id": "c2b38a50c9cb9366",
         "title": "Protocollo d’intesa USR E-R– FONDAZIONE ERT _ Disponibilità 2026-27",
         "url": "https://www.istruzioneer.gov.it/2026/10/09/protocollo-dintesa-usr-e-r-fondazione-ert-_-disponibilita-2026-27/"
-      },
-      {
-        "date": "8 Ottobre 2026",
-        "id": "8acfa29e9749715d",
-        "title": "D.D.G. 2939/2025: GM AM2C – Emilia Romagna – integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/08/d-d-g-2939-2025-gm-am2c-emilia-romagna-integrazione-2/"
       }
     ],
     "seen_ids": [
+      "cccd03871e56d023",
       "58446f4918dfc094",
       "c8a19d73569c9dda",
       "3775189c01146b44",
