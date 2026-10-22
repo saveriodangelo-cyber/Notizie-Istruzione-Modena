@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-10-22T12:22:38+00:00"
+    "last_checked_at_utc": "2026-10-22T17:36:25+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -353,6 +353,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "22 Ottobre 2026",
+        "id": "a626f7f49ca8d96f",
+        "title": "D.D.G. 2939/2025: integrazione GM A019 FVG – rettifica",
+        "url": "https://www.istruzioneer.gov.it/2026/10/22/d-d-g-2939-2025-integrazione-gm-a019-fvg-rettifica/"
+      },
+      {
         "date": "20 Ottobre 2026",
         "id": "cccd03871e56d023",
         "title": "Ruolo – Personale docente a.s. 2026/27 – Nomine giuridiche",
@@ -405,15 +411,10 @@
         "id": "b502b861303cc2f1",
         "title": "SNV a.s. 2026/27–Webinar Introduzione all’azione formativa regionale: materiali",
         "url": "https://www.istruzioneer.gov.it/2026/10/12/snv-a-s-2026-27-webinar-introduzione-allazione-formativa-regionale-materiali/"
-      },
-      {
-        "date": "9 Ottobre 2026",
-        "id": "c2b38a50c9cb9366",
-        "title": "Protocollo d’intesa USR E-R– FONDAZIONE ERT _ Disponibilità 2026-27",
-        "url": "https://www.istruzioneer.gov.it/2026/10/09/protocollo-dintesa-usr-e-r-fondazione-ert-_-disponibilita-2026-27/"
       }
     ],
     "seen_ids": [
+      "a626f7f49ca8d96f",
       "cccd03871e56d023",
       "58446f4918dfc094",
       "c8a19d73569c9dda",
