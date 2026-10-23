@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-10-23T04:40:11+00:00"
+    "last_checked_at_utc": "2026-10-23T09:59:13+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,36 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "5 Ottobre 2026 23 Ottobre 2026",
+        "id": "06dce3f12fa9422b",
+        "title": "D.D.G. 2575/2023 – GM AM12 e AM2B – integrazione",
+        "url": "https://re.istruzioneer.gov.it/2026/10/05/d-d-g-2575-2023-gm-am12-e-am2b-integrazione/"
+      },
+      {
+        "date": "5 Ottobre 2026 23 Ottobre 2026",
+        "id": "8e6a781916c5d305",
+        "title": "D.D.G. 2939/025 – GM BC02 – integrazione",
+        "url": "https://re.istruzioneer.gov.it/2026/10/05/d-d-g-2939-025-gm-bc02-integrazione/"
+      },
+      {
+        "date": "1 Ottobre 2026 23 Ottobre 2026",
+        "id": "65c104d0e19aa90d",
+        "title": "D.D.G. 2939/025 – GM B022 – AJ56 – AC56 – AB56 – AM2C – integrazione",
+        "url": "https://re.istruzioneer.gov.it/2026/10/01/d-d-g-2939-025-gm-b022-aj56-ac56-ab56-am2c-integrazione/"
+      },
+      {
+        "date": "1 Ottobre 2026 23 Ottobre 2026",
+        "id": "1c74cb3f658d1d19",
+        "title": "DDG2939/025 – PUBBLICAZIONE GM : AS2A – A027 – AS48 – AM01 INTEGRAZIONE",
+        "url": "https://re.istruzioneer.gov.it/2026/10/01/ddg2939-025-pubblicazione-gm-as2a-a027-as48-am01-integrazione/"
+      },
+      {
+        "date": "1 Ottobre 2026 23 Ottobre 2026",
+        "id": "9df0f07e84d3772b",
+        "title": "D.D.G. 2939/2025 PUBBLICAZIONE GM AS12 A011 A013 A046 AM2A AM30 AM48 A050- integrazione",
+        "url": "https://re.istruzioneer.gov.it/2026/10/01/d-d-g-2939-2025-pubblicazione-gm-as12-a011-a013-a046-am2a-am30-am48-a050-integrazione/"
+      },
+      {
         "date": "22 Ottobre 2026",
         "id": "59d3b5d141c15da6",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – TREDICESIMA FASE",
@@ -221,39 +251,14 @@
         "id": "709999654dfee09c",
         "title": "D.D.G. 2938/2025: GM EEEE – Integrazione",
         "url": "https://re.istruzioneer.gov.it/2026/10/01/d-d-g-2938-2025-gm-eeee-integrazione/"
-      },
-      {
-        "date": "1 Ottobre 2026",
-        "id": "5b921199043c7d66",
-        "title": "D.D.G. 2938/2025: GM AAAA – Integrazione",
-        "url": "https://re.istruzioneer.gov.it/2026/10/01/d-d-g-2938-2025-gm-aaaa-integrazione/"
-      },
-      {
-        "date": "1 Ottobre 2026 1 Ottobre 2026",
-        "id": "c890ff66b5b31b15",
-        "title": "D.D.G. 2939/2025: GM ADMM – Integrazione",
-        "url": "https://re.istruzioneer.gov.it/2026/10/01/d-d-g-2939-2025-gm-admm-integrazion/"
-      },
-      {
-        "date": "1 Ottobre 2026",
-        "id": "09f5301a383b3da4",
-        "title": "D.D.G. 2939/2025: GM AM2B – Integrazione",
-        "url": "https://re.istruzioneer.gov.it/2026/10/01/d-d-g-2939-2025-gm-am2b-integrazione/"
-      },
-      {
-        "date": "1 Ottobre 2026",
-        "id": "a08418cb2a3ad804",
-        "title": "D.D.G. 2939/2025: GM ADSS – Integrazione",
-        "url": "https://re.istruzioneer.gov.it/2026/10/01/d-d-g-2939-2025-gm-adss-integrazione/"
-      },
-      {
-        "date": "1 Ottobre 2026",
-        "id": "4c1538bcc39e9e35",
-        "title": "D.D.G. 2939/2025: GM AM12 – Integrazione",
-        "url": "https://re.istruzioneer.gov.it/2026/10/01/d-d-g-2939-2025-gm-am12-integrazione/"
       }
     ],
     "seen_ids": [
+      "06dce3f12fa9422b",
+      "8e6a781916c5d305",
+      "65c104d0e19aa90d",
+      "1c74cb3f658d1d19",
+      "9df0f07e84d3772b",
       "59d3b5d141c15da6",
       "7abb539c69adcd01",
       "c46a60ba70b789b4",
