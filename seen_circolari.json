@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-10-23T05:26:58+00:00",
+  "last_checked_at_utc": "2026-10-23T10:21:58+00:00",
   "latest_items": [
     {
       "date": "27/10/2026",
@@ -22,6 +22,13 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "27/10/2026",
+      "id": "8f8a0119c84860dfa77c",
+      "number": "",
+      "title": "2026 23 Ott circ. n.65 L’Unicobas Scuola & Università indice un’ASSEMBLEA SINDACALE ON-LINE PER IL 28 OTTOBRE 2026 L’Unicobas Scuola & Università indice un’ASSEMBLEA SINDACALE ON-LINE PER IL 28 OTTOBRE 2026 APERTA dalle ore 14:30 alle ore 19:30.",
+      "url": "https://www.convittocorreggio.edu.it/circolare/lunicobas-scuola-universita-indice-unassemblea-sindacale-on-line-per-il-28-ottobre-2026/"
     },
     {
       "date": "27/10/2026",
@@ -88,13 +95,6 @@
     },
     {
       "date": "27/10/2026",
-      "id": "ac9db726251a8df74500",
-      "number": "",
-      "title": "2026 12 Ott circ. n.50 Comunicazione Uscita Didattica – Progetto Accoglienza IeFP – Classi Prime e Corso QR Comunicazione Uscita Didattica – Progetto Accoglienza IeFP – Classi Prime e Corso QR",
-      "url": "https://www.convittocorreggio.edu.it/circolare/comunicazione-uscita-didattica-progetto-accoglienza-iefp-classi-prime-e-corso-qr/"
-    },
-    {
-      "date": "27/10/2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -109,13 +109,6 @@
     },
     {
       "date": "27/10/2026",
-      "id": "f228499642bffe0d4a72",
-      "number": "",
-      "title": "85",
-      "url": "https://www.convittocorreggio.edu.it/circolare/page/85/"
-    },
-    {
-      "date": "27/10/2026",
       "id": "c77e94b11545ae3d873d",
       "number": "",
       "title": "86",
@@ -127,12 +120,20 @@
       "number": "",
       "title": "87",
       "url": "https://www.convittocorreggio.edu.it/circolare/page/87/"
+    },
+    {
+      "date": "27/10/2026",
+      "id": "62855c2d8b498f05956e",
+      "number": "",
+      "title": "88",
+      "url": "https://www.convittocorreggio.edu.it/circolare/page/88/"
     }
   ],
   "seen_ids": [
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "8f8a0119c84860dfa77c",
     "33567693a629ad9e06d5",
     "995fdf7b87a8768c54b9",
     "80351af4b2c1a997fae0",
@@ -142,12 +143,13 @@
     "dfe4bfcf28b5c340e028",
     "7766ceb836420b7a9ebd",
     "dc1b91f49dfeb2c19e83",
-    "ac9db726251a8df74500",
     "f644c01aa52b628ff81a",
     "9b764765971a1e33e24d",
-    "f228499642bffe0d4a72",
     "c77e94b11545ae3d873d",
     "713de89bccb42c62ac96",
+    "62855c2d8b498f05956e",
+    "ac9db726251a8df74500",
+    "f228499642bffe0d4a72",
     "6901067df33c0d505886",
     "0057bf4952707b0f8947",
     "5cb538da1d125f69b2a4",
