@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-10-23T09:59:13+00:00"
+    "last_checked_at_utc": "2026-10-23T14:59:46+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "23 Ottobre 2026",
+        "id": "77a510652aea1438",
+        "title": "Conferimento incarico di reggenza temporanea presso Istituto Comprensivo J. F. Kennedy di Reggio Emilia",
+        "url": "https://re.istruzioneer.gov.it/2026/10/23/conferimento-incarico-di-reggenza-temporanea-presso-istituto-comprensivo-j-f-kennedy-di-reggio-emilia/"
+      },
+      {
         "date": "5 Ottobre 2026 23 Ottobre 2026",
         "id": "06dce3f12fa9422b",
         "title": "D.D.G. 2575/2023 – GM AM12 e AM2B – integrazione",
@@ -245,15 +251,10 @@
         "id": "b47437da7559f233",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – SESTA FASE",
         "url": "https://re.istruzioneer.gov.it/2026/10/02/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-sesta-fase/"
-      },
-      {
-        "date": "1 Ottobre 2026",
-        "id": "709999654dfee09c",
-        "title": "D.D.G. 2938/2025: GM EEEE – Integrazione",
-        "url": "https://re.istruzioneer.gov.it/2026/10/01/d-d-g-2938-2025-gm-eeee-integrazione/"
       }
     ],
     "seen_ids": [
+      "77a510652aea1438",
       "06dce3f12fa9422b",
       "8e6a781916c5d305",
       "65c104d0e19aa90d",
