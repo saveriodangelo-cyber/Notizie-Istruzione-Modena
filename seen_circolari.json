@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-10-26T06:11:57+00:00",
+  "last_checked_at_utc": "2026-10-26T12:58:58+00:00",
   "latest_items": [
     {
       "date": "26/10/2026",
@@ -22,6 +22,20 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "26/10/2026",
+      "id": "e2b592f72a8f91bdefbb",
+      "number": "",
+      "title": "2026 26 Ott circ. n.71 Corso di italiano L2 per studenti NAI con i fondi FAMI Corso di italiano L2 per studenti NAI con i fondi FAMI",
+      "url": "https://www.convittocorreggio.edu.it/circolare/corso-di-italiano-l2-per-studenti-nai-con-i-fondi-fami/"
+    },
+    {
+      "date": "26/10/2026",
+      "id": "ae74bc73b9092fb97463",
+      "number": "",
+      "title": "2026 26 Ott circ. n.70 orientamento in uscita “Start&Move” orientamento in uscita 5C, 5M “Start&Move”",
+      "url": "https://www.convittocorreggio.edu.it/circolare/orientamento-in-uscita-startmove/"
     },
     {
       "date": "26/10/2026",
@@ -81,20 +95,6 @@
     },
     {
       "date": "26/10/2026",
-      "id": "3f0249aec113a814fefd",
-      "number": "",
-      "title": "2026 17 Ott circ. n.56 Formazione interna personale docente Polo – Redazione Argo PFI e ruolo del docente tutor PFI Formazione interna personale docente Polo - Redazione Argo PFI e ruolo del docente tutor PFI",
-      "url": "https://www.convittocorreggio.edu.it/circolare/formazione-interna-personale-docente-polo-redazione-argo-pfi-e-ruolo-del-docente-tutor-pfi-2/"
-    },
-    {
-      "date": "26/10/2026",
-      "id": "dfe4bfcf28b5c340e028",
-      "number": "",
-      "title": "2026 16 Ott circ. n.54 Comunicazione ingressi di entrata ed uscita ed aule per le Elezioni dei Rappresentanti dei Genitori Comunicazione ingressi di entrata ed uscita ed aule per le Elezioni dei Rappresentanti dei Genitori",
-      "url": "https://www.convittocorreggio.edu.it/circolare/comunicazione-ingressi-di-entrata-ed-uscita-ed-aule-per-le-elezioni-dei-rappresentanti-dei-genitori-3/"
-    },
-    {
-      "date": "26/10/2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -133,6 +133,8 @@
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "e2b592f72a8f91bdefbb",
+    "ae74bc73b9092fb97463",
     "beea9d6972c203e49388",
     "bf97b90e0b2c577879e2",
     "8f8a0119c84860dfa77c",
@@ -141,13 +143,13 @@
     "80351af4b2c1a997fae0",
     "7e827b28ad0cc380468b",
     "aba0a085fb23f5bf2982",
-    "3f0249aec113a814fefd",
-    "dfe4bfcf28b5c340e028",
     "f644c01aa52b628ff81a",
     "9b764765971a1e33e24d",
     "c77e94b11545ae3d873d",
     "713de89bccb42c62ac96",
     "62855c2d8b498f05956e",
+    "3f0249aec113a814fefd",
+    "dfe4bfcf28b5c340e028",
     "7766ceb836420b7a9ebd",
     "dc1b91f49dfeb2c19e83",
     "ac9db726251a8df74500",
