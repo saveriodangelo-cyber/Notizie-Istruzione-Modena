@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-10-26T15:07:57+00:00"
+    "last_checked_at_utc": "2026-10-26T20:44:02+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -134,6 +134,12 @@
     "latest_items": [
       {
         "date": "26 Ottobre 2026",
+        "id": "e708e997dd73a3db",
+        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – QUATTORDICESIMA FASE",
+        "url": "https://re.istruzioneer.gov.it/2026/10/26/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-quattordicesima-fase/"
+      },
+      {
+        "date": "26 Ottobre 2026",
         "id": "5e8a5982ea19ef07",
         "title": "Permessi straordinari retribuiti di cui all’art.3 del DPR 23/8/1988, n. 395 riguardanti il diritto allo studio. Anno solare 2027.",
         "url": "https://re.istruzioneer.gov.it/2026/10/26/permessi-straordinari-retribuiti-di-cui-allart-3-del-dpr-23-8-1988-n-395-riguardanti-il-diritto-allo-studio-anno-solare-2027/"
@@ -245,15 +251,10 @@
         "id": "9990c3afb58ac86f",
         "title": "DIRIGENTI SCOLASTICI – AVVISO PUBBLICO DI INTERPELLO – I.I.S. Russell della provincia di Reggio Emilia",
         "url": "https://re.istruzioneer.gov.it/2026/10/07/dirigenti-scolastici-avviso-pubblico-di-interpello-i-i-s-russell-della-provincia-di-reggio-emilia/"
-      },
-      {
-        "date": "6 Ottobre 2026",
-        "id": "cae11bd593fb2661",
-        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – SETTIMA FASE",
-        "url": "https://re.istruzioneer.gov.it/2026/10/06/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-settima-fase/"
       }
     ],
     "seen_ids": [
+      "e708e997dd73a3db",
       "5e8a5982ea19ef07",
       "77a510652aea1438",
       "06dce3f12fa9422b",
