@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-10-26T07:43:50+00:00"
+    "last_checked_at_utc": "2026-10-26T15:07:57+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "26 Ottobre 2026",
+        "id": "5e8a5982ea19ef07",
+        "title": "Permessi straordinari retribuiti di cui all’art.3 del DPR 23/8/1988, n. 395 riguardanti il diritto allo studio. Anno solare 2027.",
+        "url": "https://re.istruzioneer.gov.it/2026/10/26/permessi-straordinari-retribuiti-di-cui-allart-3-del-dpr-23-8-1988-n-395-riguardanti-il-diritto-allo-studio-anno-solare-2027/"
+      },
+      {
         "date": "23 Ottobre 2026",
         "id": "77a510652aea1438",
         "title": "Conferimento incarico di reggenza temporanea presso Istituto Comprensivo J. F. Kennedy di Reggio Emilia",
@@ -245,15 +251,10 @@
         "id": "cae11bd593fb2661",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – SETTIMA FASE",
         "url": "https://re.istruzioneer.gov.it/2026/10/06/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-settima-fase/"
-      },
-      {
-        "date": "2 Ottobre 2026",
-        "id": "b47437da7559f233",
-        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – SESTA FASE",
-        "url": "https://re.istruzioneer.gov.it/2026/10/02/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-sesta-fase/"
       }
     ],
     "seen_ids": [
+      "5e8a5982ea19ef07",
       "77a510652aea1438",
       "06dce3f12fa9422b",
       "8e6a781916c5d305",
