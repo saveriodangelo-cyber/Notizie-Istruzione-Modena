@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-10-27T07:34:24+00:00",
+  "last_checked_at_utc": "2026-10-27T13:31:35+00:00",
   "latest_items": [
     {
       "date": "26/10/2026",
@@ -22,6 +22,27 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "26/10/2026",
+      "id": "c2f421ba209518946e2e",
+      "number": "",
+      "title": "2026 27 Ott circ. n.76 Convocazione commissione IeFP Convocazione commissione IeFP",
+      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-commissione-iefp-2/"
+    },
+    {
+      "date": "26/10/2026",
+      "id": "c28f03d383063df1050d",
+      "number": "",
+      "title": "2026 27 Ott circ. n.75 FSL – Corso formazione tutor FSL FSL – Corso formazione tutor FSL",
+      "url": "https://www.convittocorreggio.edu.it/circolare/fsl-corso-formazione-tutor-fsl/"
+    },
+    {
+      "date": "26/10/2026",
+      "id": "807666df76772d0cc353",
+      "number": "",
+      "title": "2026 27 Ott circ. n.74 IeFP – Riunione Coordinatori per la presentazione della progettazione IeFP IeFP – Riunione Coordinatori per la presentazione della progettazione IeFP",
+      "url": "https://www.convittocorreggio.edu.it/circolare/iefp-riunione-coordinatori-per-la-presentazione-della-progettazione-iefp-3/"
     },
     {
       "date": "26/10/2026",
@@ -74,27 +95,6 @@
     },
     {
       "date": "26/10/2026",
-      "id": "80351af4b2c1a997fae0",
-      "number": "",
-      "title": "2026 20 Ott circ. n.62 Indizione assemblea sindacale in orario di servizio indetta dalla UIL SCUOLA dalle ore 8:00 Alle Indizione assemblea sindacale in orario di servizio indetta dalla UIL SCUOLA del 27/10/2026 - dalle ore 8:00 Alle ore 10:00 – tutto il PERSONALE DOCENTE EDUC",
-      "url": "https://www.convittocorreggio.edu.it/circolare/indizione-assemblea-sindacale-in-orario-di-servizio-indetta-dalla-uil-scuola-dalle-ore-800-alle/"
-    },
-    {
-      "date": "26/10/2026",
-      "id": "7e827b28ad0cc380468b",
-      "number": "",
-      "title": "2026 19 Ott circ. n.58 Indizione assemblea sindacale UIL in orario di servizio indetta dalla UIL SCUOLA dalle ore 8:00 Indizione assemblea sindacale in orario di servizio indetta dalla UIL SCUOLA del 26/10/2026 dalle ore 8:00 Alle ore 10:00 – tutto il PERSONALE ATA.",
-      "url": "https://www.convittocorreggio.edu.it/circolare/indizione-assemblea-sindacale-uil-in-orario-di-servizio-indetta-dalla-uil-scuola-dalle-ore-800/"
-    },
-    {
-      "date": "26/10/2026",
-      "id": "aba0a085fb23f5bf2982",
-      "number": "",
-      "title": "2026 17 Ott circ. n.57 Orario definitivo Orario POLO professionale definitivo",
-      "url": "https://www.convittocorreggio.edu.it/circolare/orario-definitivo/"
-    },
-    {
-      "date": "26/10/2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -133,6 +133,9 @@
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "c2f421ba209518946e2e",
+    "c28f03d383063df1050d",
+    "807666df76772d0cc353",
     "e2b592f72a8f91bdefbb",
     "ae74bc73b9092fb97463",
     "beea9d6972c203e49388",
@@ -140,14 +143,14 @@
     "8f8a0119c84860dfa77c",
     "33567693a629ad9e06d5",
     "995fdf7b87a8768c54b9",
-    "80351af4b2c1a997fae0",
-    "7e827b28ad0cc380468b",
-    "aba0a085fb23f5bf2982",
     "f644c01aa52b628ff81a",
     "9b764765971a1e33e24d",
     "c77e94b11545ae3d873d",
     "713de89bccb42c62ac96",
     "62855c2d8b498f05956e",
+    "80351af4b2c1a997fae0",
+    "7e827b28ad0cc380468b",
+    "aba0a085fb23f5bf2982",
     "3f0249aec113a814fefd",
     "dfe4bfcf28b5c340e028",
     "7766ceb836420b7a9ebd",
