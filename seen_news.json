@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-10-30T01:54:40+00:00"
+    "last_checked_at_utc": "2026-10-30T08:32:25+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -362,6 +362,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "30 Ottobre 2026",
+        "id": "ccf1f6e63d380c35",
+        "title": "Malfunzionamento temporaneo delle linee telefoniche",
+        "url": "https://www.istruzioneer.gov.it/2026/10/30/malfunzionamento-temporaneo-delle-linee-telefoniche/"
+      },
+      {
         "date": "29 Ottobre 2026",
         "id": "5e818c8fd15790ab",
         "title": "Ruolo – Personale docente a.s. 2026/27 – Nomine giuridiche",
@@ -414,15 +420,10 @@
         "id": "35e87ed58db44af5",
         "title": "D.D.G. 2575/2023 – GM AM2B – Integrazione",
         "url": "https://www.istruzioneer.gov.it/2026/10/29/d-d-g-2575-2023-gm-am2b-integrazione-2/"
-      },
-      {
-        "date": "29 Ottobre 2026",
-        "id": "8e21ded9e6235cc1",
-        "title": "D.D.G. 2939/2025 – GM AM12 – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/29/d-d-g-2939-2025-gm-am12-integrazione-3/"
       }
     ],
     "seen_ids": [
+      "ccf1f6e63d380c35",
       "5e818c8fd15790ab",
       "5c36ee70487b9ead",
       "98b929a080001f22",
