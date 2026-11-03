@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-03T10:01:15+00:00"
+    "last_checked_at_utc": "2026-11-03T17:47:27+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -362,9 +362,21 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
-        "date": "30 Ottobre 2026",
-        "id": "ccf1f6e63d380c35",
-        "title": "Malfunzionamento temporaneo delle linee telefoniche",
+        "date": "3 Novembre 2026 3 Novembre 2026",
+        "id": "ac0d6517d87f94d0",
+        "title": "Conferenza dei servizi con i Dirigenti Scolastici–Bologna 11/11/26. Convocazione",
+        "url": "https://www.istruzioneer.gov.it/2026/11/03/conferenza-dei-servizi-con-i-dirigenti-scolastici-bologna-11-11-26-convocazione/"
+      },
+      {
+        "date": "3 Novembre 2026",
+        "id": "74c9e516380382d1",
+        "title": "Nomine a.s. 2026/27: Dispositivo assegnazione sedi – Rettifica",
+        "url": "https://www.istruzioneer.gov.it/2026/11/03/nomine-a-s-2026-27-dispositivo-assegnazione-sedi-rettifica-4/"
+      },
+      {
+        "date": "30 Ottobre 2026 3 Novembre 2026",
+        "id": "82e839886cfd3b8a",
+        "title": "Malfunzionamento temporaneo delle linee telefoniche | Aggiornato",
         "url": "https://www.istruzioneer.gov.it/2026/10/30/malfunzionamento-temporaneo-delle-linee-telefoniche/"
       },
       {
@@ -408,22 +420,12 @@
         "id": "6e6d46cbb2abee9f",
         "title": "D.D.G. 2575/2023 – GM AM12 – Integrazione",
         "url": "https://www.istruzioneer.gov.it/2026/10/29/d-d-g-2575-2023-gm-am12-integrazione-2/"
-      },
-      {
-        "date": "29 Ottobre 2026",
-        "id": "de547451a490d9af",
-        "title": "D.D.G. 2575/2023 – GM AS12 – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/29/d-d-g-2575-2023-gm-as12-integrazione-2/"
-      },
-      {
-        "date": "29 Ottobre 2026",
-        "id": "35e87ed58db44af5",
-        "title": "D.D.G. 2575/2023 – GM AM2B – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/29/d-d-g-2575-2023-gm-am2b-integrazione-2/"
       }
     ],
     "seen_ids": [
-      "ccf1f6e63d380c35",
+      "ac0d6517d87f94d0",
+      "74c9e516380382d1",
+      "82e839886cfd3b8a",
       "5e818c8fd15790ab",
       "5c36ee70487b9ead",
       "98b929a080001f22",
@@ -431,6 +433,7 @@
       "fb2fb394f746e8a3",
       "f66adbb6b1f6f73f",
       "6e6d46cbb2abee9f",
+      "ccf1f6e63d380c35",
       "de547451a490d9af",
       "35e87ed58db44af5",
       "8e21ded9e6235cc1",
