@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-11-03T11:48:53+00:00",
+  "last_checked_at_utc": "2026-11-03T18:40:30+00:00",
   "latest_items": [
     {
       "date": "26/10/2026",
@@ -22,6 +22,13 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "26/10/2026",
+      "id": "5072103835de65d1a837",
+      "number": "",
+      "title": "2026 03 Nov circ. n.86 Consigli di Classe per la valutazione intermedia e partecipazione delle componenti elette Consigli di classe Polo novembre 2026 – integrazione punti Odg e variazione date e/o orario",
+      "url": "https://www.convittocorreggio.edu.it/circolare/consigli-di-classe-per-la-valutazione-intermedia-e-partecipazione-delle-componenti-elette/"
     },
     {
       "date": "26/10/2026",
@@ -88,13 +95,6 @@
     },
     {
       "date": "26/10/2026",
-      "id": "bf97b90e0b2c577879e2",
-      "number": "",
-      "title": "2026 24 Ott circ. n.66 IeFP – Progetto “Antidispersione” per le classi prime del Polo Professionale IeFP – Progetto “Antidispersione” per le classi prime del Polo Professionale",
-      "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-antidispersione-per-le-classi-prime-del-polo-professionale/"
-    },
-    {
-      "date": "26/10/2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -133,6 +133,7 @@
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "5072103835de65d1a837",
     "86b2fc4e0aa4d1c9ae65",
     "0ad4f4632d13ff6b3322",
     "ed0547547562c4f34ed2",
@@ -142,12 +143,12 @@
     "e2b592f72a8f91bdefbb",
     "ae74bc73b9092fb97463",
     "beea9d6972c203e49388",
-    "bf97b90e0b2c577879e2",
     "f644c01aa52b628ff81a",
     "9b764765971a1e33e24d",
     "713de89bccb42c62ac96",
     "62855c2d8b498f05956e",
     "008718c11aef0e33d00e",
+    "bf97b90e0b2c577879e2",
     "8f8a0119c84860dfa77c",
     "c77e94b11545ae3d873d",
     "33567693a629ad9e06d5",
