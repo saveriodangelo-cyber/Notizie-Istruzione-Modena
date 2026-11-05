@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-05T07:21:28+00:00"
+    "last_checked_at_utc": "2026-11-05T15:47:37+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -363,6 +363,18 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "5 Novembre 2026 5 Novembre 2026",
+        "id": "50879695e2317991",
+        "title": "Verso il Piano Triennale dello Sport 2027-2029: ricerca per studenti E-R",
+        "url": "https://www.istruzioneer.gov.it/2026/11/05/verso-il-piano-triennale-dello-sport-2027-2029-ricerca-per-studenti-dellemilia/"
+      },
+      {
+        "date": "5 Novembre 2026",
+        "id": "79d654402b985c05",
+        "title": "P.I. USR-HERA_Piano delle Attività 2026-27: Esito manifestazioni d’interesse",
+        "url": "https://www.istruzioneer.gov.it/2026/11/05/p-i-usr-hera_piano-delle-attivita-2026-27-esito-manifestazioni-dinteresse/"
+      },
+      {
         "date": "3 Novembre 2026 3 Novembre 2026",
         "id": "ac0d6517d87f94d0",
         "title": "Conferenza dei servizi con i Dirigenti Scolastici–Bologna 11/11/26. Convocazione",
@@ -409,21 +421,11 @@
         "id": "fb2fb394f746e8a3",
         "title": "D.D.G. 2939/2025 – GM AM2A – Integrazione",
         "url": "https://www.istruzioneer.gov.it/2026/10/29/d-d-g-2939-2025-gm-am2a-integrazione-3/"
-      },
-      {
-        "date": "29 Ottobre 2026",
-        "id": "f66adbb6b1f6f73f",
-        "title": "D.D.G. 2938/2025 – GM AAAA – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/29/d-d-g-2938-2025-gm-aaaa-integrazione-2/"
-      },
-      {
-        "date": "29 Ottobre 2026 29 Ottobre 2026",
-        "id": "6e6d46cbb2abee9f",
-        "title": "D.D.G. 2575/2023 – GM AM12 – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/29/d-d-g-2575-2023-gm-am12-integrazione-2/"
       }
     ],
     "seen_ids": [
+      "50879695e2317991",
+      "79d654402b985c05",
       "ac0d6517d87f94d0",
       "74c9e516380382d1",
       "82e839886cfd3b8a",
