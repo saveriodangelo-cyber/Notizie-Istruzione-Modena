@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-06T09:49:57+00:00"
+    "last_checked_at_utc": "2026-11-06T17:26:30+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "6 Novembre 2026",
+        "id": "bdab4b32ffcca023",
+        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – DICIASSETTESIMA FASE",
+        "url": "https://re.istruzioneer.gov.it/2026/11/06/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-diciassettesima-fase/"
+      },
+      {
         "date": "4 Novembre 2026",
         "id": "3fb45adf4766a499",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – SEDICESIMA FASE",
@@ -245,15 +251,10 @@
         "id": "f24432d7631a1ff1",
         "title": "Conferimento incarico aggiuntivo di reggenza temporanea presso l’I.I.S. Russell della provincia di Reggio Emilia",
         "url": "https://re.istruzioneer.gov.it/2026/10/09/conferimento-incarico-aggiuntivo-di-reggenza-temporanea-presso-liis-russel-della-provincia-di-reggio-emilia/"
-      },
-      {
-        "date": "8 Ottobre 2026",
-        "id": "54f3f330d2f61320",
-        "title": "Dispositivo n. 12739 del 08/10/2026– Depennamento GaE infanzia e primaria",
-        "url": "https://re.istruzioneer.gov.it/2026/10/08/dispositivo-n-12739-del-08-10-2026-depennamento-gae-infanzia-e-primaria/"
       }
     ],
     "seen_ids": [
+      "bdab4b32ffcca023",
       "3fb45adf4766a499",
       "deff3824c5780f64",
       "e708e997dd73a3db",
@@ -363,6 +364,30 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "6 Novembre 2026",
+        "id": "a84042416210ac00",
+        "title": "D.D.G. 2939/2025: GM A013 Veneto – integrazione",
+        "url": "https://www.istruzioneer.gov.it/2026/11/06/d-d-g-2939-2025-gm-a013-veneto-integrazione/"
+      },
+      {
+        "date": "6 Novembre 2026",
+        "id": "8af755079cd1e72b",
+        "title": "D.D.G. 2575/2023: GM AS12 – Integrazione",
+        "url": "https://www.istruzioneer.gov.it/2026/11/06/d-d-g-2575-2023-gm-as12-integrazione-3/"
+      },
+      {
+        "date": "6 Novembre 2026",
+        "id": "2d3de0901ed0135c",
+        "title": "D.D.G. 2575/2023: GM AM2B – Integrazione",
+        "url": "https://www.istruzioneer.gov.it/2026/11/06/d-d-g-2575-2023-gm-am2b-integrazione-3/"
+      },
+      {
+        "date": "6 Novembre 2026",
+        "id": "b0ae3679ffe5a8d3",
+        "title": "Ruolo – Personale docente a.s. 2026/27 – Nomine giuridiche",
+        "url": "https://www.istruzioneer.gov.it/2026/11/06/ruolo-personale-docente-a-s-2026-27-nomine-giuridiche-4/"
+      },
+      {
         "date": "5 Novembre 2026 5 Novembre 2026",
         "id": "50879695e2317991",
         "title": "Verso il Piano Triennale dello Sport 2027-2029: ricerca per studenti E-R",
@@ -397,33 +422,13 @@
         "id": "5e818c8fd15790ab",
         "title": "Ruolo – Personale docente a.s. 2026/27 – Nomine giuridiche",
         "url": "https://www.istruzioneer.gov.it/2026/10/29/ruolo-personale-docente-a-s-2026-27-nomine-giuridiche-3/"
-      },
-      {
-        "date": "29 Ottobre 2026",
-        "id": "5c36ee70487b9ead",
-        "title": "D.D.G. 2939/2025 – GM AS48 – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/29/d-d-g-2939-2025-gm-as48-integrazione-3/"
-      },
-      {
-        "date": "29 Ottobre 2026",
-        "id": "98b929a080001f22",
-        "title": "D.D.G. 2939/2025 – GM AS2B – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/29/d-d-g-2939-2025-gm-as2b-integrazione/"
-      },
-      {
-        "date": "29 Ottobre 2026",
-        "id": "a1c89be7d65b6866",
-        "title": "D.D.G. 2939/2025: GM AM48 – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/29/d-d-g-2939-2025-gm-am48-integrazione-3/"
-      },
-      {
-        "date": "29 Ottobre 2026",
-        "id": "fb2fb394f746e8a3",
-        "title": "D.D.G. 2939/2025 – GM AM2A – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/10/29/d-d-g-2939-2025-gm-am2a-integrazione-3/"
       }
     ],
     "seen_ids": [
+      "a84042416210ac00",
+      "8af755079cd1e72b",
+      "2d3de0901ed0135c",
+      "b0ae3679ffe5a8d3",
       "50879695e2317991",
       "79d654402b985c05",
       "ac0d6517d87f94d0",
@@ -619,8 +624,7 @@
       "873b2c9654ecbd29",
       "71c4edaa11a73ecf",
       "4838c68560b24ac8",
-      "90d9aa38a8a5f7b9",
-      "6f0d7986c5f41557"
+      "90d9aa38a8a5f7b9"
     ]
   }
 }
