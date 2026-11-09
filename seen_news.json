@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-09T09:40:29+00:00"
+    "last_checked_at_utc": "2026-11-09T20:40:21+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "9 Novembre 2026",
+        "id": "072d83e7ff39d4e9",
+        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – DICIOTTESIMA FASE",
+        "url": "https://re.istruzioneer.gov.it/2026/11/09/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-diciottesima-fase/"
+      },
+      {
         "date": "6 Novembre 2026",
         "id": "bdab4b32ffcca023",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – DICIASSETTESIMA FASE",
@@ -245,15 +251,10 @@
         "id": "c855622a6e2c3bfc",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – NONA FASE",
         "url": "https://re.istruzioneer.gov.it/2026/10/12/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-nona-fase/"
-      },
-      {
-        "date": "9 Ottobre 2026 9 Ottobre 2026",
-        "id": "f24432d7631a1ff1",
-        "title": "Conferimento incarico aggiuntivo di reggenza temporanea presso l’I.I.S. Russell della provincia di Reggio Emilia",
-        "url": "https://re.istruzioneer.gov.it/2026/10/09/conferimento-incarico-aggiuntivo-di-reggenza-temporanea-presso-liis-russel-della-provincia-di-reggio-emilia/"
       }
     ],
     "seen_ids": [
+      "072d83e7ff39d4e9",
       "bdab4b32ffcca023",
       "3fb45adf4766a499",
       "deff3824c5780f64",
@@ -364,6 +365,18 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "9 Novembre 2026",
+        "id": "e302de8824de6b3f",
+        "title": "Esami di maturità 2° ciclo a.s. 2026-2027. Presentazione domande candidati.",
+        "url": "https://www.istruzioneer.gov.it/2026/11/09/esami-di-maturita-2-ciclo-a-s-2026-2027-presentazione-domande-candidati/"
+      },
+      {
+        "date": "9 Novembre 2026 9 Novembre 2026",
+        "id": "6bf6eeb9eb6368f5",
+        "title": "Avviso individuazione scuole per organizzazione eventi Pasta day a.s. 2026/27",
+        "url": "https://www.istruzioneer.gov.it/2026/11/09/campagna-per-la-promozione-della-filiera-della-pasta-a-s-2026-27-avviso-pubblico-per-organizzazione-eventi-pasta-day/"
+      },
+      {
         "date": "8 Novembre 2026 9 Novembre 2026",
         "id": "c344c0bc97cdaa16",
         "title": "Commissione organizzatrice regionale “Nuovi Giochi della Gioventù” a.s. 26/27",
@@ -410,21 +423,11 @@
         "id": "ac0d6517d87f94d0",
         "title": "Conferenza dei servizi con i Dirigenti Scolastici–Bologna 11/11/26. Convocazione",
         "url": "https://www.istruzioneer.gov.it/2026/11/03/conferenza-dei-servizi-con-i-dirigenti-scolastici-bologna-11-11-26-convocazione/"
-      },
-      {
-        "date": "3 Novembre 2026",
-        "id": "74c9e516380382d1",
-        "title": "Nomine a.s. 2026/27: Dispositivo assegnazione sedi – Rettifica",
-        "url": "https://www.istruzioneer.gov.it/2026/11/03/nomine-a-s-2026-27-dispositivo-assegnazione-sedi-rettifica-4/"
-      },
-      {
-        "date": "30 Ottobre 2026 3 Novembre 2026",
-        "id": "82e839886cfd3b8a",
-        "title": "Malfunzionamento temporaneo delle linee telefoniche | Aggiornato",
-        "url": "https://www.istruzioneer.gov.it/2026/10/30/malfunzionamento-temporaneo-delle-linee-telefoniche/"
       }
     ],
     "seen_ids": [
+      "e302de8824de6b3f",
+      "6bf6eeb9eb6368f5",
       "c344c0bc97cdaa16",
       "a84042416210ac00",
       "8af755079cd1e72b",
@@ -622,9 +625,7 @@
       "663cd7c7016660c1",
       "4380402d0162edd5",
       "8d2a007c5e453b38",
-      "873b2c9654ecbd29",
-      "71c4edaa11a73ecf",
-      "4838c68560b24ac8"
+      "873b2c9654ecbd29"
     ]
   }
 }
