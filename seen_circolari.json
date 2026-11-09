@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-11-09T12:06:09+00:00",
+  "last_checked_at_utc": "2026-11-09T22:15:20+00:00",
   "latest_items": [
     {
       "date": "25 novembre 2026",
@@ -22,6 +22,13 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "25 novembre 2026",
+      "id": "c4ad95078f4394dd2225",
+      "number": "",
+      "title": "2026 09 Nov circ. n.96 Progetto salute: Incontri dipendenze classi prime polo Progetto salute: Incontri dipendenze classi prime polo",
+      "url": "https://www.convittocorreggio.edu.it/circolare/progetto-salute-incontri-dipendenze-classi-prime-polo-2/"
     },
     {
       "date": "25 novembre 2026",
@@ -88,13 +95,6 @@
     },
     {
       "date": "25 novembre 2026",
-      "id": "c2f421ba209518946e2e",
-      "number": "",
-      "title": "2026 27 Ott circ. n.76 Convocazione commissione IeFP Convocazione commissione IeFP",
-      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-commissione-iefp-2/"
-    },
-    {
-      "date": "25 novembre 2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -133,6 +133,7 @@
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "c4ad95078f4394dd2225",
     "5b650a7ee3728f2ba08d",
     "6a7e258046c746f4e233",
     "3468a4bb3352b258eb52",
@@ -142,12 +143,12 @@
     "86b2fc4e0aa4d1c9ae65",
     "0ad4f4632d13ff6b3322",
     "ed0547547562c4f34ed2",
-    "c2f421ba209518946e2e",
     "f644c01aa52b628ff81a",
     "9b764765971a1e33e24d",
     "713de89bccb42c62ac96",
     "62855c2d8b498f05956e",
     "008718c11aef0e33d00e",
+    "c2f421ba209518946e2e",
     "c28f03d383063df1050d",
     "807666df76772d0cc353",
     "e2b592f72a8f91bdefbb",
