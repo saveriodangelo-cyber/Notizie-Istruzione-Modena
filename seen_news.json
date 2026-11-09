@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-09T01:56:39+00:00"
+    "last_checked_at_utc": "2026-11-09T09:40:29+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -364,6 +364,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "8 Novembre 2026 9 Novembre 2026",
+        "id": "c344c0bc97cdaa16",
+        "title": "Commissione organizzatrice regionale “Nuovi Giochi della Gioventù” a.s. 26/27",
+        "url": "https://www.istruzioneer.gov.it/2026/11/08/commissione-organizzatrice-regionale-nuovi-giochi-della-gioventu-a-s-26-27/"
+      },
+      {
         "date": "6 Novembre 2026",
         "id": "a84042416210ac00",
         "title": "D.D.G. 2939/2025: GM A013 Veneto – integrazione",
@@ -416,15 +422,10 @@
         "id": "82e839886cfd3b8a",
         "title": "Malfunzionamento temporaneo delle linee telefoniche | Aggiornato",
         "url": "https://www.istruzioneer.gov.it/2026/10/30/malfunzionamento-temporaneo-delle-linee-telefoniche/"
-      },
-      {
-        "date": "29 Ottobre 2026",
-        "id": "5e818c8fd15790ab",
-        "title": "Ruolo – Personale docente a.s. 2026/27 – Nomine giuridiche",
-        "url": "https://www.istruzioneer.gov.it/2026/10/29/ruolo-personale-docente-a-s-2026-27-nomine-giuridiche-3/"
       }
     ],
     "seen_ids": [
+      "c344c0bc97cdaa16",
       "a84042416210ac00",
       "8af755079cd1e72b",
       "2d3de0901ed0135c",
@@ -623,8 +624,7 @@
       "8d2a007c5e453b38",
       "873b2c9654ecbd29",
       "71c4edaa11a73ecf",
-      "4838c68560b24ac8",
-      "90d9aa38a8a5f7b9"
+      "4838c68560b24ac8"
     ]
   }
 }
