@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-11-10T04:08:34+00:00",
+  "last_checked_at_utc": "2026-11-10T12:32:34+00:00",
   "latest_items": [
     {
       "date": "25 novembre 2026",
@@ -22,6 +22,34 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "25 novembre 2026",
+      "id": "cb384c6b74bd25259f1b",
+      "number": "",
+      "title": "2026 10 Nov circ. n.100 Progetto salute: Incontri dipendenze classi prime polo Progetto salute: Incontri dipendenze classi prime polo",
+      "url": "https://www.convittocorreggio.edu.it/circolare/progetto-salute-incontri-dipendenze-classi-prime-polo-3/"
+    },
+    {
+      "date": "25 novembre 2026",
+      "id": "c28d1fc1dfdfe093e8c5",
+      "number": "",
+      "title": "2026 10 Nov circ. n.99 Uscite orientative professionalizzanti CLASSE 2M Uscite orientative professionalizzanti CLASSE 2M",
+      "url": "https://www.convittocorreggio.edu.it/circolare/uscite-orientative-professionalizzanti-classe-2m/"
+    },
+    {
+      "date": "25 novembre 2026",
+      "id": "c95a61e670fbc5a2180d",
+      "number": "",
+      "title": "2026 10 Nov circ. n.95 Convocazione assemblea sindacale in orario di servizio indetta da ANIEF. dalle ore 8 Alle ore 10 Convocazione assemblea sindacale in orario di servizio indetta da ANIEF. dalle ore 8:00 Alle ore 10:00 in presenza Lunedi 23 Novembre.",
+      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-assemblea-sindacale-in-orario-di-servizio-indetta-da-anief-dalle-ore-8-alle-ore-10/"
+    },
+    {
+      "date": "25 novembre 2026",
+      "id": "70221d3f2589e01ab66b",
+      "number": "",
+      "title": "2026 10 Nov circ. n.97 IeFP_Uscite orientative professionalizzanti CLASSE 1M Oggetto: IeFP_Uscite orientative professionalizzanti CLASSE 1M",
+      "url": "https://www.convittocorreggio.edu.it/circolare/iefp_uscite-orientative-professionalizzanti-classe-1m/"
     },
     {
       "date": "25 novembre 2026",
@@ -67,34 +95,6 @@
     },
     {
       "date": "25 novembre 2026",
-      "id": "5072103835de65d1a837",
-      "number": "",
-      "title": "2026 03 Nov circ. n.86 Consigli di Classe per la valutazione intermedia e partecipazione delle componenti elette Consigli di classe Polo novembre 2026 – integrazione punti Odg e variazione date e/o orario",
-      "url": "https://www.convittocorreggio.edu.it/circolare/consigli-di-classe-per-la-valutazione-intermedia-e-partecipazione-delle-componenti-elette/"
-    },
-    {
-      "date": "25 novembre 2026",
-      "id": "86b2fc4e0aa4d1c9ae65",
-      "number": "",
-      "title": "2026 30 Ott circ. n.81 Riunione sicurezza laboratori 5 novembre 2026 Riunione sicurezza laboratori 5 novembre 2026",
-      "url": "https://www.convittocorreggio.edu.it/circolare/riunione-sicurezza-laboratori-5-novembre-2026/"
-    },
-    {
-      "date": "25 novembre 2026",
-      "id": "0ad4f4632d13ff6b3322",
-      "number": "",
-      "title": "2026 29 Ott circ. n.79 Personalizzazione e arricchimento dei percorsi a favore dei giovani che frequentano il percorso IeFP Personalizzazione e arricchimento dei percorsi a favore dei giovani che frequentano il percorso IeFP (Dgr n.1168/2026) – “Corso di pizzeria”.",
-      "url": "https://www.convittocorreggio.edu.it/circolare/personalizzazione-e-arricchimento-dei-percorsi-a-favore-dei-giovani-che-frequentano-il-percorso-iefp-2/"
-    },
-    {
-      "date": "25 novembre 2026",
-      "id": "ed0547547562c4f34ed2",
-      "number": "",
-      "title": "2026 28 Ott circ. n.78 Incontro AVIS classi quinte Polo Professionale Incontro AVIS classi quinte Polo Professionale",
-      "url": "https://www.convittocorreggio.edu.it/circolare/incontro-avis-classi-quinte-polo-professionale-3/"
-    },
-    {
-      "date": "25 novembre 2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -109,13 +109,6 @@
     },
     {
       "date": "25 novembre 2026",
-      "id": "713de89bccb42c62ac96",
-      "number": "",
-      "title": "87",
-      "url": "https://www.convittocorreggio.edu.it/circolare/page/87/"
-    },
-    {
-      "date": "25 novembre 2026",
       "id": "62855c2d8b498f05956e",
       "number": "",
       "title": "88",
@@ -127,27 +120,39 @@
       "number": "",
       "title": "89",
       "url": "https://www.convittocorreggio.edu.it/circolare/page/89/"
+    },
+    {
+      "date": "25 novembre 2026",
+      "id": "cb6c29c03c7bb679eefb",
+      "number": "",
+      "title": "90",
+      "url": "https://www.convittocorreggio.edu.it/circolare/page/90/"
     }
   ],
   "seen_ids": [
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "cb384c6b74bd25259f1b",
+    "c28d1fc1dfdfe093e8c5",
+    "c95a61e670fbc5a2180d",
+    "70221d3f2589e01ab66b",
     "c4ad95078f4394dd2225",
     "5b650a7ee3728f2ba08d",
     "6a7e258046c746f4e233",
     "3468a4bb3352b258eb52",
     "2f0e523db781e39463d1",
     "f1bbfa02c70b6dcf5de7",
+    "f644c01aa52b628ff81a",
+    "9b764765971a1e33e24d",
+    "62855c2d8b498f05956e",
+    "008718c11aef0e33d00e",
+    "cb6c29c03c7bb679eefb",
     "5072103835de65d1a837",
     "86b2fc4e0aa4d1c9ae65",
     "0ad4f4632d13ff6b3322",
     "ed0547547562c4f34ed2",
-    "f644c01aa52b628ff81a",
-    "9b764765971a1e33e24d",
     "713de89bccb42c62ac96",
-    "62855c2d8b498f05956e",
-    "008718c11aef0e33d00e",
     "c2f421ba209518946e2e",
     "c28f03d383063df1050d",
     "807666df76772d0cc353",
