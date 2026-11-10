@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-10T03:29:15+00:00"
+    "last_checked_at_utc": "2026-11-10T11:43:21+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,18 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "10 Novembre 2026",
+        "id": "12df5286a45eff89",
+        "title": "D.D.G. 2575/23 – Integrazione GM AM2B",
+        "url": "https://re.istruzioneer.gov.it/2026/11/10/d-d-g-2575-23-integrazione-gm-am2b/"
+      },
+      {
+        "date": "28 Ottobre 2026 10 Novembre 2026",
+        "id": "b057d41cfffb1633",
+        "title": "Notifica per pubblici proclami: Trib. RE Sez. Lavoro, ricorso ex art. 414 cpc Romeo Alessandro c/ M.I.M. – RG 1242/2026.",
+        "url": "https://re.istruzioneer.gov.it/2026/10/28/notifica-per-pubblici-proclami-trib-re-sez-lavoro-ricorso-ex-art-414-cpc-romeo-alessandro-c-m-i-m-rg-1242-2026/"
+      },
+      {
         "date": "9 Novembre 2026",
         "id": "072d83e7ff39d4e9",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – DICIOTTESIMA FASE",
@@ -239,21 +251,11 @@
         "id": "404437dabe6d687a",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – UNDICESIMA FASE",
         "url": "https://re.istruzioneer.gov.it/2026/10/14/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-undicesima-fase/"
-      },
-      {
-        "date": "13 Ottobre 2026",
-        "id": "adecaad78722cf23",
-        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – DECIMA FASE",
-        "url": "https://re.istruzioneer.gov.it/2026/10/13/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-decima-fase/"
-      },
-      {
-        "date": "12 Ottobre 2026",
-        "id": "c855622a6e2c3bfc",
-        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – NONA FASE",
-        "url": "https://re.istruzioneer.gov.it/2026/10/12/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-nona-fase/"
       }
     ],
     "seen_ids": [
+      "12df5286a45eff89",
+      "b057d41cfffb1633",
       "072d83e7ff39d4e9",
       "bdab4b32ffcca023",
       "3fb45adf4766a499",
@@ -365,6 +367,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "10 Novembre 2026",
+        "id": "051e62b086689fa2",
+        "title": "D.D.G. 2575/2023: GM AM2B – Integrazione",
+        "url": "https://www.istruzioneer.gov.it/2026/11/10/d-d-g-2575-2023-gm-am2b-integrazione-4/"
+      },
+      {
         "date": "9 Novembre 2026",
         "id": "e302de8824de6b3f",
         "title": "Esami di maturità 2° ciclo a.s. 2026-2027. Presentazione domande candidati.",
@@ -417,15 +425,10 @@
         "id": "79d654402b985c05",
         "title": "P.I. USR-HERA_Piano delle Attività 2026-27: Esito manifestazioni d’interesse",
         "url": "https://www.istruzioneer.gov.it/2026/11/05/p-i-usr-hera_piano-delle-attivita-2026-27-esito-manifestazioni-dinteresse/"
-      },
-      {
-        "date": "3 Novembre 2026 3 Novembre 2026",
-        "id": "ac0d6517d87f94d0",
-        "title": "Conferenza dei servizi con i Dirigenti Scolastici–Bologna 11/11/26. Convocazione",
-        "url": "https://www.istruzioneer.gov.it/2026/11/03/conferenza-dei-servizi-con-i-dirigenti-scolastici-bologna-11-11-26-convocazione/"
       }
     ],
     "seen_ids": [
+      "051e62b086689fa2",
       "e302de8824de6b3f",
       "6bf6eeb9eb6368f5",
       "c344c0bc97cdaa16",
@@ -624,8 +627,7 @@
       "356bdbbab7fa53e4",
       "663cd7c7016660c1",
       "4380402d0162edd5",
-      "8d2a007c5e453b38",
-      "873b2c9654ecbd29"
+      "8d2a007c5e453b38"
     ]
   }
 }
