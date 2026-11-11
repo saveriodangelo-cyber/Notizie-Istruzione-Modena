@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-11T15:35:46+00:00"
+    "last_checked_at_utc": "2026-11-11T22:15:46+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -368,6 +368,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "11 Novembre 2026",
+        "id": "6f5823632a00a4ef",
+        "title": "Comunicazione Ministero Istruzione e Merito: domani scuole aperte regolarmente",
+        "url": "https://www.istruzioneer.gov.it/2026/11/11/comunicazione-ministero-istruzione-e-merito-domani-scuole-aperte-regolarmente/"
+      },
+      {
         "date": "10 Novembre 2026",
         "id": "051e62b086689fa2",
         "title": "D.D.G. 2575/2023: GM AM2B – Integrazione",
@@ -420,15 +426,10 @@
         "id": "50879695e2317991",
         "title": "Verso il Piano Triennale dello Sport 2027-2029: ricerca per studenti E-R",
         "url": "https://www.istruzioneer.gov.it/2026/11/05/verso-il-piano-triennale-dello-sport-2027-2029-ricerca-per-studenti-dellemilia/"
-      },
-      {
-        "date": "5 Novembre 2026",
-        "id": "79d654402b985c05",
-        "title": "P.I. USR-HERA_Piano delle Attività 2026-27: Esito manifestazioni d’interesse",
-        "url": "https://www.istruzioneer.gov.it/2026/11/05/p-i-usr-hera_piano-delle-attivita-2026-27-esito-manifestazioni-dinteresse/"
       }
     ],
     "seen_ids": [
+      "6f5823632a00a4ef",
       "051e62b086689fa2",
       "e302de8824de6b3f",
       "6bf6eeb9eb6368f5",
@@ -627,8 +628,7 @@
       "f8631e509b3253ad",
       "356bdbbab7fa53e4",
       "663cd7c7016660c1",
-      "4380402d0162edd5",
-      "8d2a007c5e453b38"
+      "4380402d0162edd5"
     ]
   }
 }
