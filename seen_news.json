@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-11T07:09:48+00:00"
+    "last_checked_at_utc": "2026-11-11T15:35:46+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "11 Novembre 2026",
+        "id": "0ecf3529fac03455",
+        "title": "Esame di Maturità a. s. 2026/27 – Termini e modalità presentazione domande",
+        "url": "https://re.istruzioneer.gov.it/2026/11/11/esame-di-maturita-a-s-2026-27-termini-e-modalita-presentazione-domande/"
+      },
+      {
         "date": "10 Novembre 2026",
         "id": "12df5286a45eff89",
         "title": "D.D.G. 2575/23 – Integrazione GM AM2B",
@@ -245,15 +251,10 @@
         "id": "767d7761ffec28b4",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – DODICESIMA FASE",
         "url": "https://re.istruzioneer.gov.it/2026/10/14/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-dodicesima-fase/"
-      },
-      {
-        "date": "14 Ottobre 2026",
-        "id": "404437dabe6d687a",
-        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – UNDICESIMA FASE",
-        "url": "https://re.istruzioneer.gov.it/2026/10/14/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-undicesima-fase/"
       }
     ],
     "seen_ids": [
+      "0ecf3529fac03455",
       "12df5286a45eff89",
       "b057d41cfffb1633",
       "072d83e7ff39d4e9",
