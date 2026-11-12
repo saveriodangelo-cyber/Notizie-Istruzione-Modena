@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-12T03:19:34+00:00"
+    "last_checked_at_utc": "2026-11-12T11:47:57+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -368,9 +368,15 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
-        "date": "11 Novembre 2026",
-        "id": "6f5823632a00a4ef",
-        "title": "Comunicazione Ministero Istruzione e Merito: domani scuole aperte regolarmente",
+        "date": "12 Novembre 2026",
+        "id": "1107fd5e8429d239",
+        "title": "Comunicazione Ministero Istruzione e Merito: mail massive alle scuole",
+        "url": "https://www.istruzioneer.gov.it/2026/11/12/comunicazione-ministero-istruzione-e-merito-mail-massive-alle-scuole/"
+      },
+      {
+        "date": "11 Novembre 2026 12 Novembre 2026",
+        "id": "f3a8df6e20cd5319",
+        "title": "Comunicazione Ministero Istruzione e Merito: oggi scuole aperte regolarmente",
         "url": "https://www.istruzioneer.gov.it/2026/11/11/comunicazione-ministero-istruzione-e-merito-domani-scuole-aperte-regolarmente/"
       },
       {
@@ -420,16 +426,11 @@
         "id": "b0ae3679ffe5a8d3",
         "title": "Ruolo – Personale docente a.s. 2026/27 – Nomine giuridiche",
         "url": "https://www.istruzioneer.gov.it/2026/11/06/ruolo-personale-docente-a-s-2026-27-nomine-giuridiche-4/"
-      },
-      {
-        "date": "5 Novembre 2026 5 Novembre 2026",
-        "id": "50879695e2317991",
-        "title": "Verso il Piano Triennale dello Sport 2027-2029: ricerca per studenti E-R",
-        "url": "https://www.istruzioneer.gov.it/2026/11/05/verso-il-piano-triennale-dello-sport-2027-2029-ricerca-per-studenti-dellemilia/"
       }
     ],
     "seen_ids": [
-      "6f5823632a00a4ef",
+      "1107fd5e8429d239",
+      "f3a8df6e20cd5319",
       "051e62b086689fa2",
       "e302de8824de6b3f",
       "6bf6eeb9eb6368f5",
@@ -438,6 +439,7 @@
       "8af755079cd1e72b",
       "2d3de0901ed0135c",
       "b0ae3679ffe5a8d3",
+      "6f5823632a00a4ef",
       "50879695e2317991",
       "79d654402b985c05",
       "ac0d6517d87f94d0",
@@ -626,9 +628,7 @@
       "0038bf57c57effb6",
       "b39c9a8a1e976d90",
       "f8631e509b3253ad",
-      "356bdbbab7fa53e4",
-      "663cd7c7016660c1",
-      "4380402d0162edd5"
+      "356bdbbab7fa53e4"
     ]
   }
 }
