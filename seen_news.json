@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-12T11:47:57+00:00"
+    "last_checked_at_utc": "2026-11-12T19:51:10+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "12 Novembre 2026",
+        "id": "78ac0c663bfc654b",
+        "title": "Comunicazione Ministero Istruzione e Merito: mail massive alle scuole",
+        "url": "https://re.istruzioneer.gov.it/2026/11/12/comunicazione-ministero-istruzione-e-merito-mail-massive-alle-scuole/"
+      },
+      {
         "date": "11 Novembre 2026",
         "id": "0ecf3529fac03455",
         "title": "Esame di Maturità a. s. 2026/27 – Termini e modalità presentazione domande",
@@ -245,15 +251,10 @@
         "id": "277144272a26e4b5",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – FASE ESONERI/SEMIESONERI",
         "url": "https://re.istruzioneer.gov.it/2026/10/16/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-fase-esoneri-semiesoneri/"
-      },
-      {
-        "date": "14 Ottobre 2026",
-        "id": "767d7761ffec28b4",
-        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – DODICESIMA FASE",
-        "url": "https://re.istruzioneer.gov.it/2026/10/14/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-dodicesima-fase/"
       }
     ],
     "seen_ids": [
+      "78ac0c663bfc654b",
       "0ecf3529fac03455",
       "12df5286a45eff89",
       "b057d41cfffb1633",
