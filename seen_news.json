@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-13T07:51:55+00:00"
+    "last_checked_at_utc": "2026-11-13T16:14:08+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -369,6 +369,18 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "13 Novembre 2026",
+        "id": "540efb0b7db15742",
+        "title": "Ruolo – Personale docente a.s. 2026/27 – Nomine giuridiche",
+        "url": "https://www.istruzioneer.gov.it/2026/11/13/ruolo-personale-docente-a-s-2026-27-nomine-giuridiche-5/"
+      },
+      {
+        "date": "13 Novembre 2026",
+        "id": "3c05845b9db2118d",
+        "title": "Avviso: servizio di posta elettronica temporaneamente non disponibile",
+        "url": "https://www.istruzioneer.gov.it/2026/11/13/avviso-servizio-di-posta-elettronica-temporaneamente-non-disponibile/"
+      },
+      {
         "date": "12 Novembre 2026",
         "id": "1107fd5e8429d239",
         "title": "Comunicazione Ministero Istruzione e Merito: mail massive alle scuole",
@@ -415,21 +427,11 @@
         "id": "8af755079cd1e72b",
         "title": "D.D.G. 2575/2023: GM AS12 – Integrazione",
         "url": "https://www.istruzioneer.gov.it/2026/11/06/d-d-g-2575-2023-gm-as12-integrazione-3/"
-      },
-      {
-        "date": "6 Novembre 2026",
-        "id": "2d3de0901ed0135c",
-        "title": "D.D.G. 2575/2023: GM AM2B – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/11/06/d-d-g-2575-2023-gm-am2b-integrazione-3/"
-      },
-      {
-        "date": "6 Novembre 2026",
-        "id": "b0ae3679ffe5a8d3",
-        "title": "Ruolo – Personale docente a.s. 2026/27 – Nomine giuridiche",
-        "url": "https://www.istruzioneer.gov.it/2026/11/06/ruolo-personale-docente-a-s-2026-27-nomine-giuridiche-4/"
       }
     ],
     "seen_ids": [
+      "540efb0b7db15742",
+      "3c05845b9db2118d",
       "1107fd5e8429d239",
       "f3a8df6e20cd5319",
       "051e62b086689fa2",
@@ -627,9 +629,7 @@
       "ed9412a78b340703",
       "13b4161566bdc02e",
       "0038bf57c57effb6",
-      "b39c9a8a1e976d90",
-      "f8631e509b3253ad",
-      "356bdbbab7fa53e4"
+      "b39c9a8a1e976d90"
     ]
   }
 }
