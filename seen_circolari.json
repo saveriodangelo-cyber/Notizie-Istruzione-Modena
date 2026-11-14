@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-11-14T03:38:48+00:00",
+  "last_checked_at_utc": "2026-11-14T10:54:21+00:00",
   "latest_items": [
     {
       "date": "17/11/2026",
@@ -22,6 +22,20 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "17/11/2026",
+      "id": "1811b7e676e67e309ec8",
+      "number": "",
+      "title": "2026 14 Nov circ. n.112 Convocazione commissione Eventi allargata a ITP e rappresentanza tecnici di laboratorio Convocazione commissione Eventi allargata a ITP e rappresentanza tecnici di laboratorio",
+      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-commissione-eventi-allargata-a-itp-e-rappresentanza-tecnici-di-laboratorio/"
+    },
+    {
+      "date": "17/11/2026",
+      "id": "85dbdd43e610f9f0f1e5",
+      "number": "",
+      "title": "2026 14 Nov circ. n.114 IeFP, Uscite professionalizzanti per l’accrescimento delle competenze Operatore Agroalimentare IeFP, Uscite professionalizzanti per l’accrescimento delle competenze Operatore Agroalimentare",
+      "url": "https://www.convittocorreggio.edu.it/circolare/iefp-uscite-professionalizzanti-per-laccrescimento-delle-competenze-operatore-agroalimentare/"
     },
     {
       "date": "17/11/2026",
@@ -81,20 +95,6 @@
     },
     {
       "date": "17/11/2026",
-      "id": "70221d3f2589e01ab66b",
-      "number": "",
-      "title": "2026 10 Nov circ. n.97 IeFP_Uscite orientative professionalizzanti CLASSE 1M Oggetto: IeFP_Uscite orientative professionalizzanti CLASSE 1M",
-      "url": "https://www.convittocorreggio.edu.it/circolare/iefp_uscite-orientative-professionalizzanti-classe-1m/"
-    },
-    {
-      "date": "17/11/2026",
-      "id": "c4ad95078f4394dd2225",
-      "number": "",
-      "title": "2026 09 Nov circ. n.96 Progetto salute: Incontri dipendenze classi prime polo Progetto salute: Incontri dipendenze classi prime polo",
-      "url": "https://www.convittocorreggio.edu.it/circolare/progetto-salute-incontri-dipendenze-classi-prime-polo-2/"
-    },
-    {
-      "date": "17/11/2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -133,6 +133,8 @@
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "1811b7e676e67e309ec8",
+    "85dbdd43e610f9f0f1e5",
     "d2b3d7794dde24a4ad4a",
     "5a7a414d89c8852e9758",
     "95e62d78e9cc5851d8ba",
@@ -141,13 +143,13 @@
     "cb384c6b74bd25259f1b",
     "c28d1fc1dfdfe093e8c5",
     "c95a61e670fbc5a2180d",
-    "70221d3f2589e01ab66b",
-    "c4ad95078f4394dd2225",
     "f644c01aa52b628ff81a",
     "9b764765971a1e33e24d",
     "62855c2d8b498f05956e",
     "008718c11aef0e33d00e",
     "cb6c29c03c7bb679eefb",
+    "70221d3f2589e01ab66b",
+    "c4ad95078f4394dd2225",
     "5b650a7ee3728f2ba08d",
     "6a7e258046c746f4e233",
     "3468a4bb3352b258eb52",
