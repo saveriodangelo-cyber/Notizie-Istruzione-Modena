@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-16T07:54:46+00:00"
+    "last_checked_at_utc": "2026-11-16T18:24:46+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,16 +133,22 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "16 Novembre 2026 16 Novembre 2026",
+        "id": "cc878bcd88c7e624",
+        "title": "16 dic 2026 – Educazione Stradale per la Scuola Primaria: “Edustratombola”",
+        "url": "https://re.istruzioneer.gov.it/2026/11/16/16-dic-2026-educazione-stradale-per-la-scuola-primaria-edustratombola/"
+      },
+      {
+        "date": "11 Novembre 2026 16 Novembre 2026",
+        "id": "0ecf3529fac03455",
+        "title": "Esame di Maturità a. s. 2026/27 – Termini e modalità presentazione domande",
+        "url": "https://re.istruzioneer.gov.it/2026/11/11/esame-di-maturita-a-s-2026-27-termini-e-modalita-presentazione-domande/"
+      },
+      {
         "date": "12 Novembre 2026",
         "id": "78ac0c663bfc654b",
         "title": "Comunicazione Ministero Istruzione e Merito: mail massive alle scuole",
         "url": "https://re.istruzioneer.gov.it/2026/11/12/comunicazione-ministero-istruzione-e-merito-mail-massive-alle-scuole/"
-      },
-      {
-        "date": "11 Novembre 2026",
-        "id": "0ecf3529fac03455",
-        "title": "Esame di Maturità a. s. 2026/27 – Termini e modalità presentazione domande",
-        "url": "https://re.istruzioneer.gov.it/2026/11/11/esame-di-maturita-a-s-2026-27-termini-e-modalita-presentazione-domande/"
       },
       {
         "date": "10 Novembre 2026",
@@ -245,17 +251,12 @@
         "id": "c46a60ba70b789b4",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – SECONDA FASE ESONERI/SEMIESONERI",
         "url": "https://re.istruzioneer.gov.it/2026/10/19/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-seconda-fase-esoneri-semiesoneri/"
-      },
-      {
-        "date": "16 Ottobre 2026",
-        "id": "277144272a26e4b5",
-        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – FASE ESONERI/SEMIESONERI",
-        "url": "https://re.istruzioneer.gov.it/2026/10/16/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-fase-esoneri-semiesoneri/"
       }
     ],
     "seen_ids": [
-      "78ac0c663bfc654b",
+      "cc878bcd88c7e624",
       "0ecf3529fac03455",
+      "78ac0c663bfc654b",
       "12df5286a45eff89",
       "b057d41cfffb1633",
       "072d83e7ff39d4e9",
@@ -369,6 +370,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "16 Novembre 2026 16 Novembre 2026",
+        "id": "c0f9be7c68aaea5c",
+        "title": "Verso il Piano Triennale dello Sport 2027-2029: ricerca per studenti E-R",
+        "url": "https://www.istruzioneer.gov.it/2026/11/16/verso-il-piano-triennale-dello-sport-2027-2029-ricerca-per-studenti-dellemilia/"
+      },
+      {
         "date": "13 Novembre 2026",
         "id": "540efb0b7db15742",
         "title": "Ruolo – Personale docente a.s. 2026/27 – Nomine giuridiche",
@@ -421,15 +428,10 @@
         "id": "a84042416210ac00",
         "title": "D.D.G. 2939/2025: GM A013 Veneto – integrazione",
         "url": "https://www.istruzioneer.gov.it/2026/11/06/d-d-g-2939-2025-gm-a013-veneto-integrazione/"
-      },
-      {
-        "date": "6 Novembre 2026",
-        "id": "8af755079cd1e72b",
-        "title": "D.D.G. 2575/2023: GM AS12 – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/11/06/d-d-g-2575-2023-gm-as12-integrazione-3/"
       }
     ],
     "seen_ids": [
+      "c0f9be7c68aaea5c",
       "540efb0b7db15742",
       "3c05845b9db2118d",
       "1107fd5e8429d239",
@@ -628,8 +630,7 @@
       "b25343f70bbeeb09",
       "ed9412a78b340703",
       "13b4161566bdc02e",
-      "0038bf57c57effb6",
-      "b39c9a8a1e976d90"
+      "0038bf57c57effb6"
     ]
   }
 }
