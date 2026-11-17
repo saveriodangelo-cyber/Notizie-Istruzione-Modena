@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-17T10:38:41+00:00"
+    "last_checked_at_utc": "2026-11-17T19:46:46+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -370,6 +370,18 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "17 Novembre 2026",
+        "id": "59a4ac93a4746502",
+        "title": "Formazione Dirigenti Scolastici a.s. 2026-27 “M.I.E.L.E. 4” – iscrizioni",
+        "url": "https://www.istruzioneer.gov.it/2026/11/17/formazione-dirigenti-scolastici-a-s-2026-27-m-i-e-l-e-4-iscrizioni/"
+      },
+      {
+        "date": "17 Novembre 2026",
+        "id": "48920175863d9de1",
+        "title": "“Un consulente in famiglia” – FSL con Agenzia delle Entrate a.s. 2026-27_Esiti",
+        "url": "https://www.istruzioneer.gov.it/2026/11/17/un-consulente-in-famiglia-fsl-con-agenzia-delle-entrate-a-s-2026-27_esiti/"
+      },
+      {
         "date": "16 Novembre 2026 16 Novembre 2026",
         "id": "c0f9be7c68aaea5c",
         "title": "Verso il Piano Triennale dello Sport 2027-2029: ricerca per studenti E-R",
@@ -416,21 +428,11 @@
         "id": "6bf6eeb9eb6368f5",
         "title": "Avviso individuazione scuole per organizzazione eventi Pasta day a.s. 2026/27",
         "url": "https://www.istruzioneer.gov.it/2026/11/09/campagna-per-la-promozione-della-filiera-della-pasta-a-s-2026-27-avviso-pubblico-per-organizzazione-eventi-pasta-day/"
-      },
-      {
-        "date": "8 Novembre 2026 9 Novembre 2026",
-        "id": "c344c0bc97cdaa16",
-        "title": "Commissione organizzatrice regionale “Nuovi Giochi della Gioventù” a.s. 26/27",
-        "url": "https://www.istruzioneer.gov.it/2026/11/08/commissione-organizzatrice-regionale-nuovi-giochi-della-gioventu-a-s-26-27/"
-      },
-      {
-        "date": "6 Novembre 2026",
-        "id": "a84042416210ac00",
-        "title": "D.D.G. 2939/2025: GM A013 Veneto – integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/11/06/d-d-g-2939-2025-gm-a013-veneto-integrazione/"
       }
     ],
     "seen_ids": [
+      "59a4ac93a4746502",
+      "48920175863d9de1",
       "c0f9be7c68aaea5c",
       "540efb0b7db15742",
       "3c05845b9db2118d",
@@ -628,9 +630,7 @@
       "54e0c079c731fd83",
       "ddd728ef1bd40ada",
       "b25343f70bbeeb09",
-      "ed9412a78b340703",
-      "13b4161566bdc02e",
-      "0038bf57c57effb6"
+      "ed9412a78b340703"
     ]
   }
 }
