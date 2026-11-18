@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-18T02:22:28+00:00"
+    "last_checked_at_utc": "2026-11-18T10:40:52+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -370,6 +370,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "18 Novembre 2026",
+        "id": "35340d25f2e1de0c",
+        "title": "Avviso procedura per il conferimento di incarico dirigenziale non generale",
+        "url": "https://www.istruzioneer.gov.it/2026/11/18/avviso-procedura-per-il-conferimento-di-incarico-dirigenziale-non-generale-30/"
+      },
+      {
         "date": "17 Novembre 2026",
         "id": "59a4ac93a4746502",
         "title": "Formazione Dirigenti Scolastici a.s. 2026-27 “M.I.E.L.E. 4” – iscrizioni",
@@ -422,15 +428,10 @@
         "id": "e302de8824de6b3f",
         "title": "Esami di maturità 2° ciclo a.s. 2026-2027. Presentazione domande candidati.",
         "url": "https://www.istruzioneer.gov.it/2026/11/09/esami-di-maturita-2-ciclo-a-s-2026-2027-presentazione-domande-candidati/"
-      },
-      {
-        "date": "9 Novembre 2026 9 Novembre 2026",
-        "id": "6bf6eeb9eb6368f5",
-        "title": "Avviso individuazione scuole per organizzazione eventi Pasta day a.s. 2026/27",
-        "url": "https://www.istruzioneer.gov.it/2026/11/09/campagna-per-la-promozione-della-filiera-della-pasta-a-s-2026-27-avviso-pubblico-per-organizzazione-eventi-pasta-day/"
       }
     ],
     "seen_ids": [
+      "35340d25f2e1de0c",
       "59a4ac93a4746502",
       "48920175863d9de1",
       "c0f9be7c68aaea5c",
@@ -629,8 +630,7 @@
       "1fa8d241075bef31",
       "54e0c079c731fd83",
       "ddd728ef1bd40ada",
-      "b25343f70bbeeb09",
-      "ed9412a78b340703"
+      "b25343f70bbeeb09"
     ]
   }
 }
