@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-18T10:40:52+00:00"
+    "last_checked_at_utc": "2026-11-18T19:22:38+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "18 Novembre 2026",
+        "id": "04fd398fb9f3fa96",
+        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – DICIANNOVESIMA FASE",
+        "url": "https://re.istruzioneer.gov.it/2026/11/18/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-diciannovesima-fase/"
+      },
+      {
         "date": "16 Novembre 2026 16 Novembre 2026",
         "id": "cc878bcd88c7e624",
         "title": "16 dic 2026 – Educazione Stradale per la Scuola Primaria: “Edustratombola”",
@@ -245,15 +251,10 @@
         "id": "7abb539c69adcd01",
         "title": "DIRIGENTI SCOLASTICI – AVVISO PUBBLICO DI INTERPELLO – I.C. Kennedy della provincia di Reggio Emilia",
         "url": "https://re.istruzioneer.gov.it/2026/10/20/dirigenti-scolastici-avviso-pubblico-di-interpello-i-c-kennedy-della-provincia-di-reggio-emilia/"
-      },
-      {
-        "date": "19 Ottobre 2026",
-        "id": "c46a60ba70b789b4",
-        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – SECONDA FASE ESONERI/SEMIESONERI",
-        "url": "https://re.istruzioneer.gov.it/2026/10/19/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-seconda-fase-esoneri-semiesoneri/"
       }
     ],
     "seen_ids": [
+      "04fd398fb9f3fa96",
       "cc878bcd88c7e624",
       "0ecf3529fac03455",
       "78ac0c663bfc654b",
