@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-11-19T08:47:46+00:00",
+  "last_checked_at_utc": "2026-11-19T17:43:29+00:00",
   "latest_items": [
     {
       "date": "17/11/2026",
@@ -22,6 +22,13 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "17/11/2026",
+      "id": "b95001e5bb25de726bb4",
+      "number": "",
+      "title": "2026 19 Nov circ. n.128 IeFP_CLASSE 4QR_Uscita professionalizzante in cantina Benedetti La Villa in Valpolicella IeFP_CLASSE 4QR_Uscita professionalizzante in cantina Benedetti La Villa in Valpolicella",
+      "url": "https://www.convittocorreggio.edu.it/circolare/iefp_classe-4qr_uscita-professionalizzante-in-cantina-benedetti-la-villa-in-valpolicella/"
     },
     {
       "date": "17/11/2026",
@@ -88,13 +95,6 @@
     },
     {
       "date": "17/11/2026",
-      "id": "651bd7c2888bf547e88d",
-      "number": "",
-      "title": "2026 10 Nov circ. n.102 SIAN e NAS salgono in cattedra – prevenzione e tutela dei consumatori. SIAN e NAS salgono in cattedra - prevenzione e tutela dei consumatori.",
-      "url": "https://www.convittocorreggio.edu.it/circolare/sian-e-nas-salgono-in-cattedra-prevenzione-e-tutela-dei-consumatori/"
-    },
-    {
-      "date": "17/11/2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -133,6 +133,7 @@
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "b95001e5bb25de726bb4",
     "9e365a8c23cf1b79edae",
     "7390029d4506da33dd30",
     "857ca7ddcfe670e0c2b0",
@@ -142,12 +143,12 @@
     "d2b3d7794dde24a4ad4a",
     "5a7a414d89c8852e9758",
     "95e62d78e9cc5851d8ba",
-    "651bd7c2888bf547e88d",
     "f644c01aa52b628ff81a",
     "9b764765971a1e33e24d",
     "008718c11aef0e33d00e",
     "cb6c29c03c7bb679eefb",
     "16e00da5b31e521496e7",
+    "651bd7c2888bf547e88d",
     "12f81c102ec7b8791ca8",
     "cb384c6b74bd25259f1b",
     "c28d1fc1dfdfe093e8c5",
