@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-19T09:28:17+00:00"
+    "last_checked_at_utc": "2026-11-19T18:38:16+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -371,6 +371,24 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "19 Novembre 2026",
+        "id": "2e985716ab6b8fbe",
+        "title": "Servizio di supporto psicologico “AscoltaMI”. Comunicazioni",
+        "url": "https://www.istruzioneer.gov.it/2026/11/19/servizio-di-supporto-psicologico-ascoltami-comunicazioni/"
+      },
+      {
+        "date": "19 Novembre 2026",
+        "id": "3bb60738f1b35694",
+        "title": "Avviso pubblico – selezione di scuole statali per gestione servizio “AscoltaMI”",
+        "url": "https://www.istruzioneer.gov.it/2026/11/19/avviso-pubblico-selezione-di-scuole-statali-per-gestione-servizio-ascoltami/"
+      },
+      {
+        "date": "19 Novembre 2026 19 Novembre 2026",
+        "id": "fa9b6e46ea7e3128",
+        "title": "“Nuovi Giochi della gioventù” a.s. 2026/27: chiusura preadesioni",
+        "url": "https://www.istruzioneer.gov.it/2026/11/19/nuovi-giochi-della-gioventu-a-s-2026-27-data-di-chiusura-per-le-preadesioni/"
+      },
+      {
         "date": "18 Novembre 2026",
         "id": "35340d25f2e1de0c",
         "title": "Avviso procedura per il conferimento di incarico dirigenziale non generale",
@@ -411,27 +429,12 @@
         "id": "1107fd5e8429d239",
         "title": "Comunicazione Ministero Istruzione e Merito: mail massive alle scuole",
         "url": "https://www.istruzioneer.gov.it/2026/11/12/comunicazione-ministero-istruzione-e-merito-mail-massive-alle-scuole/"
-      },
-      {
-        "date": "11 Novembre 2026 12 Novembre 2026",
-        "id": "f3a8df6e20cd5319",
-        "title": "Comunicazione Ministero Istruzione e Merito: oggi scuole aperte regolarmente",
-        "url": "https://www.istruzioneer.gov.it/2026/11/11/comunicazione-ministero-istruzione-e-merito-domani-scuole-aperte-regolarmente/"
-      },
-      {
-        "date": "10 Novembre 2026",
-        "id": "051e62b086689fa2",
-        "title": "D.D.G. 2575/2023: GM AM2B – Integrazione",
-        "url": "https://www.istruzioneer.gov.it/2026/11/10/d-d-g-2575-2023-gm-am2b-integrazione-4/"
-      },
-      {
-        "date": "9 Novembre 2026",
-        "id": "e302de8824de6b3f",
-        "title": "Esami di maturità 2° ciclo a.s. 2026-2027. Presentazione domande candidati.",
-        "url": "https://www.istruzioneer.gov.it/2026/11/09/esami-di-maturita-2-ciclo-a-s-2026-2027-presentazione-domande-candidati/"
       }
     ],
     "seen_ids": [
+      "2e985716ab6b8fbe",
+      "3bb60738f1b35694",
+      "fa9b6e46ea7e3128",
       "35340d25f2e1de0c",
       "59a4ac93a4746502",
       "48920175863d9de1",
@@ -628,10 +631,7 @@
       "b719a11bab9caf27",
       "61ac4eea5802362e",
       "ba8c6e22435b3a28",
-      "1fa8d241075bef31",
-      "54e0c079c731fd83",
-      "ddd728ef1bd40ada",
-      "b25343f70bbeeb09"
+      "1fa8d241075bef31"
     ]
   }
 }
