@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-11-21T10:02:03+00:00",
+  "last_checked_at_utc": "2026-11-21T17:19:21+00:00",
   "latest_items": [
     {
       "date": "17/11/2026",
@@ -22,6 +22,13 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "17/11/2026",
+      "id": "b1e5377667043ecd1cc7",
+      "number": "",
+      "title": "2026 21 Nov circ. n.133 Convocazione Commissione Mensa Convocazione Commissione Mensa - giovedì 10 dicembre",
+      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-commissione-mensa/"
     },
     {
       "date": "17/11/2026",
@@ -88,13 +95,6 @@
     },
     {
       "date": "17/11/2026",
-      "id": "95e62d78e9cc5851d8ba",
-      "number": "",
-      "title": "2026 12 Nov circ. n.110 Proclamazione sciopero per l’intera giornata di Venerdi’ 20 Novembre 2026. Proclamazione sciopero per l’intera giornata di Venerdi’ 20 Novembre 2026 per tutto il personale del Comparto Istruzione e Ricerca - https://crusc-gepas.perlapa",
-      "url": "https://www.convittocorreggio.edu.it/circolare/proclamazione-sciopero-per-lintera-giornata-di-venerdi-20-novembre-2026/"
-    },
-    {
-      "date": "17/11/2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -133,6 +133,7 @@
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "b1e5377667043ecd1cc7",
     "b95001e5bb25de726bb4",
     "9e365a8c23cf1b79edae",
     "7390029d4506da33dd30",
@@ -142,12 +143,12 @@
     "85dbdd43e610f9f0f1e5",
     "d2b3d7794dde24a4ad4a",
     "5a7a414d89c8852e9758",
-    "95e62d78e9cc5851d8ba",
     "f644c01aa52b628ff81a",
     "9b764765971a1e33e24d",
     "008718c11aef0e33d00e",
     "cb6c29c03c7bb679eefb",
     "16e00da5b31e521496e7",
+    "95e62d78e9cc5851d8ba",
     "651bd7c2888bf547e88d",
     "12f81c102ec7b8791ca8",
     "cb384c6b74bd25259f1b",
