@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-23T03:04:58+00:00"
+    "last_checked_at_utc": "2026-11-23T12:25:00+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -371,6 +371,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "23 Novembre 2026 23 Novembre 2026",
+        "id": "fe96a54b37a9d54c",
+        "title": "Giornata della Trasparenza dell’USR Emilia-Romagna 2026",
+        "url": "https://www.istruzioneer.gov.it/2026/11/23/giornata-della-trasparenza-dellusr-emilia-romagna-2026/"
+      },
+      {
         "date": "20 Novembre 2026 20 Novembre 2026",
         "id": "e9b763b9fdca1aef",
         "title": "Progetto “Prima che accada – Diamo voce alla Generazione Prevenzione”",
@@ -423,15 +429,10 @@
         "id": "540efb0b7db15742",
         "title": "Ruolo – Personale docente a.s. 2026/27 – Nomine giuridiche",
         "url": "https://www.istruzioneer.gov.it/2026/11/13/ruolo-personale-docente-a-s-2026-27-nomine-giuridiche-5/"
-      },
-      {
-        "date": "13 Novembre 2026",
-        "id": "3c05845b9db2118d",
-        "title": "Avviso: servizio di posta elettronica temporaneamente non disponibile",
-        "url": "https://www.istruzioneer.gov.it/2026/11/13/avviso-servizio-di-posta-elettronica-temporaneamente-non-disponibile/"
       }
     ],
     "seen_ids": [
+      "fe96a54b37a9d54c",
       "e9b763b9fdca1aef",
       "2e985716ab6b8fbe",
       "3bb60738f1b35694",
@@ -630,8 +631,7 @@
       "fc41710358e01c7a",
       "be2dbb666951b212",
       "b719a11bab9caf27",
-      "61ac4eea5802362e",
-      "ba8c6e22435b3a28"
+      "61ac4eea5802362e"
     ]
   }
 }
