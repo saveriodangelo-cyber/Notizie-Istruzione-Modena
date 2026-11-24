@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-24T10:23:42+00:00"
+    "last_checked_at_utc": "2026-11-24T20:51:37+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -371,6 +371,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "24 Novembre 2026",
+        "id": "05ba939354fe9a5b",
+        "title": "Provvidenze concesse nel 2026 per eventi anno 2025",
+        "url": "https://www.istruzioneer.gov.it/2026/11/24/provvidenze-concesse-nel-2026-per-eventi-anno-2025/"
+      },
+      {
         "date": "23 Novembre 2026 23 Novembre 2026",
         "id": "fe96a54b37a9d54c",
         "title": "Giornata della Trasparenza dell’USR Emilia-Romagna 2026",
@@ -423,15 +429,10 @@
         "id": "c0f9be7c68aaea5c",
         "title": "Verso il Piano Triennale dello Sport 2027-2029: ricerca per studenti E-R",
         "url": "https://www.istruzioneer.gov.it/2026/11/16/verso-il-piano-triennale-dello-sport-2027-2029-ricerca-per-studenti-dellemilia/"
-      },
-      {
-        "date": "13 Novembre 2026",
-        "id": "540efb0b7db15742",
-        "title": "Ruolo – Personale docente a.s. 2026/27 – Nomine giuridiche",
-        "url": "https://www.istruzioneer.gov.it/2026/11/13/ruolo-personale-docente-a-s-2026-27-nomine-giuridiche-5/"
       }
     ],
     "seen_ids": [
+      "05ba939354fe9a5b",
       "fe96a54b37a9d54c",
       "e9b763b9fdca1aef",
       "2e985716ab6b8fbe",
@@ -630,8 +631,7 @@
       "8d912e6539b7aad4",
       "fc41710358e01c7a",
       "be2dbb666951b212",
-      "b719a11bab9caf27",
-      "61ac4eea5802362e"
+      "b719a11bab9caf27"
     ]
   }
 }
