@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-11-24T09:40:47+00:00",
+  "last_checked_at_utc": "2026-11-24T20:20:24+00:00",
   "latest_items": [
     {
       "date": "10 dicembre 2026",
@@ -22,6 +22,27 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "10 dicembre 2026",
+      "id": "b3c9a420d9ca2dbeeef2",
+      "number": "",
+      "title": "2026 24 Nov circ. n.136 Convocazione Dipartimenti Assi culturali Convocazione Dipartimenti Assi culturali",
+      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-dipartimenti-assi-culturali/"
+    },
+    {
+      "date": "10 dicembre 2026",
+      "id": "dcae3ec9335b73c4848f",
+      "number": "",
+      "title": "2026 24 Nov circ. n.140 Convocazione commissione e tutor FSL Convocazione commissione e tutor FSL",
+      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-commissione-e-tutor-fsl/"
+    },
+    {
+      "date": "10 dicembre 2026",
+      "id": "4d1763075c34a9b7baae",
+      "number": "",
+      "title": "2026 24 Nov circ. n.139 Orari di ingresso, ritardi, giustificazioni e uscite. Orari di ingresso, ritardi, giustificazioni e uscite.",
+      "url": "https://www.convittocorreggio.edu.it/circolare/orari-di-ingresso-ritardi-giustificazioni-e-uscite/"
     },
     {
       "date": "10 dicembre 2026",
@@ -74,27 +95,6 @@
     },
     {
       "date": "10 dicembre 2026",
-      "id": "857ca7ddcfe670e0c2b0",
-      "number": "",
-      "title": "2026 17 Nov circ. n.121 Convocazione della riunione di insediamento della Commissione Inclusione – Martedì 24 novembre 2026 Convocazione della riunione di insediamento della Commissione Inclusione – Martedì 24 novembre 2026",
-      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-della-riunione-di-insediamento-della-commissione-inclusione-martedi-24-novembre-2026/"
-    },
-    {
-      "date": "10 dicembre 2026",
-      "id": "fbc4d115e49a2c70960f",
-      "number": "",
-      "title": "2026 14 Nov circ. n.117 Convocazione assemblea sindacale in orario di servizio indetta dalla cgil. Convocazione assemblea sindacale in orario di servizio indetta dalla cgil. dalle ore 8:00 Alle ore 11:00 ONLINE.",
-      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-assemblea-sindacale-in-orario-di-servizio-indetta-dalla-cgil-2/"
-    },
-    {
-      "date": "10 dicembre 2026",
-      "id": "1811b7e676e67e309ec8",
-      "number": "",
-      "title": "2026 14 Nov circ. n.112 Convocazione commissione Eventi allargata a ITP e rappresentanza tecnici di laboratorio Convocazione commissione Eventi allargata a ITP e rappresentanza tecnici di laboratorio",
-      "url": "https://www.convittocorreggio.edu.it/circolare/convocazione-commissione-eventi-allargata-a-itp-e-rappresentanza-tecnici-di-laboratorio/"
-    },
-    {
-      "date": "10 dicembre 2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -109,13 +109,6 @@
     },
     {
       "date": "10 dicembre 2026",
-      "id": "008718c11aef0e33d00e",
-      "number": "",
-      "title": "89",
-      "url": "https://www.convittocorreggio.edu.it/circolare/page/89/"
-    },
-    {
-      "date": "10 dicembre 2026",
       "id": "cb6c29c03c7bb679eefb",
       "number": "",
       "title": "90",
@@ -127,12 +120,22 @@
       "number": "",
       "title": "91",
       "url": "https://www.convittocorreggio.edu.it/circolare/page/91/"
+    },
+    {
+      "date": "10 dicembre 2026",
+      "id": "4720f74e8623525e0696",
+      "number": "",
+      "title": "92",
+      "url": "https://www.convittocorreggio.edu.it/circolare/page/92/"
     }
   ],
   "seen_ids": [
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "b3c9a420d9ca2dbeeef2",
+    "dcae3ec9335b73c4848f",
+    "4d1763075c34a9b7baae",
     "ccb56d7032d216aa6fbe",
     "98912458f300c39a720f",
     "b5a9ed4ffa612fae1bcb",
@@ -140,14 +143,15 @@
     "b95001e5bb25de726bb4",
     "9e365a8c23cf1b79edae",
     "7390029d4506da33dd30",
+    "f644c01aa52b628ff81a",
+    "9b764765971a1e33e24d",
+    "cb6c29c03c7bb679eefb",
+    "16e00da5b31e521496e7",
+    "4720f74e8623525e0696",
     "857ca7ddcfe670e0c2b0",
     "fbc4d115e49a2c70960f",
     "1811b7e676e67e309ec8",
-    "f644c01aa52b628ff81a",
-    "9b764765971a1e33e24d",
     "008718c11aef0e33d00e",
-    "cb6c29c03c7bb679eefb",
-    "16e00da5b31e521496e7",
     "85dbdd43e610f9f0f1e5",
     "d2b3d7794dde24a4ad4a",
     "5a7a414d89c8852e9758",
