@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at_utc": "2026-11-25T13:26:09+00:00",
+  "last_checked_at_utc": "2026-11-25T22:38:41+00:00",
   "latest_items": [
     {
       "date": "10 dicembre 2026",
@@ -22,6 +22,13 @@
       "number": "",
       "title": "IeFP – Progetto “Accoglienza” per le classi prime del Polo Professionale",
       "url": "https://www.convittocorreggio.edu.it/circolare/iefp-progetto-accoglienza-per-le-classi-prime-del-polo-professionale-2/"
+    },
+    {
+      "date": "10 dicembre 2026",
+      "id": "3eb5c8c543db1a3bc739",
+      "number": "",
+      "title": "2026 25 Nov circ. n.142 Incontro formativo “What Europe Does for You” – Cosa fa per me l’Europa Incontro formativo “What Europe Does for You” - Cosa fa per me l’Europa (pubblicazione privacy).",
+      "url": "https://www.convittocorreggio.edu.it/circolare/incontro-formativo-what-europe-does-for-you-cosa-fa-per-me-leuropa-2/"
     },
     {
       "date": "10 dicembre 2026",
@@ -88,13 +95,6 @@
     },
     {
       "date": "10 dicembre 2026",
-      "id": "7390029d4506da33dd30",
-      "number": "",
-      "title": "2026 17 Nov circ. n.124 Azione di prevenzione e contrasto Cyberbullismo – progetto di rete Empathy Compass L.234/2021 azione di prevenzione e contrasto Cyberbullismo – progetto di rete Empathy Compass L.234/2021 edizione 2026 - Incontri classi prime Polo secondaria 2°",
-      "url": "https://www.convittocorreggio.edu.it/circolare/azione-di-prevenzione-e-contrasto-cyberbullismo-progetto-di-rete-empathy-compass-l-234-2021/"
-    },
-    {
-      "date": "10 dicembre 2026",
       "id": "f644c01aa52b628ff81a",
       "number": "",
       "title": "2",
@@ -133,6 +133,7 @@
     "b8c0fbc622317f39e834",
     "040394c0e5c931209e31",
     "7d309ce5bfb6c96b6656",
+    "3eb5c8c543db1a3bc739",
     "b3c9a420d9ca2dbeeef2",
     "dcae3ec9335b73c4848f",
     "4d1763075c34a9b7baae",
@@ -142,12 +143,12 @@
     "b1e5377667043ecd1cc7",
     "b95001e5bb25de726bb4",
     "9e365a8c23cf1b79edae",
-    "7390029d4506da33dd30",
     "f644c01aa52b628ff81a",
     "9b764765971a1e33e24d",
     "cb6c29c03c7bb679eefb",
     "16e00da5b31e521496e7",
     "4720f74e8623525e0696",
+    "7390029d4506da33dd30",
     "857ca7ddcfe670e0c2b0",
     "fbc4d115e49a2c70960f",
     "1811b7e676e67e309ec8",
