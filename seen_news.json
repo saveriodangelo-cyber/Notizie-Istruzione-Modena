@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-25T04:07:06+00:00"
+    "last_checked_at_utc": "2026-11-25T14:20:33+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "25 Novembre 2026 25 Novembre 2026",
+        "id": "ec1534e78a5e622b",
+        "title": "Orientamento verso la Secondaria del 26-10-2026 – Materiali",
+        "url": "https://re.istruzioneer.gov.it/2026/11/25/orientamento-verso-la-secondaria-del-26-10-2026-materiali/"
+      },
+      {
         "date": "18 Novembre 2026",
         "id": "04fd398fb9f3fa96",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – DICIANNOVESIMA FASE",
@@ -245,15 +251,10 @@
         "id": "59d3b5d141c15da6",
         "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – TREDICESIMA FASE",
         "url": "https://re.istruzioneer.gov.it/2026/10/22/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-tredicesima-fase/"
-      },
-      {
-        "date": "20 Ottobre 2026",
-        "id": "7abb539c69adcd01",
-        "title": "DIRIGENTI SCOLASTICI – AVVISO PUBBLICO DI INTERPELLO – I.C. Kennedy della provincia di Reggio Emilia",
-        "url": "https://re.istruzioneer.gov.it/2026/10/20/dirigenti-scolastici-avviso-pubblico-di-interpello-i-c-kennedy-della-provincia-di-reggio-emilia/"
       }
     ],
     "seen_ids": [
+      "ec1534e78a5e622b",
       "04fd398fb9f3fa96",
       "cc878bcd88c7e624",
       "0ecf3529fac03455",
@@ -371,6 +372,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "25 Novembre 2026",
+        "id": "b8577bbe593143ed",
+        "title": "D.D.G. 2939/2025 – concorso docenti GM AS48 – scorrimento",
+        "url": "https://www.istruzioneer.gov.it/2026/11/25/d-d-g-2939-2025-concorso-docenti-gm-as48-scorrimento-2/"
+      },
+      {
         "date": "24 Novembre 2026",
         "id": "05ba939354fe9a5b",
         "title": "Provvidenze concesse nel 2026 per eventi anno 2025",
@@ -423,15 +430,10 @@
         "id": "48920175863d9de1",
         "title": "“Un consulente in famiglia” – FSL con Agenzia delle Entrate a.s. 2026-27_Esiti",
         "url": "https://www.istruzioneer.gov.it/2026/11/17/un-consulente-in-famiglia-fsl-con-agenzia-delle-entrate-a-s-2026-27_esiti/"
-      },
-      {
-        "date": "16 Novembre 2026 16 Novembre 2026",
-        "id": "c0f9be7c68aaea5c",
-        "title": "Verso il Piano Triennale dello Sport 2027-2029: ricerca per studenti E-R",
-        "url": "https://www.istruzioneer.gov.it/2026/11/16/verso-il-piano-triennale-dello-sport-2027-2029-ricerca-per-studenti-dellemilia/"
       }
     ],
     "seen_ids": [
+      "b8577bbe593143ed",
       "05ba939354fe9a5b",
       "fe96a54b37a9d54c",
       "e9b763b9fdca1aef",
@@ -630,8 +632,7 @@
       "68abf5f3d8a71c42",
       "8d912e6539b7aad4",
       "fc41710358e01c7a",
-      "be2dbb666951b212",
-      "b719a11bab9caf27"
+      "be2dbb666951b212"
     ]
   }
 }
