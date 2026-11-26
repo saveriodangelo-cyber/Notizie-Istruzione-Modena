@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-25T23:16:53+00:00"
+    "last_checked_at_utc": "2026-11-26T05:25:35+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -372,6 +372,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "26 Novembre 2026 26 Novembre 2026",
+        "id": "d9147716fb676fa9",
+        "title": "Disposto e nota USRER Scuole accreditate-accoglienza dei tirocinanti a.s.2026/27",
+        "url": "https://www.istruzioneer.gov.it/2026/11/26/disposto-e-nota-usrer-scuole-accreditate-accoglienza-dei-tirocinanti-a-s-2026-27/"
+      },
+      {
         "date": "25 Novembre 2026",
         "id": "b8577bbe593143ed",
         "title": "D.D.G. 2939/2025 – concorso docenti GM AS48 – scorrimento",
@@ -424,15 +430,10 @@
         "id": "59a4ac93a4746502",
         "title": "Formazione Dirigenti Scolastici a.s. 2026-27 “M.I.E.L.E. 4” – iscrizioni",
         "url": "https://www.istruzioneer.gov.it/2026/11/17/formazione-dirigenti-scolastici-a-s-2026-27-m-i-e-l-e-4-iscrizioni/"
-      },
-      {
-        "date": "17 Novembre 2026",
-        "id": "48920175863d9de1",
-        "title": "“Un consulente in famiglia” – FSL con Agenzia delle Entrate a.s. 2026-27_Esiti",
-        "url": "https://www.istruzioneer.gov.it/2026/11/17/un-consulente-in-famiglia-fsl-con-agenzia-delle-entrate-a-s-2026-27_esiti/"
       }
     ],
     "seen_ids": [
+      "d9147716fb676fa9",
       "b8577bbe593143ed",
       "05ba939354fe9a5b",
       "fe96a54b37a9d54c",
@@ -631,8 +632,7 @@
       "b191d9d467309af2",
       "68abf5f3d8a71c42",
       "8d912e6539b7aad4",
-      "fc41710358e01c7a",
-      "be2dbb666951b212"
+      "fc41710358e01c7a"
     ]
   }
 }
