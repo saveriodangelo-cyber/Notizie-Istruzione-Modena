@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-27T09:01:48+00:00"
+    "last_checked_at_utc": "2026-11-27T18:53:34+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -133,6 +133,12 @@
   "https://re.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "27 Novembre 2026",
+        "id": "f4a0d8905d2a33a9",
+        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – VENTESIMA FASE",
+        "url": "https://re.istruzioneer.gov.it/2026/11/27/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-ventesima-fase/"
+      },
+      {
         "date": "25 Novembre 2026 25 Novembre 2026",
         "id": "ec1534e78a5e622b",
         "title": "Orientamento verso la Secondaria del 26-10-2026 – Materiali",
@@ -245,15 +251,10 @@
         "id": "9df0f07e84d3772b",
         "title": "D.D.G. 2939/2025 PUBBLICAZIONE GM AS12 A011 A013 A046 AM2A AM30 AM48 A050- integrazione",
         "url": "https://re.istruzioneer.gov.it/2026/10/01/d-d-g-2939-2025-pubblicazione-gm-as12-a011-a013-a046-am2a-am30-am48-a050-integrazione/"
-      },
-      {
-        "date": "22 Ottobre 2026",
-        "id": "59d3b5d141c15da6",
-        "title": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – TREDICESIMA FASE",
-        "url": "https://re.istruzioneer.gov.it/2026/10/22/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-tredicesima-fase/"
       }
     ],
     "seen_ids": [
+      "f4a0d8905d2a33a9",
       "ec1534e78a5e622b",
       "04fd398fb9f3fa96",
       "cc878bcd88c7e624",
@@ -372,6 +373,12 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
+        "date": "27 Novembre 2026 27 Novembre 2026",
+        "id": "15630d8795daba7b",
+        "title": "Verso il Piano Triennale dello Sport 2027-2029: ricerca per studenti E-R",
+        "url": "https://www.istruzioneer.gov.it/2026/11/27/verso-il-piano-triennale-dello-sport-2027-2029-ricerca-per-studenti-dellemilia/"
+      },
+      {
         "date": "26 Novembre 2026 26 Novembre 2026",
         "id": "d9147716fb676fa9",
         "title": "Disposto e nota USRER Scuole accreditate-accoglienza dei tirocinanti a.s.2026/27",
@@ -424,15 +431,10 @@
         "id": "35340d25f2e1de0c",
         "title": "Avviso procedura per il conferimento di incarico dirigenziale non generale",
         "url": "https://www.istruzioneer.gov.it/2026/11/18/avviso-procedura-per-il-conferimento-di-incarico-dirigenziale-non-generale-30/"
-      },
-      {
-        "date": "17 Novembre 2026",
-        "id": "59a4ac93a4746502",
-        "title": "Formazione Dirigenti Scolastici a.s. 2026-27 “M.I.E.L.E. 4” – iscrizioni",
-        "url": "https://www.istruzioneer.gov.it/2026/11/17/formazione-dirigenti-scolastici-a-s-2026-27-m-i-e-l-e-4-iscrizioni/"
       }
     ],
     "seen_ids": [
+      "15630d8795daba7b",
       "d9147716fb676fa9",
       "b8577bbe593143ed",
       "05ba939354fe9a5b",
@@ -631,8 +633,7 @@
       "3fd0ebf367121703",
       "b191d9d467309af2",
       "68abf5f3d8a71c42",
-      "8d912e6539b7aad4",
-      "fc41710358e01c7a"
+      "8d912e6539b7aad4"
     ]
   }
 }
