@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "last_checked_at_utc": "2026-11-28T01:55:33+00:00"
+    "last_checked_at_utc": "2026-11-28T10:16:09+00:00"
   },
   "https://mo.istruzioneer.gov.it/": {
     "latest_items": [
@@ -373,12 +373,6 @@
   "https://www.istruzioneer.gov.it/": {
     "latest_items": [
       {
-        "date": "27 Novembre 2026 27 Novembre 2026",
-        "id": "15630d8795daba7b",
-        "title": "Verso il Piano Triennale dello Sport 2027-2029: ricerca per studenti E-R",
-        "url": "https://www.istruzioneer.gov.it/2026/11/27/verso-il-piano-triennale-dello-sport-2027-2029-ricerca-per-studenti-dellemilia/"
-      },
-      {
         "date": "26 Novembre 2026 26 Novembre 2026",
         "id": "d9147716fb676fa9",
         "title": "Disposto e nota USRER Scuole accreditate-accoglienza dei tirocinanti a.s.2026/27",
@@ -431,10 +425,15 @@
         "id": "35340d25f2e1de0c",
         "title": "Avviso procedura per il conferimento di incarico dirigenziale non generale",
         "url": "https://www.istruzioneer.gov.it/2026/11/18/avviso-procedura-per-il-conferimento-di-incarico-dirigenziale-non-generale-30/"
+      },
+      {
+        "date": "17 Novembre 2026",
+        "id": "59a4ac93a4746502",
+        "title": "Formazione Dirigenti Scolastici a.s. 2026-27 “M.I.E.L.E. 4” – iscrizioni",
+        "url": "https://www.istruzioneer.gov.it/2026/11/17/formazione-dirigenti-scolastici-a-s-2026-27-m-i-e-l-e-4-iscrizioni/"
       }
     ],
     "seen_ids": [
-      "15630d8795daba7b",
       "d9147716fb676fa9",
       "b8577bbe593143ed",
       "05ba939354fe9a5b",
@@ -445,6 +444,7 @@
       "fa9b6e46ea7e3128",
       "35340d25f2e1de0c",
       "59a4ac93a4746502",
+      "15630d8795daba7b",
       "48920175863d9de1",
       "c0f9be7c68aaea5c",
       "540efb0b7db15742",
